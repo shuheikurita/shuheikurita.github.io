@@ -1,4 +1,4 @@
-# Shuhei Kurita
+# Shuhei Kurita / 栗田修平
 
 ## Bio
 I’m Shuhei Kurita. I have received Ph.D. of Informatics from Kyoto University, March, 2019.
