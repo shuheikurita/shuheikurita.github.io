@@ -19,7 +19,7 @@ Reconstructing neuronal circuitry from parallel spike trains,
 Nature Communications volume 10, Article number: 4468 (2019).
 My contribution: Large-scale biological neural network simulation.
 
-### Conferences (Reviewed)
+### Conferences
 - Shuhei Kurita and Anders Søgaard
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019)
@@ -39,12 +39,7 @@ Long paper. *Selected as Out-standing Paper! **(2% of submissions)**
 Minimal time length of spike trains for the inference of connectivity
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-### Other Conferences and Workshops
-- Ryota Kobayashi, Shuhei Kurita, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto
-Testing statistical significance of synaptic connectivity,
-12th International Neural Coding Workshop, NC2016
-Cologne, Federal Republic of Germany, (August 2016).
-
+### Local Conferences and Workshops
 - 多細胞スパイクデータからシナプス結合を推定する技術の開発
 Neuro 2019, 新潟 (2019.7).
 Kobayashi R, Kurita S, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
@@ -59,12 +54,15 @@ Torino, Italia, (September 2018).
 - ニューラルネットワークに基づく単語分割・品詞付与・構文解析の統合解析
 言語処理学会第23回年次大会, つくば, (2017.3.13-17).
 栗田修平, 河原大輔, 黒橋禎夫
+- Ryota Kobayashi, Shuhei Kurita, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto
+Testing statistical significance of synaptic connectivity,
+12th International Neural Coding Workshop, NC2016
+Cologne, Federal Republic of Germany, (August 2016).
 - 神経回路シミュレーションデータを用いた結合推定
 日本物理学会第69回年次大会, 27pAJ-13, 神奈川,(2014.3).
 栗田修平, 小林亮太, 北野勝則, 篠本滋
 
 ## Invited Talks
-
 - 文解析における既存データセットの制約とそれを超える解析手法
 名古屋地区NLPセミナー(2019.05).
 栗田修平
