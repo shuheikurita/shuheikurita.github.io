@@ -9,6 +9,25 @@ My research interests are in Natural Language Processing (NLP), Machine Learning
 This page is still under construction. See my full CV and publications at: 
 [http://lotus.kuee.kyoto-u.ac.jp/~kurita/](http://lotus.kuee.kyoto-u.ac.jp/~kurita/)
 
+## News
+
+### 9, Jan., 2019
+Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working with Cho at NYU from this January. If you are at NYU or NY, I'm so happy to work with you. Feel free to reach me!
+
+### 2, Oct., 2019
+Our paper "Reconstructing neuronal circuitry from parallel spike trains" has been published from Nature Communications!
+Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto
+Thanks to co-authors!
+
+#### 14, May, 2019
+Our paper "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies," (Long)  has been accepted to ACL2019!
+Shuhei Kurita and Anders Søgaard
+
+#### 1, April, 2019
+I have received Ph.D. of Informatics from Kyoto University in March!
+Now I join the Center for Advanced Intelligence Project, RIKEN, Nihombashi, Tokyo with Prof. Satoshi Sekine.
+I am adapted to JST ACT-I Research Projects Acceleration Phase (2019.4-2021.3).
+
 ## Publications
 ### Journal / Preprints
 - Shuhei Kurita, Daisuke Kawahara and Sadao Kurohashi
