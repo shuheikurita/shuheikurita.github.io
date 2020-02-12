@@ -11,7 +11,7 @@ This page is **under construction**. See my full CV and publications at:
 
 ## News
 
-#### 9, Jan., 2019
+#### 9, Jan., 2020
 Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working with Cho at NYU from this January. If you are at NYU or NY, I'm so happy to work with you. Feel free to reach me!
 
 #### 2, Oct., 2019
