@@ -16,12 +16,10 @@ Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working wit
 
 #### 2, Oct., 2019
 Our paper "Reconstructing neuronal circuitry from parallel spike trains" has been published from Nature Communications!
-Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto
-Thanks to co-authors!
+Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto.
 
 #### 14, May, 2019
 Our paper "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies," (Long)  has been accepted to ACL2019!
-Shuhei Kurita and Anders Søgaard
 
 #### 1, April, 2019
 I have received Ph.D. of Informatics from Kyoto University in March!
