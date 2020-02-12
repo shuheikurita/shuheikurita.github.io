@@ -1,4 +1,4 @@
-# Shuhei Kurita ( ja: 栗田修平 )
+<!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
 ## Bio
 I’m Shuhei Kurita, researcher of NLP and Deep Learning at RIKEN AIP. I have received Ph.D. of Informatics from Kyoto University, March, 2019.
