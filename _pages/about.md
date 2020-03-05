@@ -19,7 +19,7 @@ My research interests are in Natural Language Processing (NLP), Machine Learning
 [Education](#Education)
 
 ## *IMPORTANT NOTE*
-This page is **under construction**. See my full CV and publications at: </br>
+This page is **under construction**. See my full CV and publications at: <br/>
 [http://lotus.kuee.kyoto-u.ac.jp/~kurita/](http://lotus.kuee.kyoto-u.ac.jp/~kurita/)
 
 ## News
