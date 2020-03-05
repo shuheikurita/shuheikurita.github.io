@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shuhei Kurita"
   avatar           : "profile.png"
-  bio              : "(ja: 栗田修平)"
+  bio              : "A resercher for NLU/ML/Neuroscience"
   location         : "RIKEN AIP, NYU"
-  employer         : "A resercher for NLU/ML/Neuroscience"
+  employer         : 
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=dTrXhvsAAAAJ&hl=en"
   email            :
