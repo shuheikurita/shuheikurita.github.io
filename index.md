@@ -5,6 +5,9 @@ I’m Shuhei Kurita, researcher of NLP and Deep Learning at RIKEN AIP. I have re
 Now I’m working for RIKEN Center for Advanced Intelligence Project aka RIKEN AIP  (Satoshi Sekine PI), Tokyo, Japan.
 My research interests are in Natural Language Processing (NLP), Machine Learning, Neural Networks, Neuroscience, and Statistical and Computational Physics. Currently, my most work has been done with neural networks and deep learning.
 
+[Publications](#Publications)
+[Education](#Education)
+
 ## See also
 This page is **under construction**. See my full CV and publications at: 
 [http://lotus.kuee.kyoto-u.ac.jp/~kurita/](http://lotus.kuee.kyoto-u.ac.jp/~kurita/)
@@ -26,7 +29,7 @@ I have received Ph.D. of Informatics from Kyoto University in March!
 Now I join the Center for Advanced Intelligence Project, RIKEN, Nihombashi, Tokyo with Prof. Satoshi Sekine.
 I am adapted to JST ACT-I Research Projects Acceleration Phase (2019.4-2021.3).
 
-## Publications
+## Publications (#Publications)
 ### Journal / Preprints
 - Shuhei Kurita, Daisuke Kawahara and Sadao Kurohashi<br/>
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
