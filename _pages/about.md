@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+(ja: 栗田修平)
 <!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
 ## Bio
