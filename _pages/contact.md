@@ -3,6 +3,9 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Feel free to contact me.
+
+{% include base_path %}
+
+*Feel free to contact me.*
 
 shuhei.kurita at reken.jp

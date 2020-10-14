@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Publications
 ### Journal / Preprints
 - Shuhei Kurita, Daisuke Kawahara and Sadao Kurohashi<br/>
@@ -56,3 +58,11 @@ Cologne, Federal Republic of Germany, (August 2016).
 - 神経回路シミュレーションデータを用いた結合推定<br/>
 日本物理学会第69回年次大会, 27pAJ-13, 神奈川,(2014.3).<br/>
 栗田修平, 小林亮太, 北野勝則, 篠本滋
+
+## Invited Talks
+- 文解析における既存データセットの制約とそれを超える解析手法<br/>
+名古屋地区NLPセミナー(2019.05).<br/>
+栗田修平
+- 自然言語処理の既存データセットの制約を超えた文の解析手法<br/>
+理化学研究所AIP (2019.02).<br/>
+栗田修平
