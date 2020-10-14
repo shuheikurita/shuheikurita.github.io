@@ -16,7 +16,7 @@ Now I’m working for RIKEN Center for Advanced Intelligence Project *aka RIKEN 
 My research interests are in Natural Language Processing (NLP), Deep Reinforcement Learning, Neural Networks, Neuroscience, and Statistical and Computational Physics. Nowadays I have a keen interest in deep learning via virtual environments such as *vision-and-language navigation*.
 
 <p>
-Contact: <img src="contact.png" alt="contact.png" title="contact" width="33%" height="33%">
+Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
 </p>
 
 ## News
