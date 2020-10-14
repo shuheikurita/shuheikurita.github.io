@@ -21,6 +21,10 @@ Nature Communications volume 10, Article number: 4468 (2019).<br/>
 My contribution: Large-scale biological neural network simulation.
 
 ## Conferences
+- <u>Shuhei Kurita</u> and Kyunghyun Cho,
+Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,
+ICML 2020 Workshop on Learning in Artificial Open Worlds, ICML LAOW2020,
+Online (July 2020). [link](https://sites.google.com/view/icml-laow2020/home)
 - <u>Shuhei Kurita</u> and Anders Søgaard<br/>
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019)<br/>
@@ -40,7 +44,7 @@ Long paper. [paper](https://www.aclweb.org/anthology/P17-1111/) *Selected as Out
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-## Local Conferences and Workshops
+## Local Conferences
 - 多細胞スパイクデータからシナプス結合を推定する技術の開発<br/>
 Neuro 2019, 新潟 (2019.7).<br/>
 Kobayashi R, Kurita S, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
