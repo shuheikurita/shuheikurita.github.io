@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Feel free to contact me if you need a full cv (pdf).
+
 ## Education
 
 * 2009/04 – 2013/03
