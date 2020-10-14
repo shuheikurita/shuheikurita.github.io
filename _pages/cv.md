@@ -30,9 +30,10 @@ Feel free to contact me if you need a full cv (pdf).
 
 - 2015/03 – 2019/03
 Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
-“Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
+  - “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
 - 2019/04-
-Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN with Prof. Satoshi Sekine.
+Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN
+  - with Prof. Satoshi Sekine.
 
 # Teaching experience
 
@@ -66,3 +67,5 @@ Switzerland (2017).
 # Talks & Activities
 
 - Talk on the international conference review about ACL2017, YANS 2017, Okinawa, Japan (September 2017).
+
+See [invited talks](/publications/## Invited Talks) in the publication page.
