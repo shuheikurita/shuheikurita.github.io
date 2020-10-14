@@ -15,12 +15,6 @@ I’m Shuhei Kurita, a researcher in NLU and Deep Learning at RIKEN AIP. I have 
 Now I’m working for RIKEN Center for Advanced Intelligence Project aka RIKEN AIP  (Satoshi Sekine PI), Tokyo, Japan.
 My research interests are in Natural Language Processing (NLP), Machine Learning, Neural Networks, Neuroscience, and Statistical and Computational Physics. Currently, my most work has been done with neural networks and deep learning.
 
-
-
-## *IMPORTANT NOTE*
-This page is **under construction**. See my full CV and publications at: <br/>
-[http://lotus.kuee.kyoto-u.ac.jp/~kurita/](http://lotus.kuee.kyoto-u.ac.jp/~kurita/)
-
 ## News
 
 ### 16, Seq., 2020
