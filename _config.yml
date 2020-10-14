@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shuhei Kurita"
   avatar           : "profile.png"
-  bio              : "A resercher for NLU/ML/Neuroscience"
+  bio              : "A resercher in NLU/ML/Neuroscience"
   location         : "RIKEN AIP, NYU"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -227,23 +227,32 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _contact
   - scope:
       path: ""
-      type: portfolio
+      type: contact
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
+  # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
