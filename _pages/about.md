@@ -23,16 +23,17 @@ This page is **under construction**. See my full CV and publications at: <br/>
 
 ## News
 
-### 9, Jan., 2020
+### 16, Seq., 2020
 We post the latest manuscript for vision-and-language navigation on arXiv with Prof. Kyunghyun Cho!
-*Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule*
-(https://arxiv.org/abs/2009.07783)[https://arxiv.org/abs/2009.07783]
+**Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule**
+Shuhei Kurita and Kyunghyun Cho
+[https://arxiv.org/abs/2009.07783](https://arxiv.org/abs/2009.07783)
 
 ### 9, Jan., 2020
 Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working with Cho at NYU from this January. If you are at NYU or NY, I'm so happy to work with you. Feel free to reach me!
 
 ### 2, Oct., 2019
-Our paper "Reconstructing neuronal circuitry from parallel spike trains" has been published from Nature Communications!
+Our paper "**Reconstructing neuronal circuitry from parallel spike trains**" has been published from Nature Communications!
 Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto.
 [https://www.nature.com/articles/s41467-019-12225-2](https://www.nature.com/articles/s41467-019-12225-2)
 
