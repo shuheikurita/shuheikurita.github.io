@@ -20,7 +20,7 @@ Feel free to contact me if you need a full cv (pdf).
   * Master of Science, Graduate School of Physics, Kyoto University.
   - Statistical and Computational Physics, Neural Networks.
   - (Supervisor: Dr. Shigeru Shinomoto)
-- 2015/04 -2019/03 (expected)
+- 2015/04 -2019/03
   - Doctoral Course of Informatics, Graduate School of Informatics, Kyoto University.
   - Nature Language Processing with Neural Networks.
   - (Supervisor: Dr. Sadao Kurohashi)
