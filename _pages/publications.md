@@ -39,7 +39,7 @@ Long paper. [paper](https://www.aclweb.org/anthology/P18-1044/)
 - <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), Vancouver, Canada, (July 2017).<br/>
-Long paper. [paper](https://www.aclweb.org/anthology/P17-1111/) *Selected as Out-standing Paper! **(2% of submissions)**
+Long paper. [paper](https://www.aclweb.org/anthology/P17-1111/) **Selected as Out-standing Paper! (2% of submissions)**
 - <u>S. Kurita</u>, Y. Yamanaka, R. Kobayashi, K. Kitano and S. Shinomoto<br/>
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
