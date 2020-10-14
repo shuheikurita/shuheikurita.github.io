@@ -55,7 +55,7 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 ## Local Conferences
 - 多細胞スパイクデータからシナプス結合を推定する技術の開発<br/>
 Neuro 2019, 新潟 (2019.7).<br/>
-Kobayashi R, Kurita S, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
+Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
 - 深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する<br/>
 言語処理学会第25回年次大会, 名古屋, (2019.3.11-15).<br/>
 <u>栗田修平</u>, Anders Søgaard
