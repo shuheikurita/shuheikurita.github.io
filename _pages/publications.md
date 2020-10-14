@@ -6,8 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
-### Journal / Preprints
+## Preprints
+Shuhei Kurita and Kyunghyun Cho
+Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
+[arXiv](https://arxiv.org/abs/2009.07783)<br/>
+arXiv, (Sep 2020)
+
+## Journal
 - Shuhei Kurita, Daisuke Kawahara and Sadao Kurohashi<br/>
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
 Natural Language Processing (in Japan),  Vol.26,  No.1, 231-258,  (2019.3).
@@ -16,11 +21,11 @@ Reconstructing neuronal circuitry from parallel spike trains,<br/>
 Nature Communications volume 10, Article number: 4468 (2019).<br/>
 My contribution: Large-scale biological neural network simulation.
 
-### Conferences
+## Conferences
 - Shuhei Kurita and Anders Søgaard<br/>
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019)<br/>
-Long paper. [code][arXiv]
+Long paper. [code](https://github.com/shuheikurita/semrl)[arXiv](https://arxiv.org/abs/1906.01239)
 - R. Kobayashi, S. Kurita, K. Kitano, K. Mizuseki, Barry J. Richmond and S. Shinomoto<br/>
 Estimating synaptic connections from parallel spike trains<br/>
 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, (October 2018).
@@ -36,7 +41,7 @@ Long paper. *Selected as Out-standing Paper! **(2% of submissions)**
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-### Local Conferences and Workshops
+## Local Conferences and Workshops
 - 多細胞スパイクデータからシナプス結合を推定する技術の開発<br/>
 Neuro 2019, 新潟 (2019.7).<br/>
 Kobayashi R, Kurita S, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
@@ -66,3 +71,6 @@ Cologne, Federal Republic of Germany, (August 2016).
 - 自然言語処理の既存データセットの制約を超えた文の解析手法<br/>
 理化学研究所AIP (2019.02).<br/>
 栗田修平
+- Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
+Google NLP Summit, Zurich, Switzerland (2017).<br/>
+Shuhei Kurita
