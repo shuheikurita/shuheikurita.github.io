@@ -11,17 +11,17 @@ redirect_from:
 
 ## Education
 
-- 2009/04 – 2013/03
- - Bachelor of Science, Kyoto University.
- - Physics Course.
-- 2013/04 – 2015/03
- - Master of Science, Graduate School of Physics, Kyoto University.
- - Statistical and Computational Physics, Neural Networks.
- - (Supervisor: Dr. Shigeru Shinomoto)
+* 2009/04 – 2013/03
+  * Bachelor of Science, Kyoto University.
+  * Physics Course.
+* 2013/04 – 2015/03
+  * Master of Science, Graduate School of Physics, Kyoto University.
+  - Statistical and Computational Physics, Neural Networks.
+  - (Supervisor: Dr. Shigeru Shinomoto)
 - 2015/04 -2019/03 (expected)
- - Doctoral Course of Informatics, Graduate School of Informatics, Kyoto University.
- - Nature Language Processing with Neural Networks.
- - (Supervisor: Dr. Sadao Kurohashi)
+  - Doctoral Course of Informatics, Graduate School of Informatics, Kyoto University.
+  - Nature Language Processing with Neural Networks.
+  - (Supervisor: Dr. Sadao Kurohashi)
 
 
 ## Professional experience
