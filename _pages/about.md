@@ -11,7 +11,7 @@ redirect_from:
 <!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
 ## Bio
-I’m Shuhei Kurita, researcher of NLP and Deep Learning at RIKEN AIP. I have received Ph.D. of Informatics from Kyoto University, March, 2019.
+I’m Shuhei Kurita, a researcher in NLU and Deep Learning at RIKEN AIP. I have received Ph.D. of Informatics from Kyoto University on March, 2019.
 Now I’m working for RIKEN Center for Advanced Intelligence Project aka RIKEN AIP  (Satoshi Sekine PI), Tokyo, Japan.
 My research interests are in Natural Language Processing (NLP), Machine Learning, Neural Networks, Neuroscience, and Statistical and Computational Physics. Currently, my most work has been done with neural networks and deep learning.
 
@@ -39,9 +39,10 @@ Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Ma
 
 ### 14, May, 2019
 Our paper "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies," (Long)  has been accepted to ACL2019!
+[https://www.aclweb.org/anthology/P19-1232/](https://www.aclweb.org/anthology/P19-1232/)
 
 ### 1, April, 2019
-I have received Ph.D. of Informatics from Kyoto University in March!
+I received Ph.D. of Informatics from Kyoto University on March 25, 2019!
 Now I join the Center for Advanced Intelligence Project, RIKEN, Nihombashi, Tokyo with Prof. Satoshi Sekine.
 I am adapted to JST ACT-I Research Projects Acceleration Phase (2019.4-2021.3).
 
