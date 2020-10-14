@@ -17,7 +17,7 @@ My research interests are in Natural Language Processing (NLP), Deep Reinforceme
 
 ## News
 
-### 16, Seq., 2020
+### 16, Sep., 2020
 We post the latest manuscript for vision-and-language navigation on arXiv with Prof. Kyunghyun Cho!
 **Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule**
 Shuhei Kurita and Kyunghyun Cho
