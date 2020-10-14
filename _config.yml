@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuhei Kurita"
+title                    : ""
 title_separator          : ""
 name                     : &name "Shuhei Kurita"
 description              : &description "personal description"
