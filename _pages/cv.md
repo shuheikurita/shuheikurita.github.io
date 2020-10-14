@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Feel free to contact me if you need a full cv (pdf).
+Feel free to contact me for a full cv (pdf).
 
 ## Education
 
