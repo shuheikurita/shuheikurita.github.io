@@ -19,8 +19,8 @@ My research interests are in Natural Language Processing (NLP), Deep Reinforceme
 
 ### 16, Sep., 2020
 We post the latest manuscript for vision-and-language navigation on arXiv with Prof. Kyunghyun Cho!
-**Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule**
-Shuhei Kurita and Kyunghyun Cho
+**Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule**<br/>
+Shuhei Kurita and Kyunghyun Cho<br/>
 [https://arxiv.org/abs/2009.07783](https://arxiv.org/abs/2009.07783)
 
 ### 9, Jan., 2020
@@ -28,11 +28,11 @@ Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working wit
 
 ### 2, Oct., 2019
 Our paper "**Reconstructing neuronal circuitry from parallel spike trains**" has been published from Nature Communications!
-Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto.
+Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto.<br/>
 [https://www.nature.com/articles/s41467-019-12225-2](https://www.nature.com/articles/s41467-019-12225-2)
 
 ### 14, May, 2019
-Our paper "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies," (Long)  has been accepted to ACL2019!
+Our paper "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies," (Long)  has been accepted to ACL2019!<br/>
 [https://www.aclweb.org/anthology/P19-1232/](https://www.aclweb.org/anthology/P19-1232/)
 
 ### 1, April, 2019
