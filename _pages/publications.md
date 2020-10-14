@@ -9,8 +9,7 @@ author_profile: true
 ## Preprints
 - <u>Shuhei Kurita</u> and Kyunghyun Cho
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
-[arXiv](https://arxiv.org/abs/2009.07783)<br/>
-arXiv, (Sep 2020)
+[arXiv](https://arxiv.org/abs/2009.07783) (Sep 2020)
 
 ## Journal
 - <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi<br/>
