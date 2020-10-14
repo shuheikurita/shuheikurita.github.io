@@ -6,6 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-*Feel free to contact me.*
+Feel free to contact me.
 
 shuhei.kurita at reken.jp
