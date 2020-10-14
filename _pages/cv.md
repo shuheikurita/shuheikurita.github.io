@@ -35,7 +35,7 @@ Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto U
 Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN
   - with Prof. Satoshi Sekine.
 
-# Teaching experience
+## Teaching experience
 
 - 2014/10 – 2015/03
 Modern Physics (TA)
@@ -51,21 +51,20 @@ Including face-to-face lectures of programming languages.
 Physics Experiments (TA)
 Including face-to-face lectures.
 
-# Honors & Awards
+## Honors & Awards
 
 - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
 - Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
 - Outstanding papers in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
 
-# Grants & Fellowships
+## Grants & Fellowships
 
 - JST ACT-I Research Projects Grant Acceleration Phase (2019.4-2021.3).
 - JST ACT-I Research Projects Grant (2017.10-2019.3).
 - Invited to Google NLP Summit for Ph.D students and PostDocs, Zurich,
 Switzerland (2017).
 
-# Talks & Activities
-
-- Talk on the international conference review about ACL2017, YANS 2017, Okinawa, Japan (September 2017).
+## Talks & Activities
 
 See [invited talks](/publications/##Invited Talks) in the publication page.
+- Talk on the international conference review about ACL2017, YANS 2017, Okinawa, Japan (September 2017).
