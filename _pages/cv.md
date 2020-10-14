@@ -21,7 +21,7 @@ Feel free to contact me if you need a full cv (pdf).
   - Statistical and Computational Physics, Neural Networks.
   - Supervisor: Dr. Shigeru Shinomoto
 - 2015/04 -2019/03
-  - Doctoral Course of Informatics, Graduate School of Informatics, Kyoto University.
+  - Ph.D. of Informatics, Graduate School of Informatics, Kyoto University.
   - Thesis: "Neural Approaches for Syntactic and Semantic Analysis"
   - Supervisor: Dr. Sadao Kurohashi
 
