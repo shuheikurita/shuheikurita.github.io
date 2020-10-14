@@ -48,7 +48,7 @@ Long paper. [paper](https://www.aclweb.org/anthology/P17-1111/) **Selected as Ou
 Testing statistical significance of synaptic connectivity,<br/>
 12th International Neural Coding Workshop, NC2016<br/>
 Cologne, Federal Republic of Germany, (August 2016).
-- <u>S. Kurita</u>, Y. Yamanaka, R. Kobayashi, K. Kitano and S. Shinomoto<br/>
+- <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto<br/>
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
