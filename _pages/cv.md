@@ -19,11 +19,11 @@ Feel free to contact me for a full cv (pdf).
 * 2013/04 – 2015/03
   * Master of Science, Graduate School of Physics, Kyoto University.
   - Statistical and Computational Physics, Neural Networks.
-  - Supervisor: Dr. Shigeru Shinomoto
+  - Supervisor: Prof. Shigeru Shinomoto
 - 2015/04 -2019/03
   - Ph.D. of Informatics, Graduate School of Informatics, Kyoto University.
   - Thesis: "Neural Approaches for Syntactic and Semantic Analysis"
-  - Supervisor: Dr. Sadao Kurohashi
+  - Supervisor: Prof. Sadao Kurohashi
 
 
 ## Professional experience
@@ -31,9 +31,11 @@ Feel free to contact me for a full cv (pdf).
 - 2015/03 – 2019/03
 Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
   - “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
-- 2019/04-
-Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN
+- 2019/04 -
+Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
   - with Prof. Satoshi Sekine.
+- 2020/12 -
+Researcher in PRESTO "Reliable AI", JST.
 
 ## Teaching experience
 
@@ -55,16 +57,16 @@ Including face-to-face lectures.
 
 - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
 - Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
-- Outstanding papers in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
+- Outstanding paper in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
 
 ## Grants & Fellowships
 
+- JST PRESTO Research Projects Grant (2020.12-).
 - JST ACT-I Research Projects Grant Acceleration Phase (2019.4-2021.3).
 - JST ACT-I Research Projects Grant (2017.10-2019.3).
-- Invited to Google NLP Summit for Ph.D students and PostDocs, Zurich,
-Switzerland (2017).
+- Invited to Google NLP Summit for Ph.D students and PostDocs, Zurich, Switzerland (2017).
 
 ## Talks & Activities
 
 See [invited talks](/publications/##Invited Talks) in the publication page.
-- Talk on the international conference review about ACL2017, YANS 2017, Okinawa, Japan (September 2017).
+- Review talk on the international conference of ACL2017, YANS 2017, Okinawa, Japan (September 2017).
