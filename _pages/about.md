@@ -24,7 +24,7 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ### 24, Nov., 2020
 I am selected as a JST PRESTO "Reliable AI" researcher from December! <br/>
-(~3.5 years, ~40k yens.)<br/>
+(~3.5 years, ~40M yens.)<br/>
 I will delightedly work with many researchers in and out of PRESTO!
 
 ### 16, Sep., 2020
