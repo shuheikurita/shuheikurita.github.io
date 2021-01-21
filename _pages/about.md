@@ -25,7 +25,7 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 ### 12, Jan., 2020
 Our paper at NYU visiting with Prof. Kyunghyun Cho is accepted to ICLR2021!<br/>
 Shuhei Kurita and Kyunghyun Cho<br/>
-Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule. [arXiv](https://arxiv.org/abs/2009.07783) 
+Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule. [OpenReview](https://openreview.net/forum?id=45uOPa46Kh) 
 
 ### 24, Nov., 2020
 I am selected as a JST PRESTO "Reliable AI" researcher from December! <br/>
