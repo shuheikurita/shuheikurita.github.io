@@ -32,12 +32,6 @@ I am selected as a JST PRESTO "Reliable AI" researcher from December! <br/>
 (~3.5 years, ~40M yens.)<br/>
 I will delightedly work with many researchers in and out of PRESTO!
 
-### 16, Sep., 2020
-We post the latest manuscript for vision-and-language navigation on arXiv with Prof. Kyunghyun Cho!
-"**Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule**"<br/>
-Shuhei Kurita and Kyunghyun Cho<br/>
-[https://arxiv.org/abs/2009.07783](https://arxiv.org/abs/2009.07783)
-
 ### 9, Jan., 2020
 Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working with Cho at NYU from this January. If you are at NYU or NY, I'm so happy to work with you. Feel free to reach me!
 
