@@ -6,11 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints
-- <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
-Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
-[arXiv](https://arxiv.org/abs/2009.07783) (Sep. 2020)
-
 ## Journal
 - <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi<br/>
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
@@ -21,6 +16,9 @@ Nature Communications volume 10, Article number: 4468 (2019).<br/>
 My contribution: Large-scale biological neural network simulation.
 
 ## Conferences
+- <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
+Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
+ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783) 
 - <u>Shuhei Kurita</u> and Kyunghyun Cho,
 Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,
 ICML 2020 Workshop on Learning in Artificial Open Worlds, ICML LAOW2020,
