@@ -18,7 +18,7 @@ My contribution: Large-scale biological neural network simulation.
 ## Conferences
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
-ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783) 
+ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783), [OpenReview](https://openreview.net/forum?id=45uOPa46Kh).
 - <u>Shuhei Kurita</u> and Kyunghyun Cho,
 Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,
 ICML 2020 Workshop on Learning in Artificial Open Worlds, ICML LAOW2020,
