@@ -12,13 +12,13 @@ Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
 Natural Language Processing (in Japan),  Vol.26,  No.1, 231-258,  (2019.3).
 - Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto<br/>
 Reconstructing neuronal circuitry from parallel spike trains,<br/>
-Nature Communications volume 10, Article number: 4468 (2019).<br/>
+Nature Communications volume 10, Article number: 4468 (2019).[paper](https://www.nature.com/articles/s41467-019-12225-2)<br/>
 My contribution: Large-scale biological neural network simulation.
 
 ## Conferences
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
-ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783), [OpenReview](https://openreview.net/forum?id=45uOPa46Kh).
+Ninth International Conference on Learning Representations, ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783). [OpenReview](https://openreview.net/forum?id=45uOPa46Kh)
 - <u>Shuhei Kurita</u> and Kyunghyun Cho,
 Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,
 ICML 2020 Workshop on Learning in Artificial Open Worlds, ICML LAOW2020,
