@@ -55,9 +55,9 @@ Including face-to-face lectures.
 
 ## Honors & Awards
 
-- Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
-- Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
-- Outstanding paper in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
+- 2020 Mar. - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
+- 2019 Mar. - Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
+- 2017 Aug. - Outstanding paper in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
 
 ## Grants & Fellowships
 
