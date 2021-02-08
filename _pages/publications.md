@@ -50,7 +50,7 @@ Cologne, Federal Republic of Germany, (August 2016).
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-## Workshops & Local Conferences
+## Local Conferences
 - Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法<br/>
 言語処理学会第26回年次大会, オンライン, (2020.3.16-19).<br/>
 中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡
