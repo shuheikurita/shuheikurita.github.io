@@ -13,7 +13,7 @@ redirect_from:
 ## Bio
 I’m Shuhei Kurita, a researcher in natural language understanding, vision-and-language, and neural networks.
 Now I’m working for RIKEN Center for Advanced Intelligence Project *aka RIKEN AIP*  (Satoshi Sekine PI), Tokyo, Japan.
-My research interests are in Natural Language Processing (NLP), Deep Reinforcement Learning, Neural Networks, Neuroscience, and Statistical and Computational Physics. Nowadays I have a keen interest in deep learning via virtual environments such as *vision-and-language navigation*.<br>
+My research interests are in Natural Language Processing (NLP), Deep Reinforcement Learning, Neural Networks, Neuroscience, and Statistical and Computational Physics. Nowadays I have a keen interest in deep learning via virtual environments such as [*vision-and-language navigation*](https://bringmeaspoon.org/).<br>
 Ph.D. of Informatics (Kyoto University) in March 2019.
 
 <p>
