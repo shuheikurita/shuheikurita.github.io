@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal
+## Journals
 - <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi<br/>
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
 Natural Language Processing (in Japan),  Vol.26,  No.1, 231-258,  (2019.3).
@@ -15,7 +15,7 @@ Reconstructing neuronal circuitry from parallel spike trains,<br/>
 Nature Communications volume 10, Article number: 4468 (2019). [paper](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
 
-## Conferences
+## Processdings
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
 Ninth International Conference on Learning Representations, ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783), [OpenReview](https://openreview.net/forum?id=45uOPa46Kh).
@@ -50,7 +50,7 @@ Cologne, Federal Republic of Germany, (August 2016).
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-## Local Conferences
+## Workshops & Local Conferences
 - Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法<br/>
 言語処理学会第26回年次大会, オンライン, (2020.3.16-19).<br/>
 中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡
