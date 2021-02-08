@@ -15,7 +15,7 @@ Reconstructing neuronal circuitry from parallel spike trains,<br/>
 Nature Communications volume 10, Article number: 4468 (2019). [paper](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
 
-## Processdings
+## Proceedings
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
 Ninth International Conference on Learning Representations, ICLR2021 (May 2021). To appear. [arXiv](https://arxiv.org/abs/2009.07783), [OpenReview](https://openreview.net/forum?id=45uOPa46Kh).
