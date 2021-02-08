@@ -56,5 +56,3 @@ I am adapted to JST ACT-I Research Projects Acceleration Phase (2019.4-2021.3).
 ## CV
 [CV](/cv/) <br/>
 
-## Old Website
-This is a new website imported from the old site [http://lotus.kuee.kyoto-u.ac.jp/~kurita/](http://lotus.kuee.kyoto-u.ac.jp/~kurita/) on Oct. 2020.
