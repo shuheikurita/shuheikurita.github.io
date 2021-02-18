@@ -29,7 +29,7 @@ Shuhei Kurita and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule. [OpenReview](https://openreview.net/forum?id=45uOPa46Kh) 
 
 ### 24, Nov., 2020
-I am selected as a JST PRESTO "Trustworthy AI" researcher from December! <br/>
+I am selected as a JST PRESTO "Trustworthy AI" reseach project member from December! <br/>
 (~3.5 years, ~40M yens.)<br/>
 I will delightedly work with many researchers in and out of PRESTO!
 
