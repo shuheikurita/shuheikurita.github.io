@@ -19,7 +19,7 @@ Feel free to contact me for a full cv (pdf).
 * 2013/04 – 2015/03
   * Master of Science, Graduate School of Physics, Kyoto University.
   - Statistical and Computational Physics, Neural Networks.
-  - Supervisor: Prof. Shigeru Shinomoto
+  - Supervisor: Assoc. Prof. Shigeru Shinomoto
 - 2015/04 -2019/03
   - Ph.D. of Informatics, Graduate School of Informatics, Kyoto University.
   - Thesis: "Neural Approaches for Syntactic and Semantic Analysis"
