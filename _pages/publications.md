@@ -51,6 +51,14 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 ## Local Conferences
+
+- 視覚と言語によるナビゲーション課題への言語に対応付けられた生成的な方策<br/>
+言語処理学会第27回年次大会, オンライン, (2021.3.16-19).<br/>
+<u>栗田修平</u>, Kyunghyun Cho
+**Selected as Committee Member's Special Award!**
+- 能動的サンプリングを用いたリソース構築共有タスクにおける予測対象データ削減<br/>
+言語処理学会第27回年次大会, オンライン, (2021.3.16-19).<br/>
+中山功太, <u>栗田修平</u>, 馬場雪乃, 関根聡
 - Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法<br/>
 言語処理学会第26回年次大会, オンライン, (2020.3.16-19).<br/>
 中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡
