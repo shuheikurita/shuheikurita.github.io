@@ -26,7 +26,7 @@ Online (July 2020). [\[link\]](https://sites.google.com/view/icml-laow2020/home)
 - <u>Shuhei Kurita</u> and Anders Søgaard<br/>
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019)
-Long paper. [code](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
+Long paper. [\[code\]](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
 - Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto<br/>
 Estimating synaptic connections from parallel spike trains<br/>
 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, (October 2018).
@@ -37,11 +37,11 @@ Torino, Italia, (September 2018).
 - <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,<br/>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2018), Melbourne, Australia, (July 2018).
-Long paper. [paper](https://www.aclweb.org/anthology/P18-1044/).
+Long paper. [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
 - <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), Vancouver, Canada, (July 2017).
-Long paper. [paper](https://www.aclweb.org/anthology/P17-1111/). **Selected as Out-standing Paper! (2% of submissions)**
+Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/). **Selected as Out-standing Paper! (2% of submissions)**
 - Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto<br/>
 Testing statistical significance of synaptic connectivity,<br/>
 12th International Neural Coding Workshop, NC2016<br/>
