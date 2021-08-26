@@ -22,8 +22,12 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## News
 
+### 26, Aug., 2021
+Our paper is accepted to EMNLP2021 Findings!<br/>
+Co-Teaching Student-Model through Submission Results of Shared Task,<br/>
+Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine.<br/>
 
-### 12, Jan., 2020
+### 12, Jan., 2021
 Our paper at NYU visiting with Prof. Kyunghyun Cho is accepted to ICLR2021!<br/>
 Shuhei Kurita and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule. [OpenReview](https://openreview.net/forum?id=45uOPa46Kh) 
