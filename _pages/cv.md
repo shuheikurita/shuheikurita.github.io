@@ -35,7 +35,7 @@ Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto U
 Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
   - with Prof. Satoshi Sekine.
 - 2020/12 -
-Researcher in PRESTO "Reliable AI", JST.
+Researcher in PRESTO "The fundamental technologies for Trustworthy AI", JST.
 
 ## Teaching experience
 
