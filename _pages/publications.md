@@ -16,6 +16,9 @@ Nature Communications volume 10, Article number: 4468 (2019). [paper](https://ww
 My contribution: Large-scale biological neural network simulation.
 
 ## Proceedings
+- Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine<br/>
+Co-Teaching Student-Model through Submission Results of Shared Task<br/>
+The 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP2021 Findings, to appear.
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
 Ninth International Conference on Learning Representations, ICLR2021 (May 2021). [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[Paper\]](https://openreview.net/pdf?id=45uOPa46Kh), [\[code\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
