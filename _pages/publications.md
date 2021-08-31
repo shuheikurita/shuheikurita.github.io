@@ -21,7 +21,7 @@ Co-Teaching Student-Model through Submission Results of Shared Task<br/>
 The 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP2021 Findings, to appear.
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
-Ninth International Conference on Learning Representations, ICLR2021 (May 2021). [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[Paper\]](https://openreview.net/pdf?id=45uOPa46Kh), [\[code\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
+Ninth International Conference on Learning Representations, ICLR2021 (May 2021). [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[paper\]](https://openreview.net/pdf?id=45uOPa46Kh), [\[code\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
 - <u>Shuhei Kurita</u> and Kyunghyun Cho,
 Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,
 ICML 2020 Workshop on Learning in Artificial Open Worlds, ICML LAOW2020,
@@ -29,7 +29,7 @@ Online (July 2020). [\[link\]](https://sites.google.com/view/icml-laow2020/home)
 - <u>Shuhei Kurita</u> and Anders Søgaard<br/>
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019)
-Long paper. [\[code\]](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
+Long paper. [\[code\]](https://github.com/shuheikurita/semrl), [\[paper\]](https://arxiv.org/abs/1906.01239).
 - Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto<br/>
 Estimating synaptic connections from parallel spike trains<br/>
 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, (October 2018).
