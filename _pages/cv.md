@@ -25,7 +25,6 @@ Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN
 Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
   * “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
 
-
 ## Education
 
 * 2015/04 -2019/03
