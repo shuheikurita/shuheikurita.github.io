@@ -13,16 +13,12 @@ Feel free to contact me for a full cv (pdf).
 
 ## Professional experience
 
-* 2020/12 -
-Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
-* 2020/01 -
-Visiting Researcher for Prof. Kyunghyun Cho, New York University.
-  *  Including onsite and remote visiting.
-* 2019/04 -
-Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
-  * with Prof. Satoshi Sekine.
-* 2015/03 – 2019/03
-Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
+* 2020/12 - present  Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
+* 2020/01 - present  Visiting Researcher for Prof. Kyunghyun Cho, New York University.
+  * Including onsite and remote visiting.
+* 2019/04 - present  Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
+  * With Prof. Satoshi Sekine.
+* 2015/03 – 2019/03  Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
   * “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
 
 ## Education
