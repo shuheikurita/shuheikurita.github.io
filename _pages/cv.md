@@ -61,9 +61,10 @@ Modern Physics (TA)
 
 ## Honors & Awards
 
-- 2020 Mar. - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
-- 2019 Mar. - Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
-- 2017 Aug. - Outstanding paper in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
+- 2021/03 - Committee Member’s Special Award in the 27th Annual Meeting of The Association for Natural Language Processing.
+- 2020/03 - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
+- 2019/03 - Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
+- 2017/08 - Outstanding paper in the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017).
 
 ## Grants & Fellowships
 
