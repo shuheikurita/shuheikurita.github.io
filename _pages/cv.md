@@ -27,33 +27,33 @@ Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto U
 
 ## Education
 
+* 2015/04 -2019/03
+  * Ph.D. of Informatics, Graduate School of Informatics, Kyoto University.
+  * Thesis: "Neural Approaches for Syntactic and Semantic Analysis"
+  * Supervisor: Prof. Sadao Kurohashi
+* 2013/04 – 2015/03
+  * Master of Science, Graduate School of Physics, Kyoto University.
+  * Statistical and Computational Physics, Neural Networks.
+  * Supervisor: Assoc. Prof. Shigeru Shinomoto
 * 2009/04 – 2013/03
   * Bachelor of Science, Kyoto University.
   * Physics Course.
-* 2013/04 – 2015/03
-  * Master of Science, Graduate School of Physics, Kyoto University.
-  - Statistical and Computational Physics, Neural Networks.
-  - Supervisor: Assoc. Prof. Shigeru Shinomoto
-- 2015/04 -2019/03
-  - Ph.D. of Informatics, Graduate School of Informatics, Kyoto University.
-  - Thesis: "Neural Approaches for Syntactic and Semantic Analysis"
-  - Supervisor: Prof. Sadao Kurohashi
 
 ## Teaching experience
 
-- 2014/10 – 2015/03
-Modern Physics (TA)
-- 2015/10 – 2016/03
-Modern Physics (TA)
-- 2016/04 – 2016/09
+- 2017/04 – 2017/09
 Physics Experiments (TA)
 Including face-to-face lectures.
 - 2016/10 – 2017/03
 Practice Course of Numerical Computations (TA)
 Including face-to-face lectures of programming languages.
-- 2017/04 – 2017/09
+- 2016/04 – 2016/09
 Physics Experiments (TA)
 Including face-to-face lectures.
+- 2015/10 – 2016/03
+Modern Physics (TA)
+- 2014/10 – 2015/03
+Modern Physics (TA)
 
 ## Honors & Awards
 
