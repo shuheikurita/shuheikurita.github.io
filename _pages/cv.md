@@ -11,6 +11,20 @@ redirect_from:
 
 Feel free to contact me for a full cv (pdf).
 
+## Professional experience
+
+* 2020/12 -
+Researcher in PRESTO "The fundamental technologies for Trustworthy AI", JST.
+* 2020/01 -
+Visiting Researcher for Prof. Kyunghyun Cho, New York University (including onsite and remote visiting).
+* 2019/04 -
+Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
+  * with Prof. Satoshi Sekine.
+* 2015/03 – 2019/03
+Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
+  * “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
+
+
 ## Education
 
 * 2009/04 – 2013/03
@@ -24,18 +38,6 @@ Feel free to contact me for a full cv (pdf).
   - Ph.D. of Informatics, Graduate School of Informatics, Kyoto University.
   - Thesis: "Neural Approaches for Syntactic and Semantic Analysis"
   - Supervisor: Prof. Sadao Kurohashi
-
-
-## Professional experience
-
-- 2015/03 – 2019/03
-Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
-  - “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
-- 2019/04 -
-Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
-  - with Prof. Satoshi Sekine.
-- 2020/12 -
-Researcher in PRESTO "The fundamental technologies for Trustworthy AI", JST.
 
 ## Teaching experience
 
