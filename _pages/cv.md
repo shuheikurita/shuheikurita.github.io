@@ -17,7 +17,7 @@ Feel free to contact me for a full cv (pdf).
 Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
 * 2020/01 -
 Visiting Researcher for Prof. Kyunghyun Cho, New York University.
-  *  Including onsite and remote visiting
+  *  Including onsite and remote visiting.
 * 2019/04 -
 Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
