@@ -18,7 +18,7 @@ Feel free to contact me for a full cv (pdf).
 * 2020/01 - present
   * Visiting Researcher for Prof. Kyunghyun Cho, New York University.
   * Including onsite and remote visiting.
-  * Working for Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule (ICLR2021).
+  * Working for Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule (ICLR2021) and more.
 * 2019/04 - present
   * Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
