@@ -17,7 +17,7 @@ Feel free to contact me for a full cv (pdf).
   * Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
 * 2020/01 - present
   * Visiting Researcher for Prof. Kyunghyun Cho, New York University.
-  * Including onsite and remote visiting.
+  * Including onsite (2020/01 - 2020/06) and remote visiting (2020/06 - present).
   * Working for Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule (ICLR2021) and more.
 * 2019/04 - present
   * Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
