@@ -18,7 +18,7 @@ My contribution: Large-scale biological neural network simulation.
 ## Proceedings
 - Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine<br/>
 Co-Teaching Student-Model through Submission Results of Shared Task<br/>
-The 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP2021 Findings (Nov. 2021). [\[paper\]](https://aclanthology.org/2021.findings-emnlp.383/).
+The 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP2021 Findings (November 2021). [\[paper\]](https://aclanthology.org/2021.findings-emnlp.383/).
 - <u>Shuhei Kurita</u> and Kyunghyun Cho<br/>
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
 Ninth International Conference on Learning Representations, ICLR2021 (May 2021). [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[paper\]](https://openreview.net/pdf?id=45uOPa46Kh), [\[code\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
@@ -49,9 +49,6 @@ Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/). **Selected 
 Testing statistical significance of synaptic connectivity,<br/>
 12th International Neural Coding Workshop, NC2016<br/>
 Cologne, Federal Republic of Germany, (August 2016).
-- <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto<br/>
-Minimal time length of spike trains for the inference of connectivity<br/>
-24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 ## Local Conferences
 
@@ -78,6 +75,9 @@ Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto 
 - 神経回路シミュレーションデータを用いた結合推定<br/>
 日本物理学会第69回年次大会, 27pAJ-13, 神奈川,(2014.3).<br/>
 <u>栗田修平</u>, 小林亮太, 北野勝則, 篠本滋
+- <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto<br/>
+Minimal time length of spike trains for the inference of connectivity<br/>
+24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 ## Invited Talks
 - 文解析における既存データセットの制約とそれを超える解析手法<br/>
