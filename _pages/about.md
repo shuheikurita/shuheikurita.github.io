@@ -18,7 +18,7 @@ Ph.D. of Informatics (Kyoto University) in March 2019.
 Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
 </p>
 
-## <span style='color: red;'>We are hiring!!~~~~~~~一緒に研究を進めてくれる人を探しています！！</span>
+## <span style='color: 	#b814b8;'>We are hiring!!<br>一緒に研究を進めてくれる人を探しています！！</span>
 I'm searching for student research coraborators, e.g. part-time job students for RIKEN AIP. Don't hesitate to e-mail me!<br>
 一緒に研究を進めてくれる学生などを探しています！！理研AIPの学生パートタイマーなどで雇用も可能です。<br>
 修士課程進学予定の学部4年生〜博士課程くらいでNLPやvision and language等に興味のある方は、ぜひemailやTwitter DMをください！<br>
