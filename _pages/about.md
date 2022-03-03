@@ -25,14 +25,14 @@ I'm searching for student research coraborators, e.g. part-time job students for
 
 ## <span style='color: #00CC33;'>News</span>
 
-### 2, Mar., 2021
+### 2, Mar., 2022
 Our paper is accepted to CVPR2022!<br/>
 **ScanQA: 3D Question Answering for Spatial Scene Understanding**<br/>
 Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*), Motoki Kawanabe.<br/>
 (\*): equally contributed<br>
 Thank you to my co-authors!!
 
-### 1, Mar., 2021
+### 1, Mar., 2022
 My research grant proporal for JSPS Grant-in-Aid for Young Scientists in Japan is acceped!
 
 ### 26, Aug., 2021
