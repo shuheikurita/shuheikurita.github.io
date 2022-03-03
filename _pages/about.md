@@ -20,6 +20,16 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## News
 
+### 2, Mar., 2021
+Our paper is accepted to CVPR2022!<br/>
+ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
+Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*), Motoki Kawanabe.<br/>
+Thank you for my co-authors!!
+(\*): equally contributed
+
+### 1, Mar., 2021
+My research grant proporal for JSPS Grant-in-Aid for Young Scientists in Japan is acceped!
+
 ### 26, Aug., 2021
 Our paper is accepted to EMNLP2021 Findings!<br/>
 Co-Teaching Student-Model through Submission Results of Shared Task,<br/>
