@@ -21,7 +21,7 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## <span style='color: #b814b8;'>一緒に研究を進めてくれる学生を探しています！！</span>
 **一緒に研究を進めてくれる学生などを探しています！！理研AIPの学生パートタイマーなどで雇用も可能です。**<br>
-修士課程進学予定の学部4年生〜博士課程くらいで**NLP**や**vision and language**等に興味のある方は、ぜひメールやTwitter DMなどをください！<br>
+修士課程進学予定の学部4年生〜博士課程くらいで**自然言語処理/理解**や**vision and language**等に興味のある方は、ぜひメールやTwitter DMなどをください！<br>
 
 ## <span style='color: #b814b8;'>We are hiring students!!</span>
 I'm searching for student research coraborators, e.g. part-time job students for RIKEN AIP. Don't hesitate to e-mail / message to me!<br>
