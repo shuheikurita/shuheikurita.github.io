@@ -27,7 +27,7 @@ I'm searching for student research coraborators, e.g. part-time job students for
 
 ### 2, Mar., 2021
 Our paper is accepted to CVPR2022!<br/>
-ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
+**ScanQA: 3D Question Answering for Spatial Scene Understanding**<br/>
 Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*), Motoki Kawanabe.<br/>
 (\*): equally contributed<br>
 Thank you to my co-authors!!
@@ -37,13 +37,13 @@ My research grant proporal for JSPS Grant-in-Aid for Young Scientists in Japan i
 
 ### 26, Aug., 2021
 Our paper is accepted to EMNLP2021 Findings!<br/>
-Co-Teaching Student-Model through Submission Results of Shared Task,<br/>
+**Co-Teaching Student-Model through Submission Results of Shared Task**<br/>
 Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine.<br/>
 
 ### 12, Jan., 2021
 Our paper at NYU visiting with Prof. Kyunghyun Cho is accepted to ICLR2021!<br/>
 Shuhei Kurita and Kyunghyun Cho<br/>
-Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule. [OpenReview](https://openreview.net/forum?id=45uOPa46Kh) 
+**Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule**. [OpenReview](https://openreview.net/forum?id=45uOPa46Kh) 
 
 ### 24, Nov., 2020
 I am selected as a JST PRESTO "Trustworthy AI" reseach project member from December! <br/>
