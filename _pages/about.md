@@ -10,7 +10,7 @@ redirect_from:
 (ja: 栗田修平)
 <!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
-## <span style='color: 	#b814b8;'>Bio</span>
+## <span style='color: 	navy;'>Bio</span>
 I'm a researcher in RIKEN AIP and JST PRESTO. My research interests include natural language processing/understanding (NLP/NLU) with machine learning approaches, deep reinforcement learning (DRL), neuroscience, and statistical/computational physics. Currently, I have a keen interest in deep learning via virtual environments such as [*vision-and-language navigation*](https://bringmeaspoon.org/) and their applications to the real world.<br>
 Ph.D. of Informatics (Kyoto University) in March 2019.
 
@@ -18,10 +18,13 @@ Ph.D. of Informatics (Kyoto University) in March 2019.
 Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
 </p>
 
-## <span style='color: navy;'>We are hiring students!!<br>一緒に研究を進めてくれる学生を探しています！！</span>
-I'm searching for student research coraborators, e.g. part-time job students for RIKEN AIP. Don't hesitate to e-mail / message to me!<br>
+
+## <span style='color: #b814b8;'>一緒に研究を進めてくれる学生を探しています！！</span>
 **一緒に研究を進めてくれる学生などを探しています！！理研AIPの学生パートタイマーなどで雇用も可能です。**<br>
 修士課程進学予定の学部4年生〜博士課程くらいで**NLP**や**vision and language**等に興味のある方は、ぜひメールやTwitter DMなどをください！<br>
+
+## <span style='color: #b814b8;'>We are hiring students!!</span>
+I'm searching for student research coraborators, e.g. part-time job students for RIKEN AIP. Don't hesitate to e-mail / message to me!<br>
 
 ## <span style='color: green;'>News</span>
 
