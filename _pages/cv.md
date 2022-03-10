@@ -68,6 +68,7 @@ Modern Physics (TA)
 
 ## Grants & Fellowships
 
+- JSPS Grant-in-Aid for Young Scientists (2022.4-).
 - JST PRESTO Research Projects "The fundamental technologies for Trustworthy AI" (2020.12-).
 - JST ACT-I Research Projects Grant Acceleration Phase (2019.4-2021.3).
 - JST ACT-I Research Projects Grant (2017.10-2019.3).
