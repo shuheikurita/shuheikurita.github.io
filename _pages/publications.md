@@ -17,8 +17,8 @@ My contribution: Large-scale biological neural network simulation.
 
 ## Proceedings
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
-Daichi Azuma(*), Taiki Miyanishi(*), <u>Shuhei Kurita</u>(*) and Motoki Kawanabe<br/>
-(*): equally contributed<br/>
+Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoki Kawanabe<br/>
+(\*): equally contributed<br/>
 The 2022 Conference on Computer Vision and Pattern Recognition (CVPR2022). [\[arXiv\]](https://arxiv.org/abs/2112.10482)
 - Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine<br/>
 Co-Teaching Student-Model through Submission Results of Shared Task<br/>
