@@ -16,6 +16,10 @@ Nature Communications volume 10, Article number: 4468 (2019). [paper](https://ww
 My contribution: Large-scale biological neural network simulation.
 
 ## Proceedings
+- ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
+Daichi Azuma(*), Taiki Miyanishi(*), <u>Shuhei Kurita</u>(*) and Motoki Kawanabe<br/>
+(*): equally contributed<br/>
+The 2022 Conference on Computer Vision and Pattern Recognition (CVPR2022). [\[arXiv\]](https://arxiv.org/abs/2112.10482)
 - Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine<br/>
 Co-Teaching Student-Model through Submission Results of Shared Task<br/>
 The 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP2021 Findings (November 2021). [\[paper\]](https://aclanthology.org/2021.findings-emnlp.383/).
