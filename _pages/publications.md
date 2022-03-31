@@ -54,7 +54,7 @@ Testing statistical significance of synaptic connectivity,<br/>
 Cologne, Federal Republic of Germany, (August 2016).
 
 ## Local Conferences
-- 共有タスクへの結果提出を通した生徒モデルの共同教育手法<br/>
+- レシピ分野における動作対象の状態変化を考慮したデータセットの構築と検索モデルの提案<br/>
 言語処理学会第28回年次大会, オンライン, (2022.3.14-18).<br/>
 白井圭佑, 橋本敦史, 牛久祥孝, <u>栗田修平</u>, 亀甲博貴, 森信介
 - 共有タスクへの結果提出を通した生徒モデルの共同教育手法<br/>
