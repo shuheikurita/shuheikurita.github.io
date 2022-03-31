@@ -27,9 +27,8 @@ The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP20
 Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
 Ninth International Conference on Learning Representations (ICLR2021), Online (May 2021). [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[paper\]](https://openreview.net/pdf?id=45uOPa46Kh), [\[code\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
 - <u>Shuhei Kurita</u> and Kyunghyun Cho,
-Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,
-ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020),
-Online (July 2020). [\[link\]](https://sites.google.com/view/icml-laow2020/home).
+Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,<br/>
+ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020), Online (July 2020). [\[link\]](https://sites.google.com/view/icml-laow2020/home).
 - <u>Shuhei Kurita</u> and Anders Søgaard<br/>
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019),
