@@ -16,14 +16,14 @@ Feel free to contact me for a full cv (pdf).
 * 2020/12 - present 
   * Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
 * 2020/01 - present
-  * Visiting Researcher for Prof. Kyunghyun Cho, New York University.
+  * Visiting Researcher for Assoc. Prof. Kyunghyun Cho, New York University.
   * Including onsite (2020/01 - 2020/06) and remote visiting (2020/06 - present).
   * Working for Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule (ICLR2021) and more.
 * 2019/04 - present
   * Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
 * 2018/03 – 2018/06
-  * Visiting Student for Prof. Anders Søgaard, University of Copenhagen.
+  * Visiting Researcher for Prof. Anders Søgaard, University of Copenhagen.
   * Worked for Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies (ACL2019).
 * 2015/03 – 2019/03
   * Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
