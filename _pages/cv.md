@@ -25,7 +25,7 @@ Feel free to contact me for a full cv (pdf).
 * 2018/03 – 2018/06
   * Visiting Researcher for Prof. Anders Søgaard, University of Copenhagen.
   * Worked for Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies (ACL2019).
-* 2015/03 – 2019/03
+* 2015/04 – 2019/03
   * Research Assistant in JST CREST project, Graduate School of Informatics, Kyoto University.
   * “Establishment of Knowledge-Intensive Structural Natural Language Processing and Construction of Knowledge Infrastructure.”
 
