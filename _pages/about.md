@@ -25,8 +25,8 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 興味がある方は上記のメールアドレスにメールしてください。時給は理研の規定に基づき実力を加味して決定します。
 これまでの学生との研究で既に論文になっている成果はPublicationsから確認できます。<br>
 
-## <span style='color: #b814b8;'>Let's coraborate with us!</span>
-I'm searching for student research coraborators studying in master and doctor course interested in Natural Language Processing / Vision and Language. Our research coraborators will be paid as part-time job students of RIKEN AIP. If you have same research interest, please e-mail to me!<br>
+## <span style='color: #b814b8;'>Let's collaborate with us!</span>
+I'm searching for student research collaborators studying in master's and doctorate courses interested in Natural Language Processing / Vision and Language. Our research collaborators will be paid as part-time job students of RIKEN AIP. If you have similar research interest, please e-mail me!<br>
 
 ## <span style='color: green;'>News</span>
 
