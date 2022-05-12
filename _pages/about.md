@@ -33,7 +33,7 @@ I'm searching for student research collaborators studying in master's and doctor
 ### 2, Mar., 2022
 Our paper is accepted to CVPR2022!<br/>
 **ScanQA: 3D Question Answering for Spatial Scene Understanding**<br/>
-Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*), Motoki Kawanabe.<br/>
+Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*), Motoaki Kawanabe.<br/>
 (\*): equally contributed<br>
 Thank you to my co-authors!!
 
