@@ -16,7 +16,7 @@ Nature Communications volume 10, Article number: 4468 (2019). [paper](https://ww
 My contribution: Large-scale biological neural network simulation.
 
 ## Proceedings
-- Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoki Kawanabe<br/>
+- Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe<br/>
 ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 (\*): equally contributed<br/>
 The 2022 Conference on Computer Vision and Pattern Recognition (CVPR2022). [\[arXiv\]](https://arxiv.org/abs/2112.10482)
