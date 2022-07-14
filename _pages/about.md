@@ -20,13 +20,11 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 
 ## <span style='color: #b814b8;'>一緒に研究を進めてくれる学生を探しています！</span>
-**一緒に研究を進めてくれる学生を探しています。共同研究をしてくれる学生は、理研AIPの研究パートタイマーとして雇用することができます。**<br>
-修士課程進学予定の学部4年生、修士課程、博士課程に在籍の方で**自然言語処理/理解**や**vision and language**に興味のある方は、ぜひ一緒に研究しましょう！
-興味がある方は上記のメールアドレスにメールしてください。時給は理研の規定に基づき実力を加味して決定します。
+修士課程進学予定の方、修士・博士課程に在籍の方で **自然言語処理/理解** や **vision and language** の研究に興味のある方は上記のメールアドレスにメールしてください。
 これまでの学生との研究で既に論文になっている成果はPublicationsから確認できます。<br>
 
 ## <span style='color: #b814b8;'>Let's collaborate with us!</span>
-I'm searching for student research collaborators studying in master's and doctorate courses interested in Natural Language Processing / Vision and Language. Our research collaborators will be paid as part-time job students of RIKEN AIP. If you have similar research interest, please e-mail me!<br>
+I'm searching for student research collaborators who studies in master or doctorate courses and are interested in Natural Language Processing / Vision and Language. If you have interests, e-mail me.<br>
 
 ## <span style='color: green;'>News</span>
 
