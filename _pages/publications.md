@@ -91,10 +91,10 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 ## Invited Talks
-- Daichi Azuma(*), Taiki Miyanishi(*), Shuhei Kurita(*) and Motoaki Kawanabe
-ScanQA: 3D Question Answering for Spatial Scene Understanding
-(*): equally contributed
-MIRU2022.
+- ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
+(\*): equally contributed<br/>
+MIRU2022<br/>
+Daichi Azuma(\*), Taiki Miyanishi(\*), Shuhei Kurita(\*) and Motoaki Kawanabe<br/>
 - 文解析における既存データセットの制約とそれを超える解析手法<br/>
 名古屋地区NLPセミナー(2019.05).<br/>
 <u>栗田修平</u>
