@@ -92,9 +92,9 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 
 ## Invited Talks
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
-(\*): equally contributed<br/>
 MIRU2022<br/>
 Daichi Azuma(\*), Taiki Miyanishi(\*), Shuhei Kurita(\*) and Motoaki Kawanabe<br/>
+(\*): equally contributed
 - 文解析における既存データセットの制約とそれを超える解析手法<br/>
 名古屋地区NLPセミナー(2019.05).<br/>
 <u>栗田修平</u>
