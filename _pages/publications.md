@@ -51,6 +51,9 @@ Testing statistical significance of synaptic connectivity,<br/>
 Cologne, Federal Republic of Germany, (August 2016).
 
 ## Local Conferences
+- テキスト条件付き物体検出器と参照表現理解への応用<br/>
+MIRU2022, 姫路, (2022.7.25-28).<br/>
+桂尚輝, <u>栗田修平</u>
 - レシピ分野における動作対象の状態変化を考慮したデータセットの構築と検索モデルの提案<br/>
 言語処理学会第28回年次大会, オンライン, (2022.3.14-18).<br/>
 白井圭佑, 橋本敦史, 牛久祥孝, <u>栗田修平</u>, 亀甲博貴, 森信介
