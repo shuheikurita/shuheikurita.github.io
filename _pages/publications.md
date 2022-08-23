@@ -16,6 +16,12 @@ Nature Communications volume 10, Article number: 4468 (2019). [paper](https://ww
 My contribution: Large-scale biological neural network simulation.
 
 ## Proceedings
+- <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine<br/>
+Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
+The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
+- Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Yoshitaka Ushiku and Shinsuke Mori<br/>
+Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows<br/>
+The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
 - Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe<br/>
 ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 (\*): equally contributed<br/>
