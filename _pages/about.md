@@ -22,7 +22,7 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ### 10, Oct., 2022
 We will make the follwing two presentations at COLING2022 conference!<br/>
-- Shuhei Kurita, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine
+- <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling.
 - Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, Shuhei Kurita, Yoshitaka Ushiku and Shinsuke Mori
 Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows.
