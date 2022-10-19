@@ -26,6 +26,7 @@ We will make the follwing two presentations at COLING2022 conference!<br/>
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling.
 - Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, Shuhei Kurita, Yoshitaka Ushiku and Shinsuke Mori
 Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows.
+
 Thank you to my co-authors!!
 
 ### 2, Mar., 2022
