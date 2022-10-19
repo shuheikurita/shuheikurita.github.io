@@ -18,14 +18,6 @@ Ph.D. of Informatics (Kyoto University) in March 2019.
 Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
 </p>
 
-
-## <span style='color: #b814b8;'>一緒に研究を進めてくれる学生を探しています！</span>
-修士課程進学予定の方、修士・博士課程に在籍の方で **自然言語処理/理解** や **vision and language** の研究に興味のある方は上記のメールアドレスにメールしてください。
-これまでの学生との研究で既に論文になっている成果はPublicationsから確認できます。<br>
-
-## <span style='color: #b814b8;'>Let's collaborate with us!</span>
-I'm searching for student research collaborators who studies in master or doctorate courses and are interested in Natural Language Processing / Vision and Language. If you have interests, e-mail me.<br>
-
 ## <span style='color: green;'>News</span>
 
 ### 2, Mar., 2022
