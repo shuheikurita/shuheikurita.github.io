@@ -20,6 +20,14 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## <span style='color: green;'>News</span>
 
+### 10, Oct., 2022
+We will make the follwing two presentations at COLING2022 conference!<br/>
+- Shuhei Kurita, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine
+Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling.
+- Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, Shuhei Kurita, Yoshitaka Ushiku and Shinsuke Mori
+Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows.
+Thank you to my co-authors!!
+
 ### 2, Mar., 2022
 Our paper is accepted to CVPR2022!<br/>
 **ScanQA: 3D Question Answering for Spatial Scene Understanding**<br/>
