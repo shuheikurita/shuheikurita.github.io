@@ -6,17 +6,18 @@ author_profile: true
 
 {% include base_path %}
 
-<br><br><strong>Journals</strong><br><br>
+<!--<br><br><strong></strong><br><br>-->
+<h3><strong>Journals</strong></h3>
+
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
 Natural Language Processing (in Japan),  Vol.26,  No.1, 231-258,  (2019.3).
 2. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,<br/>
 Reconstructing neuronal circuitry from parallel spike trains,<br/>
 Nature Communications volume 10, Article number: 4468 (2019). [paper](https://www.nature.com/articles/s41467-019-12225-2).<br/>
-My contribution: Large-scale biological neural network simulation.<br>
+My contribution: Large-scale biological neural network simulation.
 
-<br>
-<h3><span style="text-indent: -5em;"><strong>Proceedings</strong></span><br><br></h3>
+<h3><strong>Proceedings</strong></h3>
 
 {:start="3"}
 3. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
