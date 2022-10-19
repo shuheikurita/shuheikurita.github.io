@@ -14,7 +14,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, 231-258,  (2019.3).
 Reconstructing neuronal circuitry from parallel spike trains,<br/>
 Nature Communications volume 10, Article number: 4468 (2019). [paper](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.<br>
-<br><strong>Proceedings</strong><br><br>
+<br><span style="margin-right: -5rem;"><strong>Proceedings</strong></span><br><br>
 3. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine<br/>
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
 The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
