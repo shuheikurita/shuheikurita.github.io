@@ -58,13 +58,15 @@ Long paper. [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
 13. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), Vancouver, Canada, (July 2017).
-Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/). **Selected as Out-standing Paper! (2% of submissions)**
+Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
+**Selected as Out-standing Paper! (2% of submissions)**
 14. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
 Testing statistical significance of synaptic connectivity,<br/>
 12th International Neural coding, NC2016<br/>
 Cologne, Federal Republic of Germany, (September 2016).
 
-## Local Conferences
+<h3><strong>Local Conferences</strong></h3>
+
 - テキスト条件付き物体検出器と参照表現理解への応用<br/>
 MIRU2022, 姫路, (2022.7.25-28).<br/>
 桂尚輝, <u>栗田修平</u>
@@ -104,7 +106,7 @@ Estimating synaptic connections from parallel spike trains<br/>
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-## Invited Talks
+<h3><strong>Invited Talks</strong></h3>
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 MIRU2022<br/>
 Daichi Azuma(\*), Taiki Miyanishi(\*), Shuhei Kurita(\*) and Motoaki Kawanabe<br/>
