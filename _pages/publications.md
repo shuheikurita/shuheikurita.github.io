@@ -123,5 +123,5 @@ Google NLP Summit, Zurich, Switzerland (2017).<br/>
 
 <h3><strong>Talks</strong></h3>
 - 実世界にグラウンドされた自然言語理解のこれまでとこれから<br/>
-Language and Robotics研究会(LangRobo研究会) [link](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
+第7回Language and Robotics研究会 [link](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
 <u>栗田修平</u>
