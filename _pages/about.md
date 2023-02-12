@@ -20,6 +20,9 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## <span style='color: green;'>News</span>
 
+### 1, Feb., 2023
+I obtain JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （国際共同研究強化（Ａ））from April, 2023!
+
 ### 10, Oct., 2022
 We will make the follwing two presentations at COLING2022 conference!<br/>
 - <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine
