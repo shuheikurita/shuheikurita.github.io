@@ -70,7 +70,7 @@ Modern Physics (TA)
 
 - JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （科研費 国際共同研究強化（Ａ）） (2023.4-).
 - JSPS Grant-in-Aid for Young Scientists (科研若手) (2022.4-).
-- JST PRESTO Research Projects "The fundamental technologies for Trustworthy AI" (2020.12-).
+- JST PRESTO Research Projects "The fundamental technologies for Trustworthy AI" （JSTさきがけ） (2020.12-).
 - JST ACT-I Research Projects Grant Acceleration Phase (2019.4-2021.3).
 - JST ACT-I Research Projects Grant (2017.10-2019.3).
 - Invited to Google NLP Summit for Ph.D students and PostDocs, Zurich, Switzerland (2017).
