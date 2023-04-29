@@ -14,7 +14,7 @@ Feel free to contact me for a full cv (pdf).
 ## Professional experience
 
 * 2023/04 - present
-  * Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
+  * Research scientist in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
 * 2020/12 - present 
   * Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
