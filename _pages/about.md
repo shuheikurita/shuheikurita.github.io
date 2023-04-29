@@ -20,6 +20,9 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## <span style='color: green;'>News</span>
 
+### 1, April, 2023
+I become a research scientist in the RIKEN-AIP LIAT team, Japan.
+
 ### 1, Feb., 2023
 We will obtain JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （科研費 国際共同研究強化（Ａ））from Japan, starting from April, 2023!
 
