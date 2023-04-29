@@ -13,13 +13,16 @@ Feel free to contact me for a full cv (pdf).
 
 ## Professional experience
 
+* 2023/04 - present
+  * Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
+  * with Prof. Satoshi Sekine.
 * 2020/12 - present 
   * Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
 * 2020/01 - present
   * Visiting Researcher for Assoc. Prof. Kyunghyun Cho, New York University.
   * Including onsite (2020/01 - 2020/06; 2022/03 - present) and remote visiting (2020/06 - 2022/03).
   * Working for Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule (ICLR2021) and more.
-* 2019/04 - present
+* 2019/04 - 2023/03
   * Postdoctoral Researcher in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
 * 2018/03 – 2018/06
