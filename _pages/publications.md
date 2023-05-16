@@ -70,6 +70,7 @@ Cologne, Federal Republic of Germany, (September 2016).
 - ARKitSceneRefer: 3D屋内シーンでの参照表現による小物の位置特定<br/>
 言語処理学会第29回年次大会, 沖縄, (2023.3.13-17).<br/>
 加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫
+**Selected as Yong Reseacher Award! (for the first author)**
 - QuIC-360◦: 360◦ 画像に対するクエリ指向画像説明文生成のためのデータセット構築<br/>
 言語処理学会第29回年次大会, 沖縄, (2023.3.13-17).<br/>
 前田航希, <u>栗田修平</u>, 宮西大樹
