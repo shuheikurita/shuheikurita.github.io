@@ -115,7 +115,7 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 
 <h3><strong>Invited Talks</strong></h3>
 - 実世界を認識して動作するための言語理解技術<br/>
-データ工学ロボティクスとNEDO特別講座共催講演会 (2023.03).<br/>
+データ工学ロボティクスとNEDO特別講座共催講演会 (2023.03). [link](http://dataengineeringrobotics.org/?p=229)<br/>
 <u>栗田修平</u>
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 MIRU2022<br/>
