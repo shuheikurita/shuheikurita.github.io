@@ -16,7 +16,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, 231-258,  (2019.3).
 Reconstructing neuronal circuitry from parallel spike trains,<br/>
 Nature Communications volume 10, Article number: 4468 (2019). [paper](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
-3. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, Shuhei Kurita, Shinsuke Mori,<br/>
+3. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,<br/>
 Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows (in Japanese),<br/>
 Natural Language Processing (in Japan), (2023.9). In printing.
 
