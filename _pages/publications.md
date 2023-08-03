@@ -22,7 +22,7 @@ Natural Language Processing (in Japan), (2023.9). In printing.
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="3"}
+{:start="4"}
 4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,<br/>
 RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). Accepted.
 5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
