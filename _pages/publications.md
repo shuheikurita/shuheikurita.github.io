@@ -20,7 +20,7 @@ My contribution: Large-scale biological neural network simulation.
 <h3><strong>Proceedings</strong></h3>
 
 {:start="3"}
-3. Shuhei Kurita, Naoki Katsura and Eri Onami,<br/>
+3. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,<br/>
 RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). Accepted.
 4. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
