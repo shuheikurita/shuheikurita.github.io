@@ -24,7 +24,7 @@ Natural Language Processing (in Japan), (2023.9). In printing.
 
 {:start="4"}
 4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,<br/>
-RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). Accepted.
+RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). Accepted. [arXiv](https://arxiv.org/abs/2308.12035)
 5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
 The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
