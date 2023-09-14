@@ -133,7 +133,7 @@ NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Au
 <u>栗田修平</u>
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 MIRU2022<br/>
-Daichi Azuma(\*), Taiki Miyanishi(\*), Shuhei Kurita(\*) and Motoaki Kawanabe<br/>
+Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe<br/>
 (\*): equally contributed
 - 文解析における既存データセットの制約とそれを超える解析手法<br/>
 名古屋地区NLPセミナー(2019 May).<br/>
