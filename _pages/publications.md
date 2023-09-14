@@ -123,7 +123,7 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 
 <h3><strong>Invited Talks</strong></h3>
 - 実世界を認識して動作するための言語理解技術<br/>
-NLP若手の会 (YANS) 第18回シンポジウム 招待セッション. [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
+NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023.8.31). [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
 <u>栗田修平</u>
 - 自然言語処理に用いられる深層学習 \- 基礎から大規模言語モデルと応用までを解説 \- <br/>
 ロボット工学セミナー (2023.6.9). [link](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
