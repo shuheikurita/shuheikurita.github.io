@@ -122,6 +122,9 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 <h3><strong>Invited Talks</strong></h3>
+- 自然言語処理に用いられる深層学習 - 基礎から大規模言語モデルと応用までを解説 - <br/>
+ロボット工学セミナー (2023.6.9). [link](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
+<u>栗田修平</u>
 - 実世界を認識して動作するための言語理解技術<br/>
 データ工学ロボティクスとNEDO特別講座共催講演会 (2023.03). [link](http://dataengineeringrobotics.org/?p=229)<br/>
 <u>栗田修平</u>
