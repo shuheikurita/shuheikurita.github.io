@@ -24,7 +24,7 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 Our paper is accepted to ICCV2023!<br/>
 RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D<br/>
 Shuhei Kurita, Naoki Katsura and Eri Onami<br/>
-Update: [arXiv paper available!](https://arxiv.org/abs/2308.12035)
+Update: [arXiv paper](https://arxiv.org/abs/2308.12035) available!
 
 ### 1, April, 2023
 I become a research scientist in the RIKEN-AIP LIAT team, Japan.
