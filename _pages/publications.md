@@ -132,7 +132,7 @@ NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Au
 データ工学ロボティクスとNEDO特別講座共催講演会 (2023 Mar. 29). [link](http://dataengineeringrobotics.org/?p=229)<br/>
 <u>栗田修平</u>
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
-MIRU2022<br/>
+MIRU2022 (2022 July 27). <br/>
 Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe<br/>
 (\*): equally contributed
 - 文解析における既存データセットの制約とそれを超える解析手法<br/>
