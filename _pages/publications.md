@@ -72,6 +72,9 @@ Cologne, Federal Republic of Germany, (September 2016).
 
 <h3><strong>Local Conferences</strong></h3>
 
+- 異なるRGB-Dスキャンを用いたデータセット横断3D言語接地<br/>
+2023年度 人工知能学会全国大会（第37回）,熊本, (2023.6.6-9)<br/>
+宮西大樹, 東大地, <u>栗田修平</u>, 川鍋一晃
 - ARKitSceneRefer: 3D屋内シーンでの参照表現による小物の位置特定<br/>
 言語処理学会第29回年次大会, 沖縄, (2023.3.13-17).<br/>
 加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫
