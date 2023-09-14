@@ -123,26 +123,26 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 
 <h3><strong>Invited Talks</strong></h3>
 - 実世界を認識して動作するための言語理解技術<br/>
-NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023.8.31). [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
+NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug 31). [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
 <u>栗田修平</u>
 - 自然言語処理に用いられる深層学習 \- 基礎から大規模言語モデルと応用までを解説 \- <br/>
-ロボット工学セミナー (2023.6.9). [link](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
+ロボット工学セミナー (2023 June 9). [link](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
 <u>栗田修平</u>
 - 実世界を認識して動作するための言語理解技術<br/>
-データ工学ロボティクスとNEDO特別講座共催講演会 (2023.03). [link](http://dataengineeringrobotics.org/?p=229)<br/>
+データ工学ロボティクスとNEDO特別講座共催講演会 (2023 Mar. 29). [link](http://dataengineeringrobotics.org/?p=229)<br/>
 <u>栗田修平</u>
 - ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 MIRU2022<br/>
 Daichi Azuma(\*), Taiki Miyanishi(\*), Shuhei Kurita(\*) and Motoaki Kawanabe<br/>
 (\*): equally contributed
 - 文解析における既存データセットの制約とそれを超える解析手法<br/>
-名古屋地区NLPセミナー(2019.05).<br/>
+名古屋地区NLPセミナー(2019 May).<br/>
 <u>栗田修平</u>
 - 自然言語処理の既存データセットの制約を超えた文の解析手法<br/>
-理化学研究所AIP (2019.02).<br/>
+理化学研究所AIP (2019 Feb.).<br/>
 <u>栗田修平</u>
 - Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
-Google NLP Summit, Zurich, Switzerland (2017).<br/>
+Google NLP Summit, Zurich, Switzerland (2017 Oct.).<br/>
 <u>Shuhei Kurita</u>
 
 <h3><strong>Talks</strong></h3>
