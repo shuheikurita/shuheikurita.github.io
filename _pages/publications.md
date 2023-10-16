@@ -28,7 +28,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 1. Shunya Kato, Shuhei Kurita, Chenhui Chu, Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
 1. Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial, Yutaka Nakamura, Shuhei Kurita, and Koichiro Yoshino (2023).
 4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,<br/>
-RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). Accepted. [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
+RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
 The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
