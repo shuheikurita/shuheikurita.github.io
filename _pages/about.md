@@ -20,11 +20,18 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## <span style='color: green;'>News</span>
 
+### 8, Oct., 2023
+Two papers are accepted to EMNLP2023 findings!<br/>
+Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki,<br/>
+Query-based Image Captioning from Multi-context 360° Images<br/>
+Shunya Kato, Shuhei Kurita, Chenhui Chu, Sadao Kurohashi,<br/>
+ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes<br/>
+
 ### 20, July, 2023
 Our paper is accepted to ICCV2023!<br/>
 RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D<br/>
 Shuhei Kurita, Naoki Katsura and Eri Onami<br/>
-Update: [arXiv paper](https://arxiv.org/abs/2308.12035) available!
+Update: [arXiv paper](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo) available!
 
 ### 1, April, 2023
 I become a research scientist in the RIKEN-AIP LIAT team, Japan.
