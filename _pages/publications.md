@@ -23,6 +23,10 @@ Natural Language Processing (in Japan), (2023.9). In printing.
 <h3><strong>Proceedings</strong></h3>
 
 {:start="4"}
+1. Taiki Miyanishi, Fumiya Kitamori, Shuhei Kurita, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
+1. Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
+1. Shunya Kato, Shuhei Kurita, Chenhui Chu, Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
+1. Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial, Yutaka Nakamura, Shuhei Kurita, and Koichiro Yoshino (2023).
 4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,<br/>
 RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). Accepted. [\[arXiv\]](https://arxiv.org/abs/2308.12035)
 5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
