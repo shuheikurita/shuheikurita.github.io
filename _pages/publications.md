@@ -24,6 +24,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 
 {:start="4"}
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
+1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino, Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial (2023).
