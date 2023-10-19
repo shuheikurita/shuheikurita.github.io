@@ -23,7 +23,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 <h3><strong>Proceedings</strong></h3>
 
 {:start="4"}
-1. Taiki Miyanishi, Daichi Azuma, Shuhei Kurita, Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
+1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u>, Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
