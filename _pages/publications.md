@@ -54,7 +54,7 @@ Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-Fi
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019),<br/>
 Florence, Italy, (July 2019).
 Long paper. [\[github\]](https://github.com/shuheikurita/semrl), [\[paper\]](https://arxiv.org/abs/1906.01239).
-12. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
+12. Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, Shinomoto S,<br/>
 A method for estimating synaptic connections from parallel spike trains,<br/>
 The 5th International Conference on Mathematical NeuroScience (ICMNS2019)<br/>
 Copenhagen, Denmark, (June 2019).
