@@ -49,28 +49,29 @@ Ninth International Conference on Learning Representations (ICLR2021), Online (M
 10. <u>Shuhei Kurita</u> and Kyunghyun Cho,<br/>
 Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,<br/>
 ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online (July 2020). [\[link\]](https://sites.google.com/view/icml-laow2020/home).
-11. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
-A method for estimating synaptic connections from parallel spike trains,<br/>
-13th International Neural coding (NC2018)<br/>
-Torino, Italia, (September 2018).
-12. <u>Shuhei Kurita</u> and Anders Søgaard,<br/>
+11. <u>Shuhei Kurita</u> and Anders Søgaard,<br/>
 Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
-Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019),
+Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019),<br/>
+Florence, Italy, (July 2019).
 Long paper. [\[github\]](https://github.com/shuheikurita/semrl), [\[paper\]](https://arxiv.org/abs/1906.01239).
-13. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond, Shigeru Shinomoto,<br/>
+12. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
+A method for estimating synaptic connections from parallel spike trains,<br/>
+The 5th International Conference on Mathematical NeuroScience (ICMNS2019)<br/>
+Copenhagen, Denmark, (June 2019).
+14. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond, Shigeru Shinomoto,<br/>
 Estimation of synaptic connections from parallel spike trains,<br/>
 13th International Neural coding (NC2018)<br/>
-Torino, Italia, (September 2018).
-14. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
+Torino, Italy, (September 2018).
+15. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,<br/>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2018), Melbourne, Australia, (July 2018).
 Long paper. [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
-15. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
+16. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), Vancouver, Canada, (July 2017).
 Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
 **Selected as Out-standing Paper! (2% of submissions)**
-16. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
+17. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
 Testing statistical significance of synaptic connectivity,<br/>
 12th International Neural coding, NC2016<br/>
 Cologne, Federal Republic of Germany, (September 2016).
