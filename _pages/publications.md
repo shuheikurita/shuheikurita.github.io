@@ -112,11 +112,11 @@ Neuro 2019, 新潟 (2019.7).<br/>
 Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
 - 深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する<br/>
 言語処理学会第25回年次大会, 名古屋, (2019.3.11-15).<br/>
+<u>栗田修平</u>, Anders Søgaard
+**Selected as Best Paper Award!**
 - Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto<br/>
 Estimating synaptic connections from parallel spike trains<br/>
 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, (October 2018).
-<u>栗田修平</u>, Anders Søgaard
-**Selected as Best Paper Award!**
 - ニューラルネットワークに基づく単語分割・品詞付与・構文解析の統合解析<br/>
 言語処理学会第23回年次大会, つくば, (2017.3.13-17).<br/>
 <u>栗田修平</u>, 河原大輔, 黒橋禎夫
