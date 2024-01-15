@@ -127,8 +127,8 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 <h3><strong>Invited Talks</strong></h3>
-- テキストからの実世界理解に向けて 
-第26回情報論的学習理論ワークショップ (2023 Oct. 29).
+- テキストからの実世界理解に向けて <br/>
+第26回情報論的学習理論ワークショップ (2023 Oct. 29).<br/>
 <u>栗田修平</u>
 - 実世界を認識して動作するための言語理解技術<br/>
 NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug 31). [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
