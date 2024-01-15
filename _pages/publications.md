@@ -28,8 +28,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino, Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial (2023).
-4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,<br/>
-RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
+4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
 Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
 The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
@@ -128,6 +127,9 @@ Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
 <h3><strong>Invited Talks</strong></h3>
+- テキストからの実世界理解に向けて 
+第26回情報論的学習理論ワークショップ (2023 Oct. 29).
+<u>栗田修平</u>
 - 実世界を認識して動作するための言語理解技術<br/>
 NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug 31). [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
 <u>栗田修平</u>
