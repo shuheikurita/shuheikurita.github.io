@@ -33,51 +33,23 @@ Text360Nav: 360-Degree Image Captioning Dataset for \\Urban Pedestrians Navigati
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino, Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial (2023).
 4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
-5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine,<br/>
-Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,<br/>
-The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
-6. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Yoshitaka Ushiku and Shinsuke Mori,<br/>
-Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows<br/>
-The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
-7. Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe,<br/>
-ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
-(\*): equally contributed<br/>
-The 2022 Conference on Computer Vision and Pattern Recognition (CVPR2022). [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.html). [\[arXiv\]](https://arxiv.org/abs/2112.10482). [\[github\]](https://github.com/ATR-DBI/ScanQA).
-8. Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine,<br/>
-Co-Teaching Student-Model through Submission Results of Shared Task<br/>
-The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021 Findings) (November 2021). [\[paper\]](https://aclanthology.org/2021.findings-emnlp.383/).
-9. <u>Shuhei Kurita</u> and Kyunghyun Cho,<br/>
-Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
+5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine, Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
+6. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Yoshitaka Ushiku and Shinsuke Mori, Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
+7. Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe, ScanQA: 3D Question Answering for Spatial Scene Understanding, The 2022 Conference on Computer Vision and Pattern Recognition (CVPR2022). (\*): Equally contributed. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.html). [\[arXiv\]](https://arxiv.org/abs/2112.10482). [\[github\]](https://github.com/ATR-DBI/ScanQA).
+8. Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba and Satoshi Sekine, Co-Teaching Student-Model through Submission Results of Shared Task, The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021 Findings) (November 2021). [\[paper\]](https://aclanthology.org/2021.findings-emnlp.383/).
+9. <u>Shuhei Kurita</u> and Kyunghyun Cho, Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,<br/>
 Ninth International Conference on Learning Representations (ICLR2021), Online (May 2021). [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[paper\]](https://openreview.net/pdf?id=45uOPa46Kh), [\[github\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
-10. <u>Shuhei Kurita</u> and Kyunghyun Cho,<br/>
-Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,<br/>
+10. <u>Shuhei Kurita</u> and Kyunghyun Cho, Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,<br/>
 ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online (July 2020). [\[link\]](https://sites.google.com/view/icml-laow2020/home).
-11. <u>Shuhei Kurita</u> and Anders Søgaard,<br/>
-Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,<br/>
-Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019),<br/>
-Florence, Italy, (July 2019).
-Long paper. [\[github\]](https://github.com/shuheikurita/semrl), [\[paper\]](https://arxiv.org/abs/1906.01239).
-12. Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, Shinomoto S,<br/>
-A method for estimating synaptic connections from parallel spike trains,<br/>
-The 5th International Conference on Mathematical NeuroScience (ICMNS2019)<br/>
+11. <u>Shuhei Kurita</u> and Anders Søgaard, Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies, Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2019),<br/>
+Florence, Italy, (July 2019). Long paper. [\[github\]](https://github.com/shuheikurita/semrl), [\[paper\]](https://arxiv.org/abs/1906.01239).
+12. Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, Shinomoto S, A method for estimating synaptic connections from parallel spike trains, The 5th International Conference on Mathematical NeuroScience (ICMNS2019)<br/>
 Copenhagen, Denmark, (June 2019).
-14. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond, Shigeru Shinomoto,<br/>
-Estimation of synaptic connections from parallel spike trains,<br/>
-13th International Neural coding (NC2018)<br/>
-Torino, Italy, (September 2018).
-15. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
-Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,<br/>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2018), Melbourne, Australia, (July 2018).
-Long paper. [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
-16. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
-Neural Joint Model for Transition-based Chinese Syntactic Analysis,<br/>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), Vancouver, Canada, (July 2017).
-Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
+14. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond, Shigeru Shinomoto, Estimation of synaptic connections from parallel spike trains, The 13th International Neural coding (NC2018), Torino, Italy, (September 2018).
+15. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi, Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis, Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2018), Melbourne, Australia, (July 2018). Long paper. [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
+16. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi, Neural Joint Model for Transition-based Chinese Syntactic Analysis, Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), Vancouver, Canada, (July 2017). Long paper. [\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
 **Selected as Out-standing Paper! (2% of submissions)**
-17. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,<br/>
-Testing statistical significance of synaptic connectivity,<br/>
-12th International Neural coding, NC2016<br/>
-Cologne, Federal Republic of Germany, (September 2016).
+17. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto, Testing statistical significance of synaptic connectivity, The 12th International Neural coding, (NC2016), Cologne, Federal Republic of Germany, (September 2016).
 
 <h3><strong>Local Conferences</strong></h3>
 
