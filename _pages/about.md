@@ -24,7 +24,7 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 Two papers are accepted to LREC-COLING2024!<br/>
 Eri Onami, Shuhei Kurita, Taiki Miyanishi, Taro Watanabe,<br/>
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models<br/>
-Chieko Nishimura, Shuhei Kurita and Yohei Seki,
+Chieko Nishimura, Shuhei Kurita and Yohei Seki,<br/>
 Text360Nav: 360-Degree Image Captioning Dataset for \\Urban Pedestrians Navigation<br/>
 
 ### 8, Oct., 2023
