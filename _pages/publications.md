@@ -26,7 +26,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 1. Eri Onami, <u>Shuhei Kurita</u>,, Taiki Miyanishi, Taro Watanabe,
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
 1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
-Text360Nav: 360-Degree Image Captioning Dataset for \\Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
+Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
 1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u>, Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
