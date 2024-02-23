@@ -23,14 +23,14 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 <h3><strong>Proceedings</strong></h3>
 
 {:start="4"}
-1. Eri Onami, <u>Shuhei Kurita</u>,, Taiki Miyanishi, Taro Watanabe,
+1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
 1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
 Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
-1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u>, Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
-1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
+1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
+1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
-1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
+1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu and Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino, Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial (2023).
 4. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 5. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine, Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022).
