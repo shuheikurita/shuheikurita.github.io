@@ -11,7 +11,7 @@ redirect_from:
 <!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
 ## <span style='color: 	navy;'>Bio</span>
-I'm a researcher in RIKEN AIP and JST PRESTO. My research interests include natural language processing/understanding (NLP/NLU) with machine learning approaches, deep reinforcement learning (DRL), neuroscience, and statistical/computational physics. Currently, I have a keen interest in developing models with real world understandings such as the [*vision-and-language navigation*](https://bringmeaspoon.org/) task with [a language-generation model](https://github.com/shuheikurita/glgp) and 3D world understanding such as [ScanQA](https://arxiv.org/abs/2112.10482) dataset.<br>
+I'm a assistant professor in National Institute of Informatics. My research interests include natural language processing/understanding (NLP/NLU) with machine learning approaches, deep reinforcement learning (DRL), neuroscience, and statistical/computational physics. Currently, I have a keen interest in developing models with real world understandings such as the [*vision-and-language navigation*](https://bringmeaspoon.org/) task with [a language-generation model](https://github.com/shuheikurita/glgp) and 3D world understanding such as [ScanQA](https://arxiv.org/abs/2112.10482) dataset.<br>
 Ph.D. of Informatics (Kyoto University) in March 2019.
 
 <p>
