@@ -13,7 +13,9 @@ Feel free to contact me for a full cv (pdf).
 
 ## Professional experience
 
-* 2023/04 - present
+* 2024/04 - present
+  * Assistant Professor, National institute of Informatics.
+* 2023/04 - 2024/03
   * Research scientist in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
 * 2020/12 - present 
