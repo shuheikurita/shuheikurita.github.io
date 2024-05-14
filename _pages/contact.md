@@ -8,5 +8,5 @@ author_profile: true
 
 Feel free to contact me.
 
-skurita at nii.ac.jp
+skurita at nii.ac.jp<br>
 (OLD) shuhei.kurita at riken.jp
