@@ -8,4 +8,4 @@ author_profile: true
 
 Feel free to contact me.
 
-shuhei.kurita at riken.jp
+skurita at nii.ac.jp
