@@ -23,7 +23,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 <h3><strong>Proceedings</strong></h3>
 
 {:start="4"}
-1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara
+1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
