@@ -7,6 +7,15 @@ author_profile: true
 {% include base_path %}
 
 <!--<br><br><strong></strong><br><br>-->
+
+<h3><strong>Preprints</strong></h3>
+1. Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
+
+2. Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
+
+3. Hao Wang, Shuhei Kurita, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, arXiv:2401.09759. [\[paper\]](https://arxiv.org/abs/2401.09759)
+
+
 <h3><strong>Journals</strong></h3>
 
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
@@ -26,9 +35,9 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
-JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
+JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/> [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
 1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
-Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/>
+Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/> [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
 1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
