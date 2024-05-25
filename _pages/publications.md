@@ -20,15 +20,15 @@ author_profile: true
 <h3><strong>Journals</strong></h3>
 
 {:start="4"}
-1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
-Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
+1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
+Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),
 Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 2. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,<br/>
-Reconstructing neuronal circuitry from parallel spike trains,<br/>
+Reconstructing neuronal circuitry from parallel spike trains,
 Nature Communications volume 10, Article number: 4468 (2019). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
-3. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,<br/>
-Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows (in Japanese),<br/>
+3. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
+Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows (in Japanese),
 Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 
 <h3><strong>Proceedings</strong></h3>
@@ -37,11 +37,11 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
-JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/> [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
+JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
 1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
-Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).<br/> [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
+Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
 1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, 3DV (2024).
-1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023).
+1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023). [\[paper\]](https://arxiv.org/abs/2310.18773) [\[code\]](https://github.com/atr-dbi/cityrefer)
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023).
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu and Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes EMNLP2023 findings (2023).
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino, Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial (2023).
