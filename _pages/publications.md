@@ -9,6 +9,7 @@ author_profile: true
 <!--<br><br><strong></strong><br><br>-->
 
 <h3><strong>Preprints</strong></h3>
+
 1. Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
 
 2. Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
@@ -18,6 +19,7 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
+{:start="4"}
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,<br/>
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),<br/>
 Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
@@ -31,7 +33,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="4"}
+{:start="7"}
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
