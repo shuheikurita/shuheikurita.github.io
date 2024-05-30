@@ -10,7 +10,7 @@ author_profile: true
 
 <h3><strong>Preprints</strong></h3>
 
-1 Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Motoaki Kawanabe, Map-based Modular Approach for Zero-shot Embodied Question Answering, arXiv:2405.16559. [\[paper\]](https://arxiv.org/abs/2405.16559)
+1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Motoaki Kawanabe, Map-based Modular Approach for Zero-shot Embodied Question Answering, arXiv:2405.16559. [\[paper\]](https://arxiv.org/abs/2405.16559)
 
 1. Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
 
@@ -21,7 +21,7 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-{:start="4"}
+{:start="5"}
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),
 Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
@@ -35,7 +35,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="7"}
+{:start="8"}
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
