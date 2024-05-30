@@ -10,6 +10,8 @@ author_profile: true
 
 <h3><strong>Preprints</strong></h3>
 
+1 Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Motoaki Kawanabe, Map-based Modular Approach for Zero-shot Embodied Question Answering, arXiv:2405.16559. [\[paper\]](https://arxiv.org/abs/2405.16559)
+
 1. Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
 
 2. Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
