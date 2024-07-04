@@ -38,7 +38,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 {:start="8"}
 1. Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto and Motoaki Kawanabe
 Answerability Fields: Answerable Location Estimation via Diffusion Models, IROS 2024.
-1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Motoaki Kawanabe,
+1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita and Motoaki Kawanabe,
 Map-based Modular Approach for Zero-shot Embodied Question Answering, IROS 2024. [\[paper\]](https://arxiv.org/abs/2405.16559)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
