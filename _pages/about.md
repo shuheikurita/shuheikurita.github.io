@@ -20,11 +20,16 @@ Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" he
 
 ## <span style='color: green;'>News</span>
 
+### 30, June, 2024
+Two papers are accepted to IROS2024!<br/>
+Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto and Motoaki Kawanabe Answerability Fields: Answerable Location Estimation via Diffusion Models, IROS 2024.<br/>
+Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita and Motoaki Kawanabe, Map-based Modular Approach for Zero-shot Embodied Question Answering, IROS 2024.<br/>
+
 ### 21, Feb., 2024
 Two papers are accepted to LREC-COLING2024!<br/>
-Eri Onami, Shuhei Kurita, Taiki Miyanishi, Taro Watanabe,<br/>
+Eri Onami, Shuhei Kurita, Taiki Miyanishi, Taro Watanabe,
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models<br/>
-Chieko Nishimura, Shuhei Kurita and Yohei Seki,<br/>
+Chieko Nishimura, Shuhei Kurita and Yohei Seki,
 Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation<br/>
 
 ### 8, Oct., 2023
