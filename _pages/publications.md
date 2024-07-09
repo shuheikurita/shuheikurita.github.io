@@ -44,10 +44,6 @@ Map-based Modular Approach for Zero-shot Embodied Question Answering, IROS 2024.
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
-1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
-Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
-1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
-JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
 1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
 Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
 1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, International Conference on 3D Vision 2024 (3DV 2024). [\[paper\]](https://arxiv.org/abs/2305.13876)
