@@ -10,18 +10,20 @@ author_profile: true
 
 <h3><strong>Preprints</strong></h3>
 
-1. Jungdae Lee, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue, CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information, arXiv:2406.14240. [\[paper\]](https://arxiv.org/abs/2406.14240)
+1.LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
 
-1. Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
+1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue, CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information, arXiv:2406.14240. [\[paper\]](https://arxiv.org/abs/2406.14240)
 
-2. Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
+1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
 
-3. Hao Wang, Shuhei Kurita, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, arXiv:2401.09759. [\[paper\]](https://arxiv.org/abs/2401.09759)
+2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
+
+3. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, arXiv:2401.09759. [\[paper\]](https://arxiv.org/abs/2401.09759)
 
 
 <h3><strong>Journals</strong></h3>
 
-{:start="5"}
+{:start="6"}
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
 Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),
 Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
@@ -35,7 +37,7 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="8"}
+{:start="9"}
 1. Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto and Motoaki Kawanabe
 Answerability Fields: Answerable Location Estimation via Diffusion Models, IROS 2024.
 1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita and Motoaki Kawanabe,
