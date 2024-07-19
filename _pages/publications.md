@@ -38,9 +38,12 @@ Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 <h3><strong>Proceedings</strong></h3>
 
 {:start="9"}
-1. Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto and Motoaki Kawanabe
+1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku, Nakamasa Inoue,
+AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,
+Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024).
+1. Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto and Motoaki Kawanabe,
 Answerability Fields: Answerable Location Estimation via Diffusion Models, IROS 2024.
-1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, Shuhei Kurita and Motoaki Kawanabe,
+1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
 Map-based Modular Approach for Zero-shot Embodied Question Answering, IROS 2024. [\[paper\]](https://arxiv.org/abs/2405.16559)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
