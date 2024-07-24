@@ -28,7 +28,7 @@ author_profile: true
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
 Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows (in Japanese),
 Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
-1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,<br/>
+1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,
 Reconstructing neuronal circuitry from parallel spike trains,
 Nature Communications volume 10, Article number: 4468 (2019). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
@@ -51,7 +51,7 @@ Map-based Modular Approach for Zero-shot Embodied Question Answering,
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
 [\[paper\]](https://arxiv.org/abs/2405.16559)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
-Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).<br/>
+Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
 JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
 1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
