@@ -24,20 +24,22 @@ author_profile: true
 <h3><strong>Journals</strong></h3>
 
 {:start="6"}
-1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
-Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),
-Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
-2. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,<br/>
+1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine, Wikipedia Link Extension and Expected Entity Rate Estimation for Training Named Entity Recognizer (in Japanese), Natural Language Processing (in Japan), Vol.XX,  No.X, p.XXXX-XXXX, (2024.9).
+1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
+Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows (in Japanese),
+Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
+1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,<br/>
 Reconstructing neuronal circuitry from parallel spike trains,
 Nature Communications volume 10, Article number: 4468 (2019). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
-3. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
-Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows (in Japanese),
-Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
+1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
+Neural Network-based Chinese Joint Syntactic Analysis (in Japanese),
+Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
+
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="9"}
+{:start="10"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku, Nakamasa Inoue,
 AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,
 Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024).
