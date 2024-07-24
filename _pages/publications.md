@@ -11,15 +11,10 @@ author_profile: true
 <h3><strong>Preprints</strong></h3>
 
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
-
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue, CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information, arXiv:2406.14240. [\[paper\]](https://arxiv.org/abs/2406.14240)
-
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
-
 2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
-
 3. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, arXiv:2401.09759. [\[paper\]](https://arxiv.org/abs/2401.09759)
-
 
 <h3><strong>Journals</strong></h3>
 
@@ -61,7 +56,7 @@ Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Query-based Image Captioning from Multi-context 360° Images, EMNLP2023 findings (2023). [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu and Sadao Kurohashi, ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes, EMNLP2023 findings (2023). [\[paper\]](https://aclanthology.org/2023.findings-emnlp.56/)  [\[code\]](https://github.com/ku-nlp/ARKitSceneRefer)
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino, Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface, IJCNLP-AACL2023 Tutorial (2023).
-1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D, The 2023 International Conference on Computer Vision (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
+1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023). [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 1. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine, Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022). [\[paper\]](https://aclanthology.org/2022.coling-1.478/)
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Yoshitaka Ushiku and Shinsuke Mori, Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022). [\[paper\]](https://aclanthology.org/2022.coling-1.315/).
 1. Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe, ScanQA: 3D Question Answering for Spatial Scene Understanding, The 2022 Conference on Computer Vision and Pattern Recognition (CVPR2022). (\*): Equally contributed. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.html) [\[arXiv\]](https://arxiv.org/abs/2112.10482) [\[code\]](https://github.com/ATR-DBI/ScanQA)
