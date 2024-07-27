@@ -18,7 +18,7 @@ Feel free to contact me for a full cv (pdf).
 * 2023/04 - 2024/03
   * Research scientist in Center for Advanced Intelligence Project (AIP), RIKEN.
   * with Prof. Satoshi Sekine.
-* 2020/12 - present 
+* 2020/12 - 2022/03
   * Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
 * 2020/01 - present
   * Visiting Researcher for Assoc. Prof. Kyunghyun Cho, New York University.
