@@ -162,7 +162,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 宮西大樹, 東大地, <u>栗田修平</u>, 川鍋一晃
 1. ARKitSceneRefer: 3D屋内シーンでの参照表現による小物の位置特定<br/>
 言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.<br/>
-加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫
+加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫<br/>
 **Selected as Yong Reseacher Award! (for the first author)**
 1. QuIC-360◦: 360◦ 画像に対するクエリ指向画像説明文生成のためのデータセット構築<br/>
 言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.<br/>
@@ -178,7 +178,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 中山功太, <u>栗田修平</u>, 小林暁雄, 馬場雪乃, 関根聡
 1. 視覚と言語によるナビゲーション課題への言語に対応付けられた生成的な方策<br/>
 言語処理学会第27回年次大会, オンライン, 2021.3.15-19.<br/>
-<u>栗田修平</u>, Kyunghyun Cho
+<u>栗田修平</u>, Kyunghyun Cho<br/>
 **Selected as Committee Member's Special Award!**
 1. 能動的サンプリングを用いたリソース構築共有タスクにおける予測対象データ削減<br/>
 言語処理学会第27回年次大会, オンライン, 2021.3.15-19.<br/>
@@ -191,7 +191,7 @@ Neuro 2019, 新潟, 2019.7.<br/>
 Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
 1. 深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する<br/>
 言語処理学会第25回年次大会, 名古屋, 2019.3.11-15.<br/>
-<u>栗田修平</u>, Anders Søgaard
+<u>栗田修平</u>, Anders Søgaard<br/>
 **Selected as Best Paper Award!**
 1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto<br/>
 Estimating synaptic connections from parallel spike trains<br/>
