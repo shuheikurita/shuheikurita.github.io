@@ -37,15 +37,17 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Proceedings</strong></h3>
 
 {:start="10"}
-1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku, Nakamasa Inoue,
+1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
-Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024). [\[arXiv\]](https://arxiv.org/abs/2407.19410)
+Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 2024.
+[\[arXiv\]](https://arxiv.org/abs/2407.19410)
 1. Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto and Motoaki Kawanabe,
 "Answerability Fields: Answerable Location Estimation via Diffusion Models,"
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).  [\[arXiv\]](https://arxiv.org/abs/2407.18497)
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
+[\[arXiv\]](https://arxiv.org/abs/2407.18497)
 1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
 "Map-based Modular Approach for Zero-shot Embodied Question Answering,"
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
@@ -65,7 +67,7 @@ International Conference on 3D Vision 2024 (3DV2024), 2024.
 [\[paper\]](https://arxiv.org/abs/2305.13876)
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue,
 "CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data,"
-NeurIPS2023 Datasets and Benchmarks track (2023).
+NeurIPS2023 Datasets and Benchmarks track, New Orleans, Dec. 2023.
 [\[paper\]](https://arxiv.org/abs/2310.18773) [\[code\]](https://github.com/atr-dbi/cityrefer)
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Naoaki Okazaki.
 "Query-based Image Captioning from Multi-context 360cdegree Images,"
@@ -106,7 +108,7 @@ Ninth International Conference on Learning Representations (ICLR2021), Online, M
 [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[paper\]](https://openreview.net/pdf?id=45uOPa46Kh) [\[github\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
 1. <u>Shuhei Kurita</u> and Kyunghyun Cho,
 "Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,"
-ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online (July 2020).
+ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online, July 2020.
 [\[link\]](https://sites.google.com/view/icml-laow2020/home).
 1. <u>Shuhei Kurita</u> and Anders Søgaard,
 "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,"
