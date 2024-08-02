@@ -140,14 +140,14 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 西村千恵子, <u>栗田修平</u>, 関洋平
 1. JDocQA: 図表を含む日本語文書質問応答データセットによる大規模言語モデルチューニング<br/>
 言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
-大南英理, <u>栗田修平</u>, 宮西大樹, 渡辺太郎
+大南英理, <u>栗田修平</u>, 宮西大樹, 渡辺太郎<br/>
+**Selected as Yong Reseacher Award! (for the first author) and two sponsor awards!**
 1. 	SlideAVSR: 視聴覚音声認識のための論文解説動画データセット<br/>
 言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
 王昊, <u>栗田修平</u>, 清水周一郎, 河原大輔
-1. JDocQA: 図表を含む日本語文書質問応答データセットによる大規模言語モデルチューニング<br/>
+1. Uzushio: A Distributed Huge Corpus Processor for the LLM Era<br/>
 言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
-大南英理, <u>栗田修平</u>, 宮西大樹, 渡辺太郎
-**Selected as Yong Reseacher Award! (for the first author) and two sponsor awards!**
+Arseny Tolmachev, Masayoshi Hayashi, Takuro Niitsuma, Rintaro Enomoto, Hao Wang, <u>Shuhei Kurita</u>, Daisuke Kawahara, Kazuma Takaoka, Yoshitaka Uchida
 1. 視覚的文脈を利用した視覚言語モデルによる画像キャプション生成自動評価手法<br/>
 言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
 前田航希, <u>栗田修平</u>, 宮西大樹, 岡崎直観 
