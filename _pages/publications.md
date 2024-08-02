@@ -36,26 +36,37 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 {:start="10"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku, Nakamasa Inoue,
-AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,
+"AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
 Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024). [\[arXiv\]](https://arxiv.org/abs/2407.19410)
 1. Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto and Motoaki Kawanabe,
-Answerability Fields: Answerable Location Estimation via Diffusion Models,
+"Answerability Fields: Answerable Location Estimation via Diffusion Models,"
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).  [\[arXiv\]](https://arxiv.org/abs/2407.18497)
 1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
-Map-based Modular Approach for Zero-shot Embodied Question Answering,
+"Map-based Modular Approach for Zero-shot Embodied Question Answering,"
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, Daisuke Kawahara,
-Investigating Web Corpus Filtering Methods in Language Model Development, NAACL Student Research Workshop (NAACL SRW 2024).
-1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi and Taro Watanabe,
-JDocQA: Japanese Document Question Answering Dataset for Generative Language Models, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
-1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
-Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
-1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe, Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans, International Conference on 3D Vision 2024 (3DV 2024). [\[paper\]](https://arxiv.org/abs/2305.13876)
-1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue, CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data, NeurIPS2023 Datasets and Benchmarks track (2023). [\[paper\]](https://arxiv.org/abs/2310.18773) [\[code\]](https://github.com/atr-dbi/cityrefer)
+"Investigating Web Corpus Filtering Methods in Language Model Development,"
+NAACL Student Research Workshop (NAACL SRW 2024).
+1. Eri Onami, Shuhei Kurita, Taiki Miyanishi, and Taro Watanabe. 2024.
+"JDocQA: Japanese Document Question Answering Dataset for Generative Language Models,"
+In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 9503–9514, Torino. 2024.
+[\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
+1. Chieko Nishimura, Shuhei Kurita, and Yohei Seki. 2024.
+"Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation,"
+In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 15783–15788, Torino, Italia, 2024.
+[\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
+1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
+"Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans,"
+International Conference on 3D Vision 2024 (3DV2024), 2024.
+[\[paper\]](https://arxiv.org/abs/2305.13876)
+1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue,
+"CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data,"
+NeurIPS2023 Datasets and Benchmarks track (2023).
+[\[paper\]](https://arxiv.org/abs/2310.18773) [\[code\]](https://github.com/atr-dbi/cityrefer)
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Naoaki Okazaki. Query-based Image Captioning from Multi-context 360cdegree Images. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6940–6954, Singapore, 2023. [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, and Sadao Kurohashi. ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 784–799, Singapore, 2023. [\[paper\]](https://aclanthology.org/2023.findings-emnlp.56/) [\[code\]](https://github.com/ku-nlp/ARKitSceneRefer)
-1. Yutaka Nakamura,  <u>Shuhei Kurita</u>, and Koichiro Yoshino. *Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface.* In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Tutorial Abstract (AACL-IJCNLP Tutorial), pages 1–7, 2023. [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
+1. Yutaka Nakamura,  <u>Shuhei Kurita</u>, and Koichiro Yoshino. "Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface." In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Tutorial Abstract (AACL-IJCNLP Tutorial), pages 1–7, 2023. [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
 1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023), pages 15214-15224, 2023. [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 1. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine, Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022). [\[paper\]](https://aclanthology.org/2022.coling-1.478/)
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Yoshitaka Ushiku and Shinsuke Mori, Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows, The 29th International Conference on Computational Linguistics (COLING2022) (October 2022). [\[paper\]](https://aclanthology.org/2022.coling-1.315/).
