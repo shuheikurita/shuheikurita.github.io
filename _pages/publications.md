@@ -136,53 +136,53 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 <h3><strong>Local Conferences</strong></h3>
 
 1. 異なるRGB-Dスキャンを用いたデータセット横断3D言語接地<br/>
-2023年度 人工知能学会全国大会（第37回）,熊本, (2023.6.6-9)<br/>
+2023年度 人工知能学会全国大会（第37回）,熊本, 2023.6.6-9<br/>
 宮西大樹, 東大地, <u>栗田修平</u>, 川鍋一晃
 1. ARKitSceneRefer: 3D屋内シーンでの参照表現による小物の位置特定<br/>
-言語処理学会第29回年次大会, 沖縄, (2023.3.13-17).<br/>
+言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.<br/>
 加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫
 **Selected as Yong Reseacher Award! (for the first author)**
 1. QuIC-360◦: 360◦ 画像に対するクエリ指向画像説明文生成のためのデータセット構築<br/>
-言語処理学会第29回年次大会, 沖縄, (2023.3.13-17).<br/>
+言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.<br/>
 前田航希, <u>栗田修平</u>, 宮西大樹
 1. テキスト条件付き物体検出器と参照表現理解への応用<br/>
-第25回 画像の認識・理解シンポジウム(MIRU2022), 姫路, (2022.7.25-28).<br/>
+第25回 画像の認識・理解シンポジウム(MIRU2022), 姫路, 2022.7.25-28.<br/>
 桂尚輝, <u>栗田修平</u>
 1. レシピ分野における動作対象の状態変化を考慮したデータセットの構築と検索モデルの提案<br/>
-言語処理学会第28回年次大会, オンライン, (2022.3.14-18).<br/>
+言語処理学会第28回年次大会, オンライン, 2022.3.14-18.<br/>
 白井圭佑, 橋本敦史, 牛久祥孝, <u>栗田修平</u>, 亀甲博貴, 森信介
 1. 共有タスクへの結果提出を通した生徒モデルの共同教育手法<br/>
-言語処理学会第28回年次大会, オンライン, (2022.3.14-18).<br/>
+言語処理学会第28回年次大会, オンライン, 2022.3.14-18.<br/>
 中山功太, <u>栗田修平</u>, 小林暁雄, 馬場雪乃, 関根聡
 1. 視覚と言語によるナビゲーション課題への言語に対応付けられた生成的な方策<br/>
-言語処理学会第27回年次大会, オンライン, (2021.3.15-19).<br/>
+言語処理学会第27回年次大会, オンライン, 2021.3.15-19.<br/>
 <u>栗田修平</u>, Kyunghyun Cho
 **Selected as Committee Member's Special Award!**
 1. 能動的サンプリングを用いたリソース構築共有タスクにおける予測対象データ削減<br/>
-言語処理学会第27回年次大会, オンライン, (2021.3.15-19).<br/>
+言語処理学会第27回年次大会, オンライン, 2021.3.15-19.<br/>
 中山功太, <u>栗田修平</u>, 馬場雪乃, 関根聡
 1. Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法<br/>
-言語処理学会第26回年次大会, オンライン, (2020.3.16-19).<br/>
+言語処理学会第26回年次大会, オンライン, 2020.3.16-19.<br/>
 中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡
 1. 多細胞スパイクデータからシナプス結合を推定する技術の開発<br/>
-Neuro 2019, 新潟 (2019.7).<br/>
+Neuro 2019, 新潟, 2019.7.<br/>
 Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, and Shinomoto S.
 1. 深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する<br/>
-言語処理学会第25回年次大会, 名古屋, (2019.3.11-15).<br/>
+言語処理学会第25回年次大会, 名古屋, 2019.3.11-15.<br/>
 <u>栗田修平</u>, Anders Søgaard
 **Selected as Best Paper Award!**
 1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto<br/>
 Estimating synaptic connections from parallel spike trains<br/>
-28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, (October 2018).
+28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, Oct. 2018.
 1. ニューラルネットワークに基づく単語分割・品詞付与・構文解析の統合解析<br/>
-言語処理学会第23回年次大会, つくば, (2017.3.13-17).<br/>
+言語処理学会第23回年次大会, つくば, 2017.3.13-17.<br/>
 <u>栗田修平</u>, 河原大輔, 黒橋禎夫
 1. 神経回路シミュレーションデータを用いた結合推定<br/>
-日本物理学会第69回年次大会, 27pAJ-13, 神奈川,(2014.3).<br/>
+日本物理学会第69回年次大会, 27pAJ-13, 神奈川, 2014.3.<br/>
 <u>栗田修平</u>, 小林亮太, 北野勝則, 篠本滋
 1. <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto<br/>
 Minimal time length of spike trains for the inference of connectivity<br/>
-24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
+24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
 
 
 <h3><strong>Invited Talks</strong></h3>
