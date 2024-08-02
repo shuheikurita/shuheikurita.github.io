@@ -47,15 +47,15 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024). 
 "Map-based Modular Approach for Zero-shot Embodied Question Answering,"
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
-1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, Shuhei Kurita, and Daisuke Kawahara,
+1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
 In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 154–160, Mexico City, 2024.
 [\[paper\]](https://aclanthology.org/2024.naacl-srw.18/) 
-1. Eri Onami, Shuhei Kurita, Taiki Miyanishi, and Taro Watanabe,
+1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Taro Watanabe,
 "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models,"
 In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 9503–9514, Torino, 2024.
 [\[paper\]](https://aclanthology.org/2024.lrec-main.830/) [\[code\]](https://github.com/mizuumi/JDocQA)
-1. Chieko Nishimura, Shuhei Kurita, and Yohei Seki,
+1. Chieko Nishimura, <u>Shuhei Kurita</u>, and Yohei Seki,
 "Text360Nav: 360-Degree Image Captioning Dataset for Urban Pedestrians Navigation,"
 In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 15783–15788, Torino, 2024.
 [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
@@ -108,7 +108,7 @@ Ninth International Conference on Learning Representations (ICLR2021), Online, M
 "Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,"
 ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online (July 2020).
 [\[link\]](https://sites.google.com/view/icml-laow2020/home).
-1. Shuhei Kurita and Anders Søgaard,
+1. <u>Shuhei Kurita</u> and Anders Søgaard,
 "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,"
 In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 2420–2430, Florence, Italy, 2019.
 [\[paper\]](https://aclanthology.org/P19-1232/) [\[github\]](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
@@ -132,8 +132,6 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 The 12th international workshop of neural coding, (NC2016), Cologne, Federal Republic of Germany, Sep. 2016.
 
 <h3><strong>Local Conferences</strong></h3>
-
-{:start="34"}
 
 1. 異なるRGB-Dスキャンを用いたデータセット横断3D言語接地<br/>
 2023年度 人工知能学会全国大会（第37回）,熊本, (2023.6.6-9)<br/>
@@ -184,7 +182,6 @@ Estimating synaptic connections from parallel spike trains<br/>
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
 
-{:start="49"}
 
 <h3><strong>Invited Talks</strong></h3>
 1. テキストからの実世界理解に向けて <br/>
