@@ -133,6 +133,8 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 
 <h3><strong>Local Conferences</strong></h3>
 
+{:start="34"}
+
 1. 異なるRGB-Dスキャンを用いたデータセット横断3D言語接地<br/>
 2023年度 人工知能学会全国大会（第37回）,熊本, (2023.6.6-9)<br/>
 宮西大樹, 東大地, <u>栗田修平</u>, 川鍋一晃
@@ -181,6 +183,8 @@ Estimating synaptic connections from parallel spike trains<br/>
 1. <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto<br/>
 Minimal time length of spike trains for the inference of connectivity<br/>
 24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, (August 2014).
+
+{:start="49"}
 
 <h3><strong>Invited Talks</strong></h3>
 1. テキストからの実世界理解に向けて <br/>
