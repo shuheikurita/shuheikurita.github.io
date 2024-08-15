@@ -14,11 +14,10 @@ author_profile: true
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue, CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information, arXiv:2406.14240. [\[paper\]](https://arxiv.org/abs/2406.14240)
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
 2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
-3. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, arXiv:2401.09759. [\[paper\]](https://arxiv.org/abs/2401.09759)
 
 <h3><strong>Journals</strong></h3>
 
-{:start="6"}
+{:start="5"}
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine,
 "Wikipedia Link Extension and Expected Entity Rate Estimation for Training Named Entity Recognizer" (in Japanese),
 Natural Language Processing (in Japan), Vol.XX,  No.X, p.XXXX-XXXX, (2024.9).
@@ -36,7 +35,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="10"}
+{:start="9"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
 Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 2024.
@@ -49,6 +48,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 
 "Map-based Modular Approach for Zero-shot Embodied Question Answering,"
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
+3. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
 In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 154–160, Mexico City, 2024.
