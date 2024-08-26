@@ -82,6 +82,9 @@ In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 
 In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Tutorial Abstract (AACL-IJCNLP Tutorial), pages 1–7, Bali, 2023.
 [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
 1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
+“RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,”
+IEEE/CVF International Conference on Computer Vision Workshop on Language for 3D Scenes, Paris, 2023.
+1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
 "RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,"
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023), pages 15214-15224, 2023.
 [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
