@@ -115,7 +115,7 @@ ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop
 [\[link\]](https://sites.google.com/view/icml-laow2020/home).
 1. <u>Shuhei Kurita</u> and Anders Søgaard,
 "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,"
-In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 2420–2430, Florence, Italy, 2019.
+In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, ACL2019, pages 2420–2430, Florence, Italy, 2019.
 [\[paper\]](https://aclanthology.org/P19-1232/) [\[github\]](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
 1. Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, Shinomoto S,
 "A method for estimating synaptic connections from parallel spike trains,"
@@ -125,11 +125,11 @@ The 5th International Conference on Mathematical NeuroScience (ICMNS2019), Copen
 The 13th international workshop of neural coding (NC2018), Torino, Italy, Sep. 2018.
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara, and Sadao Kurohashi.
 "Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,"
-In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 474–484, Melbourne, 2018.
+In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL2018, pages 474–484, Melbourne, 2018.
 [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara, and Sadao Kurohashi,
 "Neural Joint Model for Transition-based Chinese Syntactic Analysis,"
-In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 1204–1214, Vancouver, 2017.
+In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL2017, pages 1204–1214, Vancouver, 2017.
 [\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
 **Selected as Out-standing Paper! (2% of submissions)**
 1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,
