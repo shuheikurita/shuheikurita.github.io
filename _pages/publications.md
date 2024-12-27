@@ -199,6 +199,9 @@ Google NLP Summit, Zurich, Switzerland (2017 Oct.).<br/>
 <u>Shuhei Kurita</u>
 
 <h3><strong>Talks</strong></h3>
+1. 日本語マルチモーダル生成AIサービス ～Geminiを例に～<br/>
+【第77回】 大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」 (2024. May) <br/>
+<u>栗田修平</u>
 1. 実世界にグラウンドされた自然言語理解のこれまでとこれから<br/>
-第7回Language and Robotics研究会 [link](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
+第7回Language and Robotics研究会 (2022. Oct) [link](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
 <u>栗田修平</u>
