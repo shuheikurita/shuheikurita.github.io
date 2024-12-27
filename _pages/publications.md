@@ -28,7 +28,7 @@ Natural Language Processing (in Japan), Vol.31,  No.3, p.1239-1291, (2024.9).
 Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
 1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,
 "Reconstructing neuronal circuitry from parallel spike trains,"
-Nature Communications, volume 10, Article number: 4468 (2019). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
+Nature Communications, Vol.10, Article number: 4468 (2019.10). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
 "Neural Network-based Chinese Joint Syntactic Analysis" (in Japanese),
