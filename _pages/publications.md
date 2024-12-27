@@ -169,6 +169,9 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 49.	<u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto，”Minimal time length of spike trains for the inference of connectivity”，24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
 
 <h3><strong>Invited Talks</strong></h3>
+1. 実世界、3D、ロボティクスと言語理解 ～ 画像と言語の理解を超えて ～ <br/>
+パターン認識・メディア理解研究会（PRMU）チュートリアル講演 (2024 Nov. 29).<br/>
+<u>栗田修平</u>
 1. テキストからの実世界理解に向けて <br/>
 第26回情報論的学習理論ワークショップ (2023 Oct. 29).<br/>
 <u>栗田修平</u>
