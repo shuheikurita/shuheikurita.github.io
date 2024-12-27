@@ -18,9 +18,11 @@ author_profile: true
 <h3><strong>Journals</strong></h3>
 
 {:start="5"}
+1. Kenta Gunji, Kazunori Ohno, Shuhei Kurita, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo, Satoshi Tadokoro,
+"Validation of LLM-Generated Object Co-Occurrence Information for Understanding Three-Dimensional Scenes," IEEE Access Vol.12, p.186573-186585, (2024.12).
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine,
 "Wikipedia Link Extension and Expected Entity Rate Estimation for Training Named Entity Recognizer" (in Japanese),
-Natural Language Processing (in Japan), Vol.XX,  No.X, p.XXXX-XXXX, (2024.9).
+Natural Language Processing (in Japan), Vol.31,  No.3, p.1239-1291, (2024.9).
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
 "Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows" (in Japanese),
 Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
@@ -35,7 +37,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="9"}
+{:start="10"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
 Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 2024.
