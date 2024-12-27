@@ -12,7 +12,7 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-1. Kenta Gunji, Kazunori Ohno, Shuhei Kurita, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo, Satoshi Tadokoro,
+1. Kenta Gunji, Kazunori Ohno, <u>Shuhei Kurita</u>, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo, Satoshi Tadokoro,
 "Validation of LLM-Generated Object Co-Occurrence Information for Understanding Three-Dimensional Scenes," IEEE Access, Vol.12, p.186573-186585, (2024.12).
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine,
 "Wikipedia Link Extension and Expected Entity Rate Estimation for Training Named Entity Recognizer" (in Japanese),
