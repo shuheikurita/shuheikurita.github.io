@@ -29,7 +29,7 @@ My contribution: Large-scale biological neural network simulation.
 Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 
-<h3><strong>Proceedings</strong></h3>
+<h3><strong>Conference Proceedings</strong></h3>
 
 {:start="6"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
@@ -111,6 +111,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 **Selected as Out-standing Paper! (2% of submissions)**
 
 <h3><strong>Workshops</strong></h3>
+{:start="26"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
