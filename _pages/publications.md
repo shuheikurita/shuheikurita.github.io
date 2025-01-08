@@ -31,7 +31,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 <h3><strong>Proceedings</strong></h3>
 
-{:start="10"}
+{:start="6"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
 Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 2024.
@@ -44,11 +44,6 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 
 "Map-based Modular Approach for Zero-shot Embodied Question Answering,"
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
-3. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
-1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
-"Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
-In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 154–160, Mexico City, 2024.
-[\[paper\]](https://aclanthology.org/2024.naacl-srw.18/) 
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Taro Watanabe,
 "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models,"
 In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 9503–9514, Torino, 2024.
@@ -67,30 +62,23 @@ NeurIPS2023 Datasets and Benchmarks track, New Orleans, Dec. 2023.
 [\[paper\]](https://arxiv.org/abs/2310.18773) [\[code\]](https://github.com/atr-dbi/cityrefer)
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Naoaki Okazaki.
 "Query-based Image Captioning from Multi-context 360cdegree Images,"
-In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6940–6954, Singapore, 2023.
+In Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP2023 findings), pages 6940–6954, Singapore, 2023.
 [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, and Sadao Kurohashi.
 "ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes,"
-In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 784–799, Singapore, 2023.
+In Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP2023 findings), pages 784–799, Singapore, 2023.
 [\[paper\]](https://aclanthology.org/2023.findings-emnlp.56/) [\[code\]](https://github.com/ku-nlp/ARKitSceneRefer)
-1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino.
-"Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface,"
-In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Tutorial Abstract (AACL-IJCNLP Tutorial), pages 1–7, Bali, 2023.
-[\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
-1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
-“RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,”
-IEEE/CVF International Conference on Computer Vision Workshop on Language for 3D Scenes, Paris, 2023.
 1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
 "RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,"
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023), pages 15214-15224, 2023.
 [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 1. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui, and Satoshi Sekine,
 "Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,"
-In Proceedings of the 29th International Conference on Computational Linguistics, pages 5383–5397, Gyeongju, Republic of Korea, 2022.
+In Proceedings of the 29th International Conference on Computational Linguistics (COLING2022), pages 5383–5397, Gyeongju, Republic of Korea, 2022.
 [\[paper\]](https://aclanthology.org/2022.coling-1.478/)
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Yoshitaka Ushiku, and Shinsuke Mori,
 "Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows,"
-In Proceedings of the 29th International Conference on Computational Linguistics, pages 3570–3577, Gyeongju, Republic of Korea, 2022.
+In Proceedings of the 29th International Conference on Computational Linguistics (COLING2022), pages 3570–3577, Gyeongju, Republic of Korea, 2022.
 [\[paper\]](https://aclanthology.org/2022.coling-1.315/).
 1. Daichi Azuma(\*), Taiki Miyanishi(\*), <u>Shuhei Kurita</u>(\*) and Motoaki Kawanabe,
 "ScanQA: 3D Question Answering for Spatial Scene Understanding,"
@@ -99,39 +87,52 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.html) [\[arXiv\]](https://arxiv.org/abs/2112.10482) [\[code\]](https://github.com/ATR-DBI/ScanQA)
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Akio Kobayashi, Yukino Baba, and Satoshi Sekine,
 "Co-Teaching Student-Model through Submission Results of Shared Task,"
-In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 4525–4535, Punta Cana, 2021.
+In Findings of the Association for Computational Linguistics: EMNLP 2021 (EMNLP2021 findings), pages 4525–4535, Punta Cana, 2021.
 [\[paper\]](https://aclanthology.org/2021.findings-emnlp.383/)
 1. <u>Shuhei Kurita</u> and Kyunghyun Cho,
 "Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes’ Rule,"
 Ninth International Conference on Learning Representations (ICLR2021), Online, May 2021.
 [\[arXiv\]](https://arxiv.org/abs/2009.07783), [\[paper\]](https://openreview.net/pdf?id=45uOPa46Kh) [\[github\]](https://github.com/shuheikurita/glgp), [\[OpenReview\]](https://openreview.net/forum?id=45uOPa46Kh).
-1. <u>Shuhei Kurita</u> and Kyunghyun Cho,
-"Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,"
-ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online, July 2020.
-[\[link\]](https://sites.google.com/view/icml-laow2020/home).
 1. <u>Shuhei Kurita</u> and Anders Søgaard,
 "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,"
-In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, ACL2019, pages 2420–2430, Florence, Italy, 2019.
+In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL2019), pages 2420–2430, Florence, Italy, 2019.
 [\[paper\]](https://aclanthology.org/P19-1232/) [\[github\]](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
 1. Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, Shinomoto S,
 "A method for estimating synaptic connections from parallel spike trains,"
 The 5th International Conference on Mathematical NeuroScience (ICMNS2019), Copenhagen, Denmark, June 2019.
-1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond, Shigeru Shinomoto,
-"Estimation of synaptic connections from parallel spike trains,"
-The 13th international workshop of neural coding (NC2018), Torino, Italy, Sep. 2018.
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara, and Sadao Kurohashi.
 "Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,"
-In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL2018, pages 474–484, Melbourne, 2018.
+In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL2018), pages 474–484, Melbourne, 2018.
 [\[paper\]](https://www.aclweb.org/anthology/P18-1044/).
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara, and Sadao Kurohashi,
 "Neural Joint Model for Transition-based Chinese Syntactic Analysis,"
-In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL2017, pages 1204–1214, Vancouver, 2017.
+In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), pages 1204–1214, Vancouver, 2017.
 [\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
 **Selected as Out-standing Paper! (2% of submissions)**
+
+<h3><strong>Workshops</strong></h3>
+1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
+1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
+"Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
+In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 154–160, Mexico City, 2024.
+[\[paper\]](https://aclanthology.org/2024.naacl-srw.18/) 
+1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino.
+"Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface,"
+In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Tutorial Abstract (AACL-IJCNLP Tutorial), pages 1–7, Bali, 2023.
+[\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
+1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
+“RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,”
+IEEE/CVF International Conference on Computer Vision Workshop on Language for 3D Scenes, Paris, 2023.
+1. <u>Shuhei Kurita</u> and Kyunghyun Cho,
+"Toward Understanding Language-Grounded Agents in Vision-and-Language Navigation,"
+ICML 2020 Workshop on Learning in Artificial Open Worlds (ICML LAOW2020 Workshop), Online, July 2020.
+[\[link\]](https://sites.google.com/view/icml-laow2020/home).
+1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond, Shigeru Shinomoto,
+"Estimation of synaptic connections from parallel spike trains,"
+The 13th international workshop of neural coding (NC2018), Torino, Italy, Sep. 2018.
 1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Yuzuru Yamanaka, Katsunori Kitano and Shigeru Shinomoto,
 "Testing statistical significance of synaptic connectivity,"
 The 12th international workshop of neural coding, (NC2016), Cologne, Federal Republic of Germany, Sep. 2016.
-
 
 <h3><strong>Preprints</strong></h3>
 
