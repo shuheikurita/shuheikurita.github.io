@@ -111,7 +111,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 **Selected as Out-standing Paper! (2% of submissions)**
 
 <h3><strong>Workshops</strong></h3>
-{:start="26"}
+{:start="25"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
@@ -136,7 +136,7 @@ The 13th international workshop of neural coding (NC2018), Torino, Italy, Sep. 2
 The 12th international workshop of neural coding, (NC2016), Cologne, Federal Republic of Germany, Sep. 2016.
 
 <h3><strong>Preprints</strong></h3>
-
+{:start="32"}
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue, CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information, arXiv:2406.14240. [\[paper\]](https://arxiv.org/abs/2406.14240)
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
