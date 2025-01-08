@@ -107,7 +107,7 @@ In Proceedings of the 56th Annual Meeting of the Association for Computational L
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara, and Sadao Kurohashi,
 "Neural Joint Model for Transition-based Chinese Syntactic Analysis,"
 In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL2017), pages 1204–1214, Vancouver, 2017.
-[\[paper\]](https://www.aclweb.org/anthology/P17-1111/).<br>
+[\[paper\]](https://www.aclweb.org/anthology/P17-1111/).
 **Selected as Out-standing Paper! (2% of submissions)**
 
 <h3><strong>Workshops</strong></h3>
