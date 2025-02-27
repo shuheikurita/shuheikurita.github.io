@@ -32,9 +32,12 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="6"}
+1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori
+Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision,
+CVPR2025. To appear.
 1. Eri Onami, Taiki Miyanishi, Koki Maeda, <u>Shuhei Kurita</u>,
 "LegalViz: Legal Text Visualization by Text To Diagram Generation,"
-Proceedings of the NAACL2025, 2025.
+Proceedings of the NAACL2025. To appear.
 [\[arXiv\]](https://arxiv.org/abs/2502.06147)
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
