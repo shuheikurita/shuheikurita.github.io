@@ -15,6 +15,7 @@ Dr. Shuhei Kurita is an assistant professor in National Institute of Informatics
 
 <p>
 Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
+*My old email of shuhei.kurita@riken.jp expired at the end of March 2025.*
 </p>
 
 ## <span style='color: green;'>News</span>
