@@ -14,8 +14,10 @@ redirect_from:
 Dr. Shuhei Kurita is an assistant professor in National Institute of Informatics. He obtained his PhD of Informatics from Kyoto University in 2019. His research interests include language modelings and visual foundation modelings, including vision, language and action modelings. He has a keen interest in developing language models with real world understandings and application to computer vision and robotics.<br>
 
 <p>
-Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
-*My old email of shuhei.kurita@riken.jp expired at the end of March 2025.*
+Contact: 
+skurita at nii.ac.jp<br>
+**My old email of shuhei.kurita@riken.jp expired at the end of March 2025.**
+<!--<img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">-->
 </p>
 
 ## <span style='color: green;'>News</span>
