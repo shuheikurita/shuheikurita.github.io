@@ -11,8 +11,7 @@ redirect_from:
 <!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
 ## <span style='color: 	navy;'>Bio</span>
-Shuhei Kurita is an assistant professor in National Institute of Informatics. His research interests include natural language processing/understanding (NLP/NLU) with machine learning approaches, deep reinforcement learning (DRL), neuroscience, and statistical/computational physics. Currently, he has a keen interest in developing models with real world understandings such as the [*vision-and-language navigation*](https://bringmeaspoon.org/) task with [a language-generation model](https://github.com/shuheikurita/glgp) and 3D world understanding such as [ScanQA](https://arxiv.org/abs/2112.10482) dataset.<br>
-He obtained a Ph.D. of Informatics (Kyoto University) in March 2019.
+Dr. Shuhei Kurita is an assistant professor in National Institute of Informatics. He obtained his PhD of Informatics from Kyoto University in 2019. His research interests include language modelings and visual foundation modelings, including vision, language and action modelings. He has a keen interest in developing language models with real world understandings and application to computer vision and robotics.<br>
 
 <p>
 Contact: <img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">
