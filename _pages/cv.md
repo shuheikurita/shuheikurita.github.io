@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [researchmap](https://researchmap.jp/shuheikurita) for latest as this page is not frequently updated.
+Also please refer to [researchmap](https://researchmap.jp/shuheikurita) for latest.<br>
 Feel free to contact me for a full cv (pdf).
 
 ## Professional experience
