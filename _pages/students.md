@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "students"
+title: "Call for students"
 excerpt: "for student candidates"
 author_profile: true
 redirect_from:
