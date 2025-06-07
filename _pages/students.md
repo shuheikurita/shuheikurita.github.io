@@ -13,6 +13,7 @@ If you are interested in our lab, please email me, including a brief explanation
 
 List of research theme: Language model applications, visual language model, vision language and action model, language and robotics, real-world understanding from language. (but not limited to these)
 
+*
 
 栗田研を志望する学生へ
 
