@@ -21,7 +21,7 @@ Feel free to contact me for a full cv (pdf).
   * with Prof. Satoshi Sekine.
 * 2020/12 - 2022/03
   * Researcher in JST PRESTO "The fundamental technologies for Trustworthy AI".
-* 2020/01 - present
+* 2020/01 - 2025/03
   * Visiting Researcher for Assoc. Prof. Kyunghyun Cho, New York University.
   * Including onsite (2020/01 - 2020/06; 2022/03 - present) and remote visiting (2020/06 - 2022/03).
   * Working for Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule (ICLR2021) and more.
