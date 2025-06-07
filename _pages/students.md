@@ -2,7 +2,6 @@
 permalink: /students
 title: "Call for students in SOKENDAI and NII"
 excerpt: "for student candidates"
-author_profile: true
 ---
 
 For possible future students in Kurita-lab,
