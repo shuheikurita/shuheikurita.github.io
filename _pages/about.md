@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Shuhei Kurita"
+title: "<span style='color: #333333;'>Shuhei Kurita</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-(ja: 栗田修平)
+<span style='color: #333333;'>(ja: 栗田修平)</span>
 <!--# Shuhei Kurita ( ja: 栗田修平 )-->
 
-## <span style='color: 	navy;'>Bio</span>
+## <span style='color: navy;'>Bio</span>
 Dr. Shuhei Kurita is an assistant professor in National Institute of Informatics. He obtained his PhD of Informatics from Kyoto University in 2019. His research interests include language modelings and visual foundation modelings, including vision, language and action modelings. He has a keen interest in developing language models with real world understandings and application to computer vision and robotics.<br>
 
 <p>
@@ -20,9 +20,9 @@ skurita at nii.ac.jp<br>
 <!--<img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">-->
 </p>
 
-## <span style='color: #e5c1cd;'>Call for students</span>
-Our lab accepts new students in the informatics course of SOKENDAI. [See this.](/students/)
-栗田研では総研大情報学コースで学生を受けいれております。[こちらをお読みください。](/students/)
+## <span style='color: #f172a3;'>Call for students</span>
+Our lab accepts new students in the informatics course of SOKENDAI. [See this](/students/)<br>
+総研大情報学コースで学生を受けいれております。[こちらをお読みください](/students/)
 
 ## <span style='color: green;'>News</span>
 
