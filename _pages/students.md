@@ -4,7 +4,6 @@ title: "Call for students in SOKENDAI and NII"
 excerpt: "for student candidates"
 author_profile: true
 redirect_from:
-  - /students/
   - /students.html
 ---
 
