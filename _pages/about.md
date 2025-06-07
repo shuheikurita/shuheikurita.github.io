@@ -22,6 +22,13 @@ skurita at nii.ac.jp<br>
 
 ## <span style='color: green;'>News</span>
 
+### 8, March, 2024
+Our paper is accepted to CVPR2025!
+Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori,
+"Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
+CVPR2025.
+[\[project\]](https://biscue5.github.io/egoscaler-project-page/)[\[arXiv\]](https://arxiv.org/abs/2506.03605)
+
 ### 30, June, 2024
 Two papers are accepted to IROS2024!<br/>
 Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto and Motoaki Kawanabe Answerability Fields: Answerable Location Estimation via Diffusion Models, IROS 2024.<br/>
