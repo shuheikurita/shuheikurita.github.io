@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  
+
   - contact: "Students"
     url: /students/
 
