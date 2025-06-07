@@ -6,7 +6,7 @@ excerpt: "for student candidates"
 
 For possible future students in Kurita-lab,
 
-Our lab accepts a few students in each year, following Japanese semester (beginning from April and October) as 5-year doctoral (PhD) programs in (the informatics course)[https://www.soken.ac.jp/en/admission/application_info/informatics/] of [SOKENDAI (The Graduate University for Advanced Studies, SOKENDAI)](https://www.soken.ac.jp/en/admission/), collaborated with [National Institute of Informatics (NII)](https://www.nii.ac.jp/graduate/en/). Master course students can join our lab as 3rd-year students in this 5-year doctoral (PhD)  program after their master course program.
+Our lab accepts a few students in each year, following Japanese semester (beginning from April and October) as 5-year doctoral (PhD) programs in [the informatics course](https://www.soken.ac.jp/en/admission/application_info/informatics/) of [SOKENDAI (The Graduate University for Advanced Studies, SOKENDAI)](https://www.soken.ac.jp/en/admission/), collaborated with [National Institute of Informatics (NII)](https://www.nii.ac.jp/graduate/en/). Master course students can join our lab as 3rd-year students in this 5-year doctoral (PhD)  program after their master course program.
 
 Shuhei Kurita can be a sub-superviser and supervise research topics related to our lab.
 If you are interested in our lab, please email me, including a brief explanation of your research interests and a CV (here any format is ok. please include your academic affiliations and careers).
