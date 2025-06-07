@@ -8,7 +8,7 @@ redirect_from:
   - /studnets.html
 ---
 
-For possible future students,
+For possible future students in Kurita-lab,
 
 Our lab accepts a few students in each year, following Japanese semester (beginning from April and October) as 5-year doctoral (PhD) programs in the informatics course of SOKENDAI (The Graduate University for Advanced Studies, SOKENDAI), collaborated with National Institute of Informatics (NII). Master course students can join our lab as 3rd-year students in this 5-year doctoral (PhD)  program after their master course program.
 
@@ -16,7 +16,7 @@ Shuhei Kurita can be a sub-superviser and supervise research topics related to o
 If you are interested in our lab, please email me, including a brief explanation of your research interests and a CV (here any format is ok. please include your academic affiliations and careers).
 
 
-当研究室を志望する学生へ
+栗田研を志望する学生へ
 
 当研究室では毎年数名の学生を受け入れています。春入学および秋入学が可能です。
 総合研究大学院大学の情報学コースにおける5年一貫制博士課程（PhD）プログラムとして、
