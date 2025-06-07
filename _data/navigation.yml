@@ -2,6 +2,9 @@
 main:
   - title: "Home"
     url: /
+  
+  - contact: "Students"
+    url: /students/
 
   - title: "Publications"
     url: /publications/
