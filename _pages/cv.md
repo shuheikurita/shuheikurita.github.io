@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Please refer to [researchmap](https://researchmap.jp/shuheikurita) for latest as this page is not frequently updated.
 Feel free to contact me for a full cv (pdf).
 
 ## Professional experience
@@ -50,22 +51,13 @@ Feel free to contact me for a full cv (pdf).
 
 ## Teaching experience
 
-- 2017/04 – 2017/09
-Physics Experiments (TA)
-Including face-to-face lectures.
-- 2016/10 – 2017/03
-Practice Course of Numerical Computations (TA)
-Including face-to-face lectures of programming languages.
-- 2016/04 – 2016/09
-Physics Experiments (TA)
-Including face-to-face lectures.
-- 2015/10 – 2016/03
-Modern Physics (TA)
-- 2014/10 – 2015/03
-Modern Physics (TA)
+- Natural Language Processing (SOKENDAI)
+- Introduction to Intelligent Systems Science I (SOKENDAI)
+- RIKEN AIP's Lecture course (University of Tokyo)
 
 ## Honors & Awards
 
+- 2024/03 - Two sponsor awards in 30th Annual Meeting of The Association for Natural Language Processing.
 - 2021/03 - Committee Member’s Special Award in the 27th Annual Meeting of The Association for Natural Language Processing.
 - 2020/03 - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
 - 2019/03 - Best paper award in the 25th Annual Meeting of The Association for Natural Language Processing.
@@ -73,9 +65,11 @@ Modern Physics (TA)
 
 ## Grants & Fellowships
 
+- JSPS Fund for CRONOS (2024.10-).
 - JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （科研費 国際共同研究強化（Ａ）） (2023.4-).
-- JSPS Grant-in-Aid for Young Scientists (科研若手) (2022.4-).
-- JST PRESTO Research Projects "The fundamental technologies for Trustworthy AI" （JSTさきがけ） (2020.12-).
+- Microsoft Accelerating AI Academic Research (2023.09-2025.04)
+- JSPS Grant-in-Aid for Young Scientists (科研若手) (2022.4-2025.3).
+- JST PRESTO Research Projects "The fundamental technologies for Trustworthy AI" （JSTさきがけ） (2020.12-2024.03).
 - JST ACT-I Research Projects Grant Acceleration Phase (2019.4-2021.3).
 - JST ACT-I Research Projects Grant (2017.10-2019.3).
 - Invited to Google NLP Summit for Ph.D students and PostDocs, Zurich, Switzerland (2017).
