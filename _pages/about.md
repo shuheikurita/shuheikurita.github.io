@@ -20,7 +20,7 @@ skurita at nii.ac.jp<br>
 <!--<img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">-->
 </p>
 
-## <span style='color: 	#fef4f4;'>Call for students</span>
+## <span style='color: #e5c1cd;'>Call for students</span>
 Our lab accepts new students in the informatics course of SOKENDAI. [See this.](/students/)
 栗田研では総研大情報学コースで学生を受けいれております。[こちらをお読みください。](/students/)
 
