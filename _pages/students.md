@@ -1,5 +1,5 @@
 ---
-permalink: /students
+permalink: /students/
 title: "Call for students in SOKENDAI and NII"
 excerpt: "for student candidates"
 ---
