@@ -65,9 +65,10 @@ Feel free to contact me for a full cv (pdf).
 
 ## Grants & Fellowships
 
-- JSPS Fund for CRONOS (2024.10-).
+- JSPS Fund for CRONOS, Co-Investigator (PI: Taisuke Kobayashi) (2024.10-).
+- Colaboration Research Grant with Toyota Motor Corporation (2024.04-).
+- Microsoft Accelerating AI Academic Research (2023.09-2025.04).
 - JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （科研費 国際共同研究強化（Ａ）） (2023.4-).
-- Microsoft Accelerating AI Academic Research (2023.09-2025.04)
 - JSPS Grant-in-Aid for Young Scientists (科研若手) (2022.4-2025.3).
 - JST PRESTO Research Projects "The fundamental technologies for Trustworthy AI" （JSTさきがけ） (2020.12-2024.03).
 - JST ACT-I Research Projects Grant Acceleration Phase (2019.4-2021.3).
