@@ -5,7 +5,7 @@ excerpt: "for student candidates"
 author_profile: true
 redirect_from:
   - /students/
-  - /studnets.html
+  - /students.html
 ---
 
 For possible future students in Kurita-lab,
