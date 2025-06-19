@@ -8,10 +8,12 @@ For possible future students in Kurita-lab,
 
 Our lab accepts a few students in each year, following Japanese semester (beginning from April and October) as 5-year doctoral (PhD) programs in [the informatics course](https://www.soken.ac.jp/en/admission/application_info/informatics/) of [SOKENDAI (The Graduate University for Advanced Studies, SOKENDAI)](https://www.soken.ac.jp/en/admission/), collaborated with [National Institute of Informatics (NII)](https://www.nii.ac.jp/graduate/en/). Master course students can join our lab as 3rd-year students in this 5-year doctoral (PhD)  program after their master course program.
 
-Shuhei Kurita can be a sub-superviser and supervise research topics related to our lab.
+Shuhei Kurita can be a sub-supervisor and supervise research topics related to our lab.
 If you are interested in our lab, please email me, including a brief explanation of your research interests and a CV (here any format is ok. please include your academic affiliations and careers).
 
-List of research theme: Language model applications, visual language model, vision language and action model, language and robotics, real-world understanding from language. (but not limited to these)
+List of research themes: Language model applications, visual language model, vision language and action model, language and robotics, real-world understanding from language, but not limited to these.
+
+Good chance to get paid as RA during studying.
 
 *
 
@@ -24,4 +26,6 @@ List of research theme: Language model applications, visual language model, visi
 栗田は副指導教員として当研究室に関連する研究テーマを指導可能です。
 当研究室に興味がある方は、簡単に研究上の興味と履歴書（ここでは形式は問いません。学歴や社会人歴などを明記してください）を添えて、メールでご連絡ください。
 
-研究テーマ一覧: 言語モデル応用, 視覚言語モデル, 視覚言語動作モデル, 言語とロボティクス, 言語からの実世界理解. (ただしこれに限りません)
+研究テーマ一覧: 言語モデル応用, 視覚言語モデル, 視覚言語動作モデル, 言語とロボティクス, 言語からの実世界理解, ただしこれに限りません.
+
+なお、在学中からRAなどとして給料を出せる可能性が高いです。
