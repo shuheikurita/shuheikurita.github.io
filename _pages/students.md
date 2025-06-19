@@ -13,7 +13,7 @@ If you are interested in our lab, please email me, including a brief explanation
 
 List of research themes: Language model applications, visual language model, vision language and action model, language and robotics, real-world understanding from language, but not limited to these.
 
-Good chance to get paid as RA during studying.
+Good chance to get paid as RA during studying depending on the research projects.
 
 *
 
@@ -28,4 +28,4 @@ Good chance to get paid as RA during studying.
 
 研究テーマ一覧: 言語モデル応用, 視覚言語モデル, 視覚言語動作モデル, 言語とロボティクス, 言語からの実世界理解, ただしこれに限りません.
 
-なお、在学中からRAなどとして給料を出せる可能性が高いです。
+なお、プロジェクトに応じて在学中からRAとして給料を出せる可能性が高いです。
