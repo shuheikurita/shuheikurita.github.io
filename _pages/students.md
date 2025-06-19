@@ -28,4 +28,4 @@ Good chance to get paid as RA during studying depending on the research projects
 
 研究テーマ一覧: 言語モデル応用, 視覚言語モデル, 視覚言語動作モデル, 言語とロボティクス, 言語からの実世界理解, ただしこれに限りません.
 
-なお、プロジェクトに応じて在学中からRAとして給料を出せる可能性が高いです。
+なお、研究プロジェクトに応じて、在学中からRAとして給料を出せる可能性が高いです。
