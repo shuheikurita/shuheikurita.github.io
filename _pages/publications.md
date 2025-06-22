@@ -32,17 +32,20 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="6"}
+1. Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, Shuhei Kurita, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada,
+"Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets",
+IROS2025. To appear.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-CVPR2025. To appear.
+Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 17370-17382, 2025. Selected as *Highlight*.
 [\[project\]](https://biscue5.github.io/egoscaler-project-page/)
 1. Eri Onami, Taiki Miyanishi, Koki Maeda, <u>Shuhei Kurita</u>,
 "LegalViz: Legal Text Visualization by Text To Diagram Generation,"
-Proceedings of the NAACL2025. To appear.
+Proceedings of the NAACL2025.
 [\[arXiv\]](https://arxiv.org/abs/2502.06147)
 1. Keito Sasagawa, Koki Maeda, Issa Sugiura, <u>Shuhei Kurita</u>, Naoaki Okazaki, Daisuke Kawahara,
 "Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model",
-NAACL2025 Demo. To appear.
+NAACL2025 Demo.
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
 Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 2024.
@@ -123,7 +126,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="28"}
+{:start="29"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
