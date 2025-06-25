@@ -37,7 +37,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 IROS2025. To appear.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 17370-17382, 2025. Selected as *Highlight*.
+Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), pages 17370-17382, 2025. Selected as *Highlight*.
 [\[project\]](https://biscue5.github.io/egoscaler-project-page/)
 1. Eri Onami, Taiki Miyanishi, Koki Maeda, <u>Shuhei Kurita</u>,
 "LegalViz: Legal Text Visualization by Text To Diagram Generation,"
@@ -48,7 +48,7 @@ Proceedings of the NAACL2025.
 NAACL2025 Demo.
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
-Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 2024.
+Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), pages 9234-9243, 2024.
 [\[arXiv\]](https://arxiv.org/abs/2407.19410)
 1. Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto and Motoaki Kawanabe,
 "Answerability Fields: Answerable Location Estimation via Diffusion Models,"
