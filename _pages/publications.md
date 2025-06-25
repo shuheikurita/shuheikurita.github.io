@@ -52,11 +52,11 @@ Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), 
 [\[arXiv\]](https://arxiv.org/abs/2407.19410)
 1. Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto and Motoaki Kawanabe,
 "Answerability Fields: Answerable Location Estimation via Diffusion Models,"
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), pages 12932-12938, 2024.
 [\[arXiv\]](https://arxiv.org/abs/2407.18497)
 1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
 "Map-based Modular Approach for Zero-shot Embodied Question Answering,"
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), pages 10013-10019, 2024.
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Taro Watanabe,
 "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models,"
