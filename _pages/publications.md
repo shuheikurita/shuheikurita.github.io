@@ -34,7 +34,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 {:start="6"}
 1. Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, <u>Shuhei Kurita</u>, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada,
 "Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets",
-IROS2025. To appear.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025). To appear.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
 Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), pages 17370-17382, 2025. Selected as *Highlight*.
