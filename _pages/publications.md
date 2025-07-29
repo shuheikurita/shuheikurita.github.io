@@ -12,6 +12,8 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
+1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori
+"Text-driven affordance learning from egocentric vision," Advanced Robotics p. 1-12, (2025. 7.) [\[paper\]](https://arxiv.org/abs/2404.02523)
 1. Kenta Gunji, Kazunori Ohno, <u>Shuhei Kurita</u>, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo, Satoshi Tadokoro,
 "Validation of LLM-Generated Object Co-Occurrence Information for Understanding Three-Dimensional Scenes," IEEE Access, Vol.12, p.186573-186585, (2024.12).
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine,
@@ -31,7 +33,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 <h3><strong>Conference Proceedings</strong></h3>
 
-{:start="6"}
+{:start=7"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue, STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models, ACM Multimedia, 2025. To appear.
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue
 "CityNav: A Large-Scale Dataset for Real-World Aerial Navigation", ICCV2025. To appear.
@@ -133,7 +135,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="33"}
+{:start="34"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
@@ -160,8 +162,6 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 <h3><strong>Preprints</strong></h3>
 
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
-1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue, CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information, arXiv:2406.14240. [\[paper\]](https://arxiv.org/abs/2406.14240)
-1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori, Text-driven Affordance Learning from Egocentric Vision, arXiv:2404.02523. [\[paper\]](https://arxiv.org/abs/2404.02523)
 2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
 
 <h3><strong>Local Conferences</strong></h3>
