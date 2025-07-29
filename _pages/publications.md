@@ -33,7 +33,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 <h3><strong>Conference Proceedings</strong></h3>
 
-{:start=7"}
+{:start="7"}
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue, STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models, ACM Multimedia, 2025. To appear.
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue
 "CityNav: A Large-Scale Dataset for Real-World Aerial Navigation", ICCV2025. To appear.
