@@ -223,6 +223,9 @@ Google NLP Summit, Zurich, Switzerland (2017 Oct.).<br/>
 <u>Shuhei Kurita</u>
 
 <h3><strong>Talks</strong></h3>
+1. テキストからの実世界知能の実現に向けて<br/>
+SUMO.ai \#01 - マルチモーダルAI技術勉強会 (2025. July) [link](https://sumo-ai.connpass.com/event/356533/) <br/>
+<u>栗田修平</u>
 1. 日本語マルチモーダル生成AIサービス ～Geminiを例に～<br/>
 【第77回】 大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」 (2024. May) <br/>
 <u>栗田修平</u>
