@@ -20,13 +20,13 @@ skurita at nii.ac.jp<br>
 <!--<img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">-->
 </p>
 
-## <span style='color: #f172a3;'>Call for students</span>
+## <span style='color: #cc0033;'>Call for students</span>
 Our lab accepts new students in the informatics course of SOKENDAI. [See this](/students/)<br>
 総研大情報学コースで学生を受けいれております。[こちらをお読みください](/students/)
 
 ## <span style='color: green;'>News</span>
 
-### 8, March, 2024
+### 8, March, 2025
 Our paper is accepted to CVPR2025!
 Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
