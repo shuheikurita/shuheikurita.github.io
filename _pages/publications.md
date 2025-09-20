@@ -161,7 +161,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 
 <h3><strong>Preprints</strong></h3>
 
-1. Prover Agent: An Agent-based Framework for Formal Mathematical Proofs, arXiv:2506.19923. [\[paper\]](https://arxiv.org/abs/2506.19923)
+1. Kaito Baba, Chaoran Liu, <u>Shuhei Kurita</u>, Akiyoshi Sannai, Prover Agent: An Agent-based Framework for Formal Mathematical Proofs, arXiv:2506.19923. [\[paper\]](https://arxiv.org/abs/2506.19923)
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
 2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
 
