@@ -161,6 +161,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 
 <h3><strong>Preprints</strong></h3>
 
+1. Prover Agent: An Agent-based Framework for Formal Mathematical Proofs, arXiv:2506.19923. [\[paper\]](https://arxiv.org/abs/2506.19923)
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
 2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
 
@@ -193,6 +194,9 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 49.	<u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto，”Minimal time length of spike trains for the inference of connectivity”，24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
 
 <h3><strong>Invited Talks</strong></h3>
+1. LLM-jpにおける大規模言語モデル研究開発と実世界応用 ～ <br/>
+エレクトロニクス部門委員会公開委員会講演 (2025 Sep. 17).<br/>
+<u>栗田修平</u>
 1. 実世界、3D、ロボティクスと言語理解 ～ 画像と言語の理解を超えて ～ <br/>
 パターン認識・メディア理解研究会（PRMU）チュートリアル講演 (2024 Nov. 29).<br/>
 <u>栗田修平</u>
