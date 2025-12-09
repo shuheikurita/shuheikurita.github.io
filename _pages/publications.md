@@ -8,8 +8,6 @@ author_profile: true
 
 <!--<br><br><strong></strong><br><br>-->
 
-
-
 <h3><strong>Journals</strong></h3>
 
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori
@@ -29,7 +27,6 @@ My contribution: Large-scale biological neural network simulation.
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
 "Neural Network-based Chinese Joint Syntactic Analysis" (in Japanese),
 Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
-
 
 <h3><strong>Conference Proceedings</strong></h3>
 
