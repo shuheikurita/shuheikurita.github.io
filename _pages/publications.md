@@ -198,6 +198,10 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 49.	<u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto，”Minimal time length of spike trains for the inference of connectivity”，24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
 
 <h3><strong>Invited Talks</strong></h3>
+1. Real-world foundation models: from Text toward Egocentric-vision, 3D and Robotics
+<br/>
+Ninth International Workshop on Symbolic-Neural Learning (SNL2025) (2025 Oct. 30).<br/>
+<u>Shuhei Kurita</u>
 1. LLM-jpにおける大規模言語モデル研究開発と実世界応用 ～ <br/>
 エレクトロニクス部門委員会公開委員会講演 (2025 Sep. 17).<br/>
 <u>栗田修平</u>
