@@ -202,7 +202,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 <br/>
 Ninth International Workshop on Symbolic-Neural Learning (SNL2025) (2025 Oct. 30).<br/>
 <u>Shuhei Kurita</u>
-1. LLM-jpにおける大規模言語モデル研究開発と実世界応用 ～ <br/>
+1. LLM-jpにおける大規模言語モデル研究開発と実世界応用 <br/>
 エレクトロニクス部門委員会公開委員会講演 (2025 Sep. 17).<br/>
 <u>栗田修平</u>
 1. 実世界、3D、ロボティクスと言語理解 ～ 画像と言語の理解を超えて ～ <br/>
