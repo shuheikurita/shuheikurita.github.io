@@ -31,16 +31,20 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="7"}
-1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue, STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models, ACM Multimedia, 2025. To appear.
+1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
+"Developing Vision-Language-Action Model from Egocentric Videos",
+2026 IEEE International Conference on Robotics & Automation (IROS2025), 2025. To appear.
+[\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
+1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue, STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models, ACM Multimedia, 2025.
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue
-"CityNav: A Large-Scale Dataset for Real-World Aerial Navigation", ICCV2025. To appear.
+"CityNav: A Large-Scale Dataset for Real-World Aerial Navigation", International Conference on Computer Vision (ICCV 2025).
 1. Kanoko Goto, Takumi Hirose, Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue
-"Referring Expression Comprehension for Small Objects", ICCV2025. To appear.
+"Referring Expression Comprehension for Small Objects", International Conference on Computer Vision (ICCV 2025).
 1. Shunsuke Yasuki, Taiki Miyanishi, Nakamasa Inoue, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Masato Taki, Yutaka Matsuo
-"GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields", ICCV2025. To appear.
+"GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields", International Conference on Computer Vision (ICCV 2025).
 1. Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, <u>Shuhei Kurita</u>, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada,
 "Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets",
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025). To appear.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025).
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
 Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), pages 17370-17382, 2025. Selected as *Highlight*.
@@ -132,7 +136,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="34"}
+{:start="35"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
