@@ -56,10 +56,10 @@ International Conference on Computer Vision (ICCV 2025), p.21231-21242, 2025.
 International Conference on Computer Vision (ICCV 2025), p.9737-9748, 2025.
 1. Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, <u>Shuhei Kurita</u>, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada,
 "Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets",
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025), 2025.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025), p.17711-17718, 2025.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), pages 17370-17382, 2025. Selected as *Highlight*.
+Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), p.17370-17382, 2025. Selected as *Highlight*.
 [\[project\]](https://biscue5.github.io/egoscaler-project-page/)
 1. Eri Onami, Taiki Miyanishi, Koki Maeda, <u>Shuhei Kurita</u>,
 "LegalViz: Legal Text Visualization by Text To Diagram Generation,"
