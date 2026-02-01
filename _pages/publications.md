@@ -10,6 +10,8 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
+1. Koki Maeda, Issa Sugiura, Yusuke Oda, Shuhei Kurita and Naoaki Okazaki,
+"Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese), Natural Language Processing (in Japan),  Vol.33,  No.2, p.XXX-XXX, (2026.6).
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori
 "Text-driven affordance learning from egocentric vision," Advanced Robotics, p.1-12, (2025.7). [\[paper\]](https://doi.org/10.1080/01691864.2025.2535676) [\[arXiv\]](https://arxiv.org/abs/2404.02523)
 1. Kenta Gunji, Kazunori Ohno, <u>Shuhei Kurita</u>, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo, Satoshi Tadokoro,
@@ -30,7 +32,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 
 <h3><strong>Conference Proceedings</strong></h3>
 
-{:start="7"}
+{:start="8"}
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Developing Vision-Language-Action Model from Egocentric Videos",
 2026 IEEE International Conference on Robotics & Automation (IROS2025), 2025. To appear.
@@ -136,7 +138,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="35"}
+{:start="36"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
