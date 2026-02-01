@@ -10,19 +10,22 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-1. Koki Maeda, Issa Sugiura, Yusuke Oda, Shuhei Kurita and Naoaki Okazaki,
-"Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese), Natural Language Processing (in Japan),  Vol.33,  No.2, p.XXX-XXX, (2026.6).
-1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori
-"Text-driven affordance learning from egocentric vision," Advanced Robotics, p.1-12, (2025.7). [\[paper\]](https://doi.org/10.1080/01691864.2025.2535676) [\[arXiv\]](https://arxiv.org/abs/2404.02523)
-1. Kenta Gunji, Kazunori Ohno, <u>Shuhei Kurita</u>, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo, Satoshi Tadokoro,
-"Validation of LLM-Generated Object Co-Occurrence Information for Understanding Three-Dimensional Scenes," IEEE Access, Vol.12, p.186573-186585, (2024.12).
+1. Koki Maeda, Issa Sugiura, Yusuke Oda, <u>Shuhei Kurita</u> and Naoaki Okazaki,
+"Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese),
+Natural Language Processing (in Japan),  Vol.33,  No.2, p.XXX-XXX, (2026.6).
+1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura and Shinsuke Mori
+"Text-driven affordance learning from egocentric vision,"
+Advanced Robotics, p.1-12, (2025.7). [\[paper\]](https://doi.org/10.1080/01691864.2025.2535676) [\[arXiv\]](https://arxiv.org/abs/2404.02523)
+1. Kenta Gunji, Kazunori Ohno, <u>Shuhei Kurita</u>, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo and Satoshi Tadokoro,
+"Validation of LLM-Generated Object Co-Occurrence Information for Understanding Three-Dimensional Scenes,"
+IEEE Access, Vol.12, p.186573-186585, (2024.12).
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine,
 "Wikipedia Link Extension and Expected Entity Rate Estimation for Training Named Entity Recognizer" (in Japanese),
 Natural Language Processing (in Japan), Vol.31,  No.3, p.1239-1291, (2024.9).
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
 "Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows" (in Japanese),
 Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
-1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto,
+1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond and Shigeru Shinomoto,
 "Reconstructing neuronal circuitry from parallel spike trains,"
 Nature Communications, Vol.10, Article number: 4468 (2019.10). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
@@ -37,7 +40,11 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 "Developing Vision-Language-Action Model from Egocentric Videos",
 2026 IEEE International Conference on Robotics & Automation (IROS2025), 2025. To appear.
 [\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
-1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue, STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models, ACM Multimedia, 2025.
+1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue,
+STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models,
+ACM Multimedia, p.4718 - 4727, 2025.
+[\[arXiv\]](https://arxiv.org/abs/2510.22571)
+[\[paper\]](https://dl.acm.org/doi/10.1145/3746027.3755565)
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo, Nakamasa Inoue
 "CityNav: A Large-Scale Dataset for Real-World Aerial Navigation", International Conference on Computer Vision (ICCV 2025).
 1. Kanoko Goto, Takumi Hirose, Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue
