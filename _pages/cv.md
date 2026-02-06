@@ -69,7 +69,8 @@ Feel free to contact me for a full cv (pdf).
 ## Grants & Fellowships
 
 - JST K-Program, Co-Investigator (PI: Takuya Maekawa) (2025.09-).
-- JSPS Fund for CRONOS, Co-Investigator (PI: Taisuke Kobayashi) (2024.10-).
+- JST BOOST (2025.09-).
+- JST CRONOS, Co-Investigator (PI: Taisuke Kobayashi) (2024.10-).
 - Colaboration Research Grant with Toyota Motor Corporation (2024.04-2026.03).
 - Microsoft Accelerating AI Academic Research (2023.09-2025.04).
 - JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （科研費 国際共同研究強化（Ａ）） (2023.4-).
