@@ -14,6 +14,8 @@ Feel free to contact me for a full cv (pdf).
 
 ## Professional experience
 
+* 2025/09 - present
+  * Specially Appointed Associate Professor, Institute of Science Tokyo.
 * 2024/04 - present
   * Assistant Professor, National institute of Informatics.
 * 2023/04 - 2024/03
@@ -57,6 +59,7 @@ Feel free to contact me for a full cv (pdf).
 
 ## Honors & Awards
 
+- 2025/03 - Two Committee Member’s Special Award in the 31th Annual Meeting of The Association for Natural Language Processing.
 - 2024/03 - Two sponsor awards in 30th Annual Meeting of The Association for Natural Language Processing.
 - 2021/03 - Committee Member’s Special Award in the 27th Annual Meeting of The Association for Natural Language Processing.
 - 2020/03 - Journal award in the 26th Annual Meeting of The Association for Natural Language Processing.
@@ -65,8 +68,9 @@ Feel free to contact me for a full cv (pdf).
 
 ## Grants & Fellowships
 
+- JST K-Program, Co-Investigator (PI: Takuya Maekawa) (2025.09-).
 - JSPS Fund for CRONOS, Co-Investigator (PI: Taisuke Kobayashi) (2024.10-).
-- Colaboration Research Grant with Toyota Motor Corporation (2024.04-).
+- Colaboration Research Grant with Toyota Motor Corporation (2024.04-2026.03).
 - Microsoft Accelerating AI Academic Research (2023.09-2025.04).
 - JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research(A)) （科研費 国際共同研究強化（Ａ）） (2023.4-).
 - JSPS Grant-in-Aid for Young Scientists (科研若手) (2022.4-2025.3).
