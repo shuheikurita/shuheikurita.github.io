@@ -28,49 +28,32 @@ Our lab accepts new students in the informatics course of SOKENDAI. [See this](/
 ## <span style='color: green;'>News</span>
 
 ### 1, February, 2026
-Our paper is accepted to ICRA2026!</br>
-Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, 
-“Developing Vision-Language-Action Model from Egocentric Videos”,
-ICRA2026.
-[\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
+Our paper is accepted to ICRA2026! <br/>
+Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, “Developing Vision-Language-Action Model from Egocentric Videos”, ICRA2026. [arXiv](https://www.arxiv.org/abs/2509.21986)
 
 ### 27, September, 2025
-Our paper is accepted to ACMMM2025!</br>
-Mahiro Ukai, Shuhei Kurita, Nakamasa Inoue, 
-"STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models",
-ACMMM2025.
-[\[paper\]](https://dl.acm.org/doi/10.1145/3746027.3755565)
+Our paper is accepted to ACMMM2025! <br/>
+Mahiro Ukai, Shuhei Kurita, Nakamasa Inoue, "STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models", ACMMM2025. [paper](https://dl.acm.org/doi/10.1145/3746027.3755565)
 
 ### 26, June, 2025
-Three papers are accepted to ICCV2025!</br>
-Kanoko Goto, Takumi Hirose, Mahiro Ukai, Shuhei Kurita, Nakamasa Inoue,
-“Referring Expression Comprehension for Small Objects”,
-[\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Goto_Referring_Expression_Comprehension_for_Small_Objects_ICCV_2025_paper.pdf).</br>
-Jungdae Lee, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo and Nakamasa Inoue,
-“CityNav: A Large-Scale Dataset for Real-World Aerial Navigation”,
-[\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_CityNav_A_Large-Scale_Dataset_for_Real-World_Aerial_Navigation_ICCV_2025_paper.pdf).</br>
-Shunsuke Yasuki, Taiki Miyanishi, Nakamasa Inoue, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Masato Taki, Yutaka Matsuo,
-“GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields”,
-[\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yasuki_GeoProg3D_Compositional_Visual_Reasoning_for_City-Scale_3D_Language_Fields_ICCV_2025_paper.pdf).</br>
+Three papers are accepted to ICCV2025! <br/>
+Kanoko Goto, Takumi Hirose, Mahiro Ukai, Shuhei Kurita, Nakamasa Inoue, “Referring Expression Comprehension for Small Objects”, [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Goto_Referring_Expression_Comprehension_for_Small_Objects_ICCV_2025_paper.pdf). <br/>
+Jungdae Lee, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo and Nakamasa Inoue, “CityNav: A Large-Scale Dataset for Real-World Aerial Navigation”, [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_CityNav_A_Large-Scale_Dataset_for_Real-World_Aerial_Navigation_ICCV_2025_paper.pdf). <br/>
+Shunsuke Yasuki, Taiki Miyanishi, Nakamasa Inoue, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Masato Taki, Yutaka Matsuo, “GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields”, [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Yasuki_GeoProg3D_Compositional_Visual_Reasoning_for_City-Scale_3D_Language_Fields_ICCV_2025_paper.pdf). 
 
 ### 17, June, 2025
-Our paper is accepted to IROS2025!<br/>
-Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, Shuhei Kurita, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada, “Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets”, IROS2025.
-[\[paper\]](https://ieeexplore.ieee.org/document/11246252).</br>
+Our paper is accepted to IROS2025! <br/>
+Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, Shuhei Kurita, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada, “Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets”, IROS2025. [paper](https://ieeexplore.ieee.org/document/11246252).
 
 ### 8, March, 2025
-Our paper is accepted to CVPR2025!</br>
-Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori,
-"Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-CVPR2025.
-[\[project\]](https://biscue5.github.io/egoscaler-project-page/)[\[arXiv\]](https://arxiv.org/abs/2506.03605)
+Our paper is accepted to CVPR2025 **Highlight**! <br/>
+Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision", CVPR2025.
+[project](https://biscue5.github.io/egoscaler-project-page/), [arXiv](https://arxiv.org/abs/2506.03605).
 
 ### 23, January, 2025
-Two papers are accepted to NAACL2025!</br>
-Eri Onami, Taiki Miyanishi, Koki Maeda, Shuhei Kurita, “LegalViz: Legal Text Visualization by Text To Diagram Generation”,
-[\[paper\]](https://aclanthology.org/2025.naacl-long.339/).</br>
-Keito Sasagawa, Koki Maeda, Issa Sugiura, Shuhei Kurita, Naoaki Okazaki, Daisuke Kawahara, “Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model”,
-[\[paper\]](https://aclanthology.org/2025.naacl-demo.38/).</br>
+Two papers are accepted to NAACL2025!<br/>
+Eri Onami, Taiki Miyanishi, Koki Maeda, Shuhei Kurita, “LegalViz: Legal Text Visualization by Text To Diagram Generation”, [paper](https://aclanthology.org/2025.naacl-long.339/). <br/>
+Keito Sasagawa, Koki Maeda, Issa Sugiura, Shuhei Kurita, Naoaki Okazaki, Daisuke Kawahara, “Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model”, [paper](https://aclanthology.org/2025.naacl-demo.38/).
 
 ### 30, June, 2024
 Two papers are accepted to IROS2024!<br/>
@@ -148,11 +131,11 @@ Thank you for Prof. Kyunghyun Cho and many NYU people, I start my co-working wit
 ### 2, Oct., 2019
 Our paper "**Reconstructing neuronal circuitry from parallel spike trains**" has been published from Nature Communications!
 Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto.<br/>
-[https://www.nature.com/articles/s41467-019-12225-2](https://www.nature.com/articles/s41467-019-12225-2)
+[paper](https://www.nature.com/articles/s41467-019-12225-2](https://www.nature.com/articles/s41467-019-12225-2)
 
 ### 14, May, 2019
 Our paper "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies," (Long)  has been accepted to ACL2019!<br/>
-[https://www.aclweb.org/anthology/P19-1232/](https://www.aclweb.org/anthology/P19-1232/)
+[paper](https://www.aclweb.org/anthology/P19-1232/](https://www.aclweb.org/anthology/P19-1232/)
 
 ### 1, April, 2019
 I received Ph.D. of Informatics from Kyoto University on March 25, 2019!
