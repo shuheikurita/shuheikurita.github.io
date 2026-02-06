@@ -38,7 +38,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 {:start="8"}
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Developing Vision-Language-Action Model from Egocentric Videos",
-2026 IEEE International Conference on Robotics & Automation (IROS2025), 2025. To appear.
+2026 IEEE International Conference on Robotics & Automation (ICRA2026), 2026. To appear.
 [\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue,
 STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models,
@@ -48,12 +48,15 @@ Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM2025), 
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo and Nakamasa Inoue,
 "CityNav: A Large-Scale Dataset for Real-World Aerial Navigation",
 International Conference on Computer Vision (ICCV 2025), p.5912-5922, 2025.
+[\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_CityNav_A_Large-Scale_Dataset_for_Real-World_Aerial_Navigation_ICCV_2025_paper.pdf)
 1. Kanoko Goto, Takumi Hirose, Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue
 "Referring Expression Comprehension for Small Objects",
 International Conference on Computer Vision (ICCV 2025), p.21231-21242, 2025.
+[\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Goto_Referring_Expression_Comprehension_for_Small_Objects_ICCV_2025_paper.pdf)
 1. Shunsuke Yasuki, Taiki Miyanishi, Nakamasa Inoue, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Masato Taki, Yutaka Matsuo
 "GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields",
 International Conference on Computer Vision (ICCV 2025), p.9737-9748, 2025.
+[\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yasuki_GeoProg3D_Compositional_Visual_Reasoning_for_City-Scale_3D_Language_Fields_ICCV_2025_paper.pdf)
 1. Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, <u>Shuhei Kurita</u>, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada,
 "Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets",
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025), p.17711-17718, 2025.
@@ -63,8 +66,8 @@ Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), p.
 [\[project\]](https://biscue5.github.io/egoscaler-project-page/)
 1. Eri Onami, Taiki Miyanishi, Koki Maeda, <u>Shuhei Kurita</u>,
 "LegalViz: Legal Text Visualization by Text To Diagram Generation,"
-Proceedings of the NAACL2025.
-[\[arXiv\]](https://arxiv.org/abs/2502.06147)
+Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL2025), p.6657–6676, 2025.
+[\[paper\]](https://aclanthology.org/2025.naacl-long.339/)
 1. Keito Sasagawa, Koki Maeda, Issa Sugiura, <u>Shuhei Kurita</u>, Naoaki Okazaki, Daisuke Kawahara,
 "Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model",
 NAACL2025 Demo.
@@ -180,38 +183,44 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 
 <h3><strong>Local Conferences</strong></h3>
 
-1. 杉浦一瑳, 栗田修平, 小田悠介, "ロススパイクの影響分析", 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
-1. 榎本倫太郎, 新妻巧朗, 栗田修平, 河原大輔, "大規模言語モデルにおける多段推論の依存構造と推論能力の関係検証", 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
-1. 笹川慶人, 前田航希, 杉浦一瑳, 栗田修平, 岡崎直観, 河原大輔, "LLM-jp-3 VILA: 日本語マルチモーダルデータセット及び強力な日本語マルチモーダルモデルの構築"， 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
-1. 前田航希, 杉浦一瑳, 小田悠介, 栗田修平, 岡崎直観, "llm-jp-eval-mm: 日本語視覚言語モデルの自動評価基盤”，言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
-1. 杉浦一瑳, 栗田修平, 小田悠介, 河原大輔, 岡崎直観, "オープンLLMによる翻訳を活用した日本語CLIPの開発”，言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
-1. 大南英理, 宮西大樹, 前田航希, 栗田修平, "多言語での判例事実概要からの法的関係性のグラフ可視化” ，言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
-1. 三好遼, 栗田修平: “Vector Quantizationに基づく離散系列の発話による分散型深層モデルの提案” ，言語処理学会第31回年次大会テーマセッション, 長崎, 2025.3.10-14.
+1. 中尾圭佑, <u>栗田修平</u>, 河原大輔, "オープンなVLMを活用した日本語マルチモーダル指示データセットの構築", 言語処理学会第32回年次大会, 宇都宮, 2026.3.9-13.
+1. 笹川慶人, <u>栗田修平</u>, 河原大輔, "マルチモーダルLLM の縦書きテキスト読み取り能力の評価", 言語処理学会第32回年次大会, 宇都宮, 2026.3.9-13.
+1. 杉浦一瑳, <u>栗田修平</u>, 小田悠介, 東中竜一郎, "Llama-Mimi: 意味・音響トークンを交互配置した音声言語モデル", 言語処理学会第32回年次大会, 宇都宮, 2026.3.9-13.
+1. 杉浦一瑳, 前田航希, <u>栗田修平</u>, 小田悠介, 河原大輔, 岡崎直観, "JAMMEval: 再アノテーションによる日本語VQA評価データセットの信頼性向上", 言語処理学会第32回年次大会, 宇都宮, 2026.3.9-13.
+1. 杉浦一瑳, <u>栗田修平</u>, 小田悠介, 河原大輔, 岡部寿男, 岡崎直観, "WAON: 視覚言語モデルのための大規模かつ高品質な日本語画像・テキスト対データセット", 言語処理学会第32回年次大会, 宇都宮, 2026.3.9-13.
+1. 榎本倫太郎, <u>栗田修平</u>, 河原大輔, "アンサンブル蒸留と学習ベース集計を用いた数学的推論プロセスの検証と性能分析", 言語処理学会第32回年次大会, 宇都宮, 2026.3.9-13.
+1. 杉浦一瑳, <u>栗田修平</u>, 小田悠介, "ロススパイクの影響分析", 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
+1. 榎本倫太郎, 新妻巧朗, <u>栗田修平</u>, 河原大輔, "大規模言語モデルにおける多段推論の依存構造と推論能力の関係検証", 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
+1. 笹川慶人, 前田航希, 杉浦一瑳, <u>栗田修平</u>, 岡崎直観, 河原大輔, "LLM-jp-3 VILA: 日本語マルチモーダルデータセット及び強力な日本語マルチモーダルモデルの構築"， 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
+1. 前田航希, 杉浦一瑳, 小田悠介, <u>栗田修平</u>, 岡崎直観, "llm-jp-eval-mm: 日本語視覚言語モデルの自動評価基盤”，言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
+1. 杉浦一瑳, <u>栗田修平</u>, 小田悠介, 河原大輔, 岡崎直観, "オープンLLMによる翻訳を活用した日本語CLIPの開発”，言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
+1. 大南英理, 宮西大樹, 前田航希, <u>栗田修平</u>, "多言語での判例事実概要からの法的関係性のグラフ可視化” ，言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
+1. 三好遼, <u>栗田修平</u>, “Vector Quantizationに基づく離散系列の発話による分散型深層モデルの提案” ，言語処理学会第31回年次大会テーマセッション, 長崎, 2025.3.10-14.
 1. 鈴木雄太, <u>栗田修平</u>, “論文の自動スクリーニングのための大規模言語モデルの応用”,第85回応用物理学会秋季学術講演会, 新潟, 2024.9.16-20.
 1. 入澤優太, 伊東聖矢, <u>栗田修平</u>, 赤坂亮太, 大西正輝, 大原剛三, 櫻田健, “LPT Dataset: 画像プライバシー認識を目的とした大規模言語モデルによるプライバシーテキストデータセットの構築” , MIRU2024, 熊本, 2024.8.6-9.
 1. 東大地, 宮西大樹, <u>栗田修平</u>, 坂本滉也, 川鍋一晃, “実世界質問応答のための拡散モデルを用いた回答可能位置の予測” , MIRU2024, 熊本, 2024.8.6-9.
 1. 西村千恵子, <u>栗田修平</u>, 関洋平，”都市環境における歩行者支援のための画像説明文生成用データセットの作成”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
 1. 大南英理, <u>栗田修平</u>, 宮西大樹, 渡辺太郎，”JDocQA: 図表を含む日本語文書質問応答データセットによる大規模言語モデルチューニング”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
-30.	王昊, <u>栗田修平</u>, 清水周一郎, 河原大輔，”SlideAVSR: 視聴覚音声認識のための論文解説動画データセット”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
-31.	Arseny Tolmachev, Masayoshi Hayashi, Takuro Niitsuma, Rintaro Enomoto, Hao Wang, <u>Shuhei Kurita</u>, Daisuke Kawahara, Kazuma Takaoka, Yoshitaka Uchida，”Uzushio: A Distributed Huge Corpus Processor for the LLM Era”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
-32.	前田航希, <u>栗田修平</u>, 宮西大樹, 岡崎直観，”視覚的文脈を利用した視覚言語モデルによる画像キャプション生成自動評価手法”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
-33.	吉田智哉, <u>栗田修平</u>, 西村太一, 森信介，”一人称視点に基づくテキスト駆動型アフォーダンス及び軌跡の学習”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
-34.	榎本倫太郎, Arseny Tolmachev, 新妻巧朗, <u>栗田修平</u>, 河原大輔，”大規模言語モデル開発における日本語 Web 文書のフィルタリング手法の検証”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
-35.	宮西大樹, 東大地, <u>栗田修平</u>, 川鍋一晃，”異なるRGB-Dスキャンを用いたデータセット横断3D言語接地”，2023年度 人工知能学会全国大会（第37回）, 熊本, 2023.6.6-9．
-36.	加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫，”ARKitSceneRefer: 3D屋内シーンでの参照表現による小物の位置特定”，言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.
-37.	前田航希, <u>栗田修平</u>, 宮西大樹，”QuIC-360◦: 360◦ 画像に対するクエリ指向画像説明文生成のためのデータセット構築”，言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.
-38.	桂尚輝, <u>栗田修平</u>, ”テキスト条件付き物体検出器と参照表現理解への応用”，第25回 画像の認識・理解シンポジウム(MIRU2022), 姫路, 2022.7.25-28.
-39.	白井圭佑, 橋本敦史, 牛久祥孝, <u>栗田修平</u>, 亀甲博貴, 森信介，”レシピ分野における動作対象の状態変化を考慮したデータセットの構築と検索モデルの提案”，言語処理学会第28回年次大会, オンライン, 2022.3.14-18.
-40.	中山功太, <u>栗田修平</u>, 小林暁雄, 馬場雪乃, 関根聡，”共有タスクへの結果提出を通した生徒モデルの共同教育手法”，言語処理学会第28回年次大会, オンライン, 2022.3.14-18.
-41.	<u>栗田修平</u>, Kyunghyun Cho，”視覚と言語によるナビゲーション課題への言語に対応付けられた生成的な方策”，言語処理学会第27回年次大会, オンライン, 2021.3.15-19.
-42.	中山功太, <u>栗田修平</u>, 馬場雪乃, 関根聡，”能動的サンプリングを用いたリソース構築共有タスクにおける予測対象データ削減”，言語処理学会第27回年次大会, オンライン, 2021.3.15-19.
-43.	中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡，”Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法”，言語処理学会第26回年次大会, オンライン, 2020.3.16-19.
-44.	Kobayashi R., <u>Kurita S.</u>, Kitano K., Mizuseki K., Richmond B.J., and Shinomoto S., ”多細胞スパイクデータからシナプス結合を推定する技術の開発”，Neuro 2019, 新潟, 2019.7.
-45.	<u>栗田修平</u>, Anders Søgaard，”深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する”，言語処理学会第25回年次大会, 名古屋, 2019.3.11-15.
-46.	Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto，”Estimating synaptic connections from parallel spike trains”, 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, Oct. 2018.
-47.	<u>栗田修平</u>, 河原大輔, 黒橋禎夫，”ニューラルネットワークに基づく単語分割・品詞付与・構文解析の統合解析”，言語処理学会第23回年次大会, つくば, 2017.3.13-17.
-48.	<u>栗田修平</u>, 小林亮太, 北野勝則, 篠本滋，”神経回路シミュレーションデータを用いた結合推定”，日本物理学会第69回年次大会, 27pAJ-13, 神奈川, 2014.3.
-49.	<u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto，”Minimal time length of spike trains for the inference of connectivity”，24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
+1.	王昊, <u>栗田修平</u>, 清水周一郎, 河原大輔，”SlideAVSR: 視聴覚音声認識のための論文解説動画データセット”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
+1.	Arseny Tolmachev, Masayoshi Hayashi, Takuro Niitsuma, Rintaro Enomoto, Hao Wang, <u>Shuhei Kurita</u>, Daisuke Kawahara, Kazuma Takaoka, Yoshitaka Uchida，”Uzushio: A Distributed Huge Corpus Processor for the LLM Era”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
+1.	前田航希, <u>栗田修平</u>, 宮西大樹, 岡崎直観，”視覚的文脈を利用した視覚言語モデルによる画像キャプション生成自動評価手法”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
+1.	吉田智哉, <u>栗田修平</u>, 西村太一, 森信介，”一人称視点に基づくテキスト駆動型アフォーダンス及び軌跡の学習”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
+1.	榎本倫太郎, Arseny Tolmachev, 新妻巧朗, <u>栗田修平</u>, 河原大輔，”大規模言語モデル開発における日本語 Web 文書のフィルタリング手法の検証”，言語処理学会第30回年次大会, 神戸, 2024.3.11-15.
+1.	宮西大樹, 東大地, <u>栗田修平</u>, 川鍋一晃，”異なるRGB-Dスキャンを用いたデータセット横断3D言語接地”，2023年度 人工知能学会全国大会（第37回）, 熊本, 2023.6.6-9．
+1.	加藤駿弥, <u>栗田修平</u>, Chenhui Chu, 黒橋禎夫，”ARKitSceneRefer: 3D屋内シーンでの参照表現による小物の位置特定”，言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.
+1.	前田航希, <u>栗田修平</u>, 宮西大樹，”QuIC-360◦: 360◦ 画像に対するクエリ指向画像説明文生成のためのデータセット構築”，言語処理学会第29回年次大会, 沖縄, 2023.3.13-17.
+1.	桂尚輝, <u>栗田修平</u>, ”テキスト条件付き物体検出器と参照表現理解への応用”，第25回 画像の認識・理解シンポジウム(MIRU2022), 姫路, 2022.7.25-28.
+1.	白井圭佑, 橋本敦史, 牛久祥孝, <u>栗田修平</u>, 亀甲博貴, 森信介，”レシピ分野における動作対象の状態変化を考慮したデータセットの構築と検索モデルの提案”，言語処理学会第28回年次大会, オンライン, 2022.3.14-18.
+1.	中山功太, <u>栗田修平</u>, 小林暁雄, 馬場雪乃, 関根聡，”共有タスクへの結果提出を通した生徒モデルの共同教育手法”，言語処理学会第28回年次大会, オンライン, 2022.3.14-18.
+1.	<u>栗田修平</u>, Kyunghyun Cho，”視覚と言語によるナビゲーション課題への言語に対応付けられた生成的な方策”，言語処理学会第27回年次大会, オンライン, 2021.3.15-19.
+1.	中山功太, <u>栗田修平</u>, 馬場雪乃, 関根聡，”能動的サンプリングを用いたリソース構築共有タスクにおける予測対象データ削減”，言語処理学会第27回年次大会, オンライン, 2021.3.15-19.
+1.	中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡，”Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法”，言語処理学会第26回年次大会, オンライン, 2020.3.16-19.
+1.	Kobayashi R., <u>Kurita S.</u>, Kitano K., Mizuseki K., Richmond B.J., and Shinomoto S., ”多細胞スパイクデータからシナプス結合を推定する技術の開発”，Neuro 2019, 新潟, 2019.7.
+1.	<u>栗田修平</u>, Anders Søgaard，”深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する”，言語処理学会第25回年次大会, 名古屋, 2019.3.11-15.
+1.	Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto，”Estimating synaptic connections from parallel spike trains”, 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, Oct. 2018.
+1.	<u>栗田修平</u>, 河原大輔, 黒橋禎夫，”ニューラルネットワークに基づく単語分割・品詞付与・構文解析の統合解析”，言語処理学会第23回年次大会, つくば, 2017.3.13-17.
+1.	<u>栗田修平</u>, 小林亮太, 北野勝則, 篠本滋，”神経回路シミュレーションデータを用いた結合推定”，日本物理学会第69回年次大会, 27pAJ-13, 神奈川, 2014.3.
+1.	<u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto，”Minimal time length of spike trains for the inference of connectivity”，24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
 
 <h3><strong>Invited Talks</strong></h3>
 1. Real-world foundation models: from Text toward Egocentric-vision, 3D and Robotics
