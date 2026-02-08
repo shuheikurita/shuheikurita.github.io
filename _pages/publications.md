@@ -42,7 +42,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 [\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
 1. Yusuke Nakamura, Hirokazu Kiyomaru, Chaoran Liu, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 "Demystifying Mixed Outcomes of Self-Training: Pre-training Analyses on Non-Toy LLMs",
-The 19th Conference of the European Chapter of the Association for Computational Linguistics, 2026, To appear. 
+The findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026 findings), 2026, To appear. 
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue,
 STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models,
 Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM2025), p.4718-4727, 2025.
