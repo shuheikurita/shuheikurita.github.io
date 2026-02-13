@@ -36,6 +36,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="8"}
+1. Keito Sasagawa, Shuhei Kurita and Daisuke Kawahara, "Evaluating Multimodal Large Language Models on Vertically Written Japanese Text", 2026 International Conference on Language Resources and Evaluation (LREC2026), 2026. To appear.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Developing Vision-Language-Action Model from Egocentric Videos",
 2026 IEEE International Conference on Robotics & Automation (ICRA2026), 2026. To appear.
@@ -154,7 +155,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="37"}
+{:start="38"}
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
 "Investigating Web Corpus Filtering Methods for Language Model Development in Japanese."
