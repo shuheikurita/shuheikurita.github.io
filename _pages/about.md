@@ -27,6 +27,10 @@ Our lab accepts new students in the informatics course of SOKENDAI. [See this](/
 
 ## <span style='color: green;'>News</span>
 
+### 21, February, 2026
+Our paper is accepted to CVPR2026! <br/>
+Daichi Yashima, Shuhei Kurita, Yusuke Oda, Komei Sugiura, “ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding”, CVPR2026. [arXiv](https://arxiv.org/abs/2602.16412)
+
 ### 1, February, 2026
 Our paper is accepted to ICRA2026! <br/>
 Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori, “Developing Vision-Language-Action Model from Egocentric Videos”, ICRA2026. [arXiv](https://www.arxiv.org/abs/2509.21986)
