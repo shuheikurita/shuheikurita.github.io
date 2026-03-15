@@ -59,6 +59,8 @@ Feel free to contact me for a full cv (pdf).
 
 ## Honors & Awards
 
+- 2026/03 - Best paper award in the 32th Annual Meeting of The Association for Natural Language Processing.
+- 2026/03 - Two Committee Member’s Special Award in the 32th Annual Meeting of The Association for Natural Language Processing.
 - 2025/03 - Two Committee Member’s Special Award in the 31th Annual Meeting of The Association for Natural Language Processing.
 - 2024/03 - Two sponsor awards in 30th Annual Meeting of The Association for Natural Language Processing.
 - 2021/03 - Committee Member’s Special Award in the 27th Annual Meeting of The Association for Natural Language Processing.
