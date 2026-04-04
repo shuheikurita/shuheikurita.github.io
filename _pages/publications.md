@@ -36,7 +36,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="8"}
-1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Shuntaro Suzuki, Seitaro Otsuki, Komei Sugiura, "ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning", 28th International Conference on Pattern Recognition (ICPR 2026), 2026.
+1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Shuntaro Suzuki, Seitaro Otsuki, Komei Sugiura, "ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning", 28th International Conference on Pattern Recognition (ICPR 2026), 2026. To appear.
 1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Komei Sugiura, "ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding", Conference on Computer Vision and Pattern Recognition 2026 (CVPR2026), 2026. To appear.
 1. Keito Sasagawa, <u>Shuhei Kurita</u>, Daisuke Kawahara, "Evaluating Multimodal Large Language Models on Vertically Written Japanese Text", 2026 International Conference on Language Resources and Evaluation (LREC2026), 2026. To appear.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
