@@ -48,46 +48,46 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 The findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026 findings), 2026, To appear. 
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue,
 STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models,
-Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM2025), p.4718-4727, 2025.
+Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM2025), p.4718-4727, Dublin, 2025.
 [\[arXiv\]](https://arxiv.org/abs/2510.22571)
 [\[paper\]](https://dl.acm.org/doi/10.1145/3746027.3755565)
 1. Jungdae Lee, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo and Nakamasa Inoue,
 "CityNav: A Large-Scale Dataset for Real-World Aerial Navigation",
-International Conference on Computer Vision (ICCV 2025), p.5912-5922, 2025.
+International Conference on Computer Vision (ICCV 2025), p.5912-5922, Honolulu, 2025.
 [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_CityNav_A_Large-Scale_Dataset_for_Real-World_Aerial_Navigation_ICCV_2025_paper.pdf)
 1. Kanoko Goto, Takumi Hirose, Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue
 "Referring Expression Comprehension for Small Objects",
-International Conference on Computer Vision (ICCV 2025), p.21231-21242, 2025.
+International Conference on Computer Vision (ICCV 2025), p.21231-21242, Honolulu, 2025.
 [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Goto_Referring_Expression_Comprehension_for_Small_Objects_ICCV_2025_paper.pdf)
 1. Shunsuke Yasuki, Taiki Miyanishi, Nakamasa Inoue, <u>Shuhei Kurita</u>, Koya Sakamoto, Daichi Azuma, Masato Taki, Yutaka Matsuo
 "GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields",
-International Conference on Computer Vision (ICCV 2025), p.9737-9748, 2025.
+International Conference on Computer Vision (ICCV 2025), p.9737-9748, Honolulu, 2025.
 [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yasuki_GeoProg3D_Compositional_Visual_Reasoning_for_City-Scale_3D_Language_Fields_ICCV_2025_paper.pdf)
 1. Yuta Irisawa, Tomoaki Yamazaki, Seiya Ito, <u>Shuhei Kurita</u>, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada,
 "Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets",
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025), p.17711-17718, 2025.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025), p.17711-17718, Hangzhou, 2025.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision",
-Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), p.17370-17382, 2025. Selected as *Highlight*.
+Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), p.17370-17382, Nashville, 2025. Selected as *Highlight*.
 [\[project\]](https://biscue5.github.io/egoscaler-project-page/)
 1. Eri Onami, Taiki Miyanishi, Koki Maeda, <u>Shuhei Kurita</u>,
 "LegalViz: Legal Text Visualization by Text To Diagram Generation,"
-Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL2025), p.6657–6676, 2025.
+Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL2025), p.6657–6676, Albuquerque, 2025.
 [\[paper\]](https://aclanthology.org/2025.naacl-long.339/)
 1. Keito Sasagawa, Koki Maeda, Issa Sugiura, <u>Shuhei Kurita</u>, Naoaki Okazaki, Daisuke Kawahara,
 "Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model",
 NAACL2025 Demo.
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Atsushi Hashimoto, Yoshitaka Ushiku and Nakamasa Inoue,
 "AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering,"
-Proceedings of the 32th ACM International Conference on Multimedia (ACMMM2024), pages 9234-9243, 2024.
+Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM2024), pages 9234-9243, Melbourne, 2024.
 [\[arXiv\]](https://arxiv.org/abs/2407.19410)
 1. Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u>, Koya Sakamoto and Motoaki Kawanabe,
 "Answerability Fields: Answerable Location Estimation via Diffusion Models,"
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), pages 12932-12938, 2024.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), pages 12932-12938, Abu Dhabi, 2024.
 [\[arXiv\]](https://arxiv.org/abs/2407.18497)
 1. Koya Sakamoto, Daichi Azuma, Taiki Miyanishi, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
 "Map-based Modular Approach for Zero-shot Embodied Question Answering,"
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), pages 10013-10019, 2024.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), pages 10013-10019, Abu Dhabi, 2024.
 [\[arXiv\]](https://arxiv.org/abs/2405.16559)
 1. Eri Onami, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Taro Watanabe,
 "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models,"
@@ -99,14 +99,14 @@ In Proceedings of the 2024 Joint International Conference on Computational Lingu
 [\[paper\]](https://aclanthology.org/2024.lrec-main.1371/)
 1. Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u> and Motoaki Kawanabe,
 "Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans,"
-International Conference on 3D Vision 2024 (3DV2024), 2024.
+International Conference on 3D Vision 2024 (3DV2024), Davos, 2024.
 [\[paper\]](https://arxiv.org/abs/2305.13876)
 1. Taiki Miyanishi, Fumiya Kitamori, <u>Shuhei Kurita</u>, Jungdae Lee, Motoaki Kawanabe and Nakamasa Inoue,
 "CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data,"
 NeurIPS2023 Datasets and Benchmarks track, New Orleans, Dec. 2023.
 [\[paper\]](https://arxiv.org/abs/2310.18773) [\[code\]](https://github.com/atr-dbi/cityrefer)
 1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, and Naoaki Okazaki.
-"Query-based Image Captioning from Multi-context 360cdegree Images,"
+"Query-based Image Captioning from Multi-context 360-degree Images,"
 In Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP2023 findings), pages 6940–6954, Singapore, 2023.
 [\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
 1. Shunya Kato, <u>Shuhei Kurita</u>, Chenhui Chu, and Sadao Kurohashi.
@@ -115,7 +115,7 @@ In Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP2
 [\[paper\]](https://aclanthology.org/2023.findings-emnlp.56/) [\[code\]](https://github.com/ku-nlp/ARKitSceneRefer)
 1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
 "RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,"
-Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023), pages 15214-15224, 2023.
+Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023), pages 15214-15224, Paris, 2023.
 [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 1. <u>Shuhei Kurita</u>, Hiroki Ouchi, Kentaro Inui, and Satoshi Sekine,
 "Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling,"
@@ -166,7 +166,7 @@ In Proceedings of the 2024 Conference of the North American Chapter of the Assoc
 1. Yutaka Nakamura, <u>Shuhei Kurita</u>, and Koichiro Yoshino.
 "Language and Robotics: Toward Building Robots Coexisting with Human Society Using Language Interface,"
 In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Tutorial Abstract (AACL-IJCNLP Tutorial), pages 1–7, Bali, 2023.
-[\[paper\]](https://aclanthology.org/2023.findings-emnlp.463/)
+[\[paper\]](https://aclanthology.org/2023.ijcnlp-tutorials.1/)
 1. <u>Shuhei Kurita</u>, Naoki Katsura and Eri Onami,
 “RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,”
 IEEE/CVF International Conference on Computer Vision Workshop on Language for 3D Scenes, Paris, 2023.
@@ -185,7 +185,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 
 1. Kaito Baba, Chaoran Liu, <u>Shuhei Kurita</u>, Akiyoshi Sannai, Prover Agent: An Agent-based Framework for Formal Mathematical Proofs, arXiv:2506.19923. [\[paper\]](https://arxiv.org/abs/2506.19923)
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
-2. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
+1. Koki Maeda, <u>Shuhei Kurita</u>, Taiki Miyanishi, Naoaki Okazaki, Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction, arXiv:2402.17969. [\[paper\]](https://arxiv.org/abs/2402.17969)
 
 <h3><strong>Local Conferences</strong></h3>
 
@@ -198,7 +198,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 1. Lee Jungdae, 宮西大樹, <u>栗田修平</u>, 坂本滉也, 東大地, 松尾豊, 井上中順, "CityNav: 都市の地理情報と言語指示に基づく空中ナビゲーションデータセット", MIRU2025, 京都, 2025.7.
 1. 入澤優太, 山崎禎晃, 伊東聖矢, <u>栗田修平</u>, 赤坂亮太, 大西正輝, 大原剛三, 櫻田健, "自動生成テキストデータセットに基づく低遅延プライバシー配慮ロボット", MIRU2025, 京都, 2025.7.
 1. 八島大地, <u>栗田修平</u>, 小田悠介, 鈴木駿太郎, 小槻誠太郎, 杉浦孔明, "深層状態空間モデルおよび双方向スキャンに基づくMultimodal LLMによる動画像理解", MIRU2025, 京都, 2025.7.
-1. 鈴木雄太, <u>栗田修平</u>, "無機材料の合成プロセス予測のための大規模言語モデルの応用", 2025年度人工知能学会全国大会（第39回）, 大阪, 2026.3.9-13
+1. 鈴木雄太, <u>栗田修平</u>, "無機材料の合成プロセス予測のための大規模言語モデルの応用", 2025年度人工知能学会全国大会（第39回）, 大阪, 2025.5.27-30.
 1. 杉浦一瑳, <u>栗田修平</u>, 小田悠介, "ロススパイクの影響分析", 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
 1. 榎本倫太郎, 新妻巧朗, <u>栗田修平</u>, 河原大輔, "大規模言語モデルにおける多段推論の依存構造と推論能力の関係検証", 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
 1. 笹川慶人, 前田航希, 杉浦一瑳, <u>栗田修平</u>, 岡崎直観, 河原大輔, "LLM-jp-3 VILA: 日本語マルチモーダルデータセット及び強力な日本語マルチモーダルモデルの構築"， 言語処理学会第31回年次大会, 長崎, 2025.3.10-14.
