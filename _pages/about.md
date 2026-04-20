@@ -17,13 +17,13 @@ He obtained his PhD of Informatics from Kyoto University in 2019. His research i
 <p>
 Contact: 
 skurita at nii.ac.jp<br>
-<i>My old email of shuhei.kurita at riken.jp <em>expired</em> at the end of March 2025.</i>
+<!-- <i>My old email of shuhei.kurita at riken.jp <em>expired</em> at the end of March 2025.</i> -->
 <!--<img src="contact.png" alt="contact.png" title="contact" width="30%" height="30%">-->
 </p>
 
 ## <span style='color: #cc0033;'>Call for students</span>
-Our lab accepts RAs in [LLMC](https://llmc.nii.ac.jp/) and new students in the informatics course of SOKENDAI. [See our lab page](https://www.vla.nii.ac.jp/)<br>
-[LLMC](https://llmc.nii.ac.jp/) RAや総研大情報学コースで学生を受けいれております。[研究室website](https://www.vla.nii.ac.jp/)
+Our lab accepts RAs in [LLMC](https://llmc.nii.ac.jp/) and new students in the informatics course of SOKENDAI. [lab](https://www.vla.nii.ac.jp/)<br>
+[LLMC](https://llmc.nii.ac.jp/) RAや総研大情報学コースで学生を受けいれております。[研究室](https://www.vla.nii.ac.jp/)
 
 ## <span style='color: green;'>News</span>
 

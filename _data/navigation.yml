@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Students"
-    url: /students/
+  - title: "Lab"
+    url: https://www.vla.nii.ac.jp/
 
   - title: "Publications"
     url: /publications/
