@@ -22,8 +22,8 @@ skurita at nii.ac.jp<br>
 </p>
 
 ## <span style='color: #cc0033;'>Call for students</span>
-Our lab accepts RAs in [LLMC](https://llmc.nii.ac.jp/) and new students in the informatics course of SOKENDAI. [lab](https://www.vla.nii.ac.jp/)<br>
-[LLMC](https://llmc.nii.ac.jp/) RAや総研大情報学コースで学生を受けいれております。[研究室](https://www.vla.nii.ac.jp/)
+Our lab accepts RAs in [LLMC](https://llmc.nii.ac.jp/) and new students in the informatics course of [SOKENDAI](https://www.soken.ac.jp/en/admission/application_info/informatics/). [For Applicants](https://www.vla.nii.ac.jp/applicants/)<br>
+[LLMC](https://llmc.nii.ac.jp/) RAや[総研大情報学コース](https://www.soken.ac.jp/admission/application_info/informatics/index.html)で学生を受けいれております。[志望者向け](https://www.vla.nii.ac.jp/applicants/)
 
 ## <span style='color: green;'>News</span>
 
