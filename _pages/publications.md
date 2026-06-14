@@ -36,16 +36,18 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="8"}
-1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Shuntaro Suzuki, Seitaro Otsuki, Komei Sugiura, "ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning", 28th International Conference on Pattern Recognition (ICPR 2026), 2026. To appear.
-1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Komei Sugiura, "ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding", Conference on Computer Vision and Pattern Recognition 2026 (CVPR2026), 2026. To appear.
-1. Keito Sasagawa, <u>Shuhei Kurita</u>, Daisuke Kawahara, "Evaluating Multimodal Large Language Models on Vertically Written Japanese Text", 2026 International Conference on Language Resources and Evaluation (LREC2026), 2026. To appear.
+1. Keito Sasagawa, <u>Shuhei Kurita</u>, Daisuke Kawahara, "Synth-JDoc: Synthesizing a Japanese Document
+Image Dataset for OCR with Diverse Layouts and Embedded Images", The 20th International Conference on Document Analysis and Recognition (ICDAR2026), Aug. 2026. To appear.
+1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Shuntaro Suzuki, Seitaro Otsuki, Komei Sugiura, "ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning", 28th International Conference on Pattern Recognition (ICPR 2026), Aug. 2026. To appear.
+1. Daichi Yashima, <u>Shuhei Kurita</u>, Yusuke Oda, Komei Sugiura, "ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding", Conference on Computer Vision and Pattern Recognition 2026 (CVPR2026), June 2026. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yashima_ReMoRa_Multimodal_Large_Language_Model_based_on_Refined_Motion_Representation_CVPR_2026_paper.pdf)
+1. Keito Sasagawa, <u>Shuhei Kurita</u>, Daisuke Kawahara, "Evaluating Multimodal Large Language Models on Vertically Written Japanese Text", 2026 International Conference on Language Resources and Evaluation (LREC2026), May 2026. [\[paper\]](https://lrec.elra.info/lrec2026-main-713) [\[arXiv\]](https://arxiv.org/abs/2511.15059) [\[github\]](https://github.com/llm-jp/eval_vertical_ja)
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Developing Vision-Language-Action Model from Egocentric Videos",
-2026 IEEE International Conference on Robotics & Automation (ICRA2026), 2026. To appear.
+2026 IEEE International Conference on Robotics & Automation (ICRA2026), May 2026.
 [\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
 1. Yusuke Nakamura, Hirokazu Kiyomaru, Chaoran Liu, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 "Demystifying Mixed Outcomes of Self-Training: Pre-training Analyses on Non-Toy LLMs",
-The findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026 findings), 2026, To appear. 
+The findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026 findings), 2026.
 1. Mahiro Ukai, <u>Shuhei Kurita</u>, Nakamasa Inoue,
 STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models,
 Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM2025), p.4718-4727, Dublin, 2025.
@@ -157,7 +159,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="40"}
+{:start="41"}
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Naoaki Okazaki, Developing Japanese CLIP Models Leveraging an Open-weight LLM for Large-scale Dataset Translation, In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 162–170, Albuquerque, 2025.
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
