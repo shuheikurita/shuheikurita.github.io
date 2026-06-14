@@ -144,7 +144,7 @@ Ninth International Conference on Learning Representations (ICLR2021), Online, M
 "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies,"
 In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL2019), pages 2420–2430, Florence, Italy, 2019.
 [\[paper\]](https://aclanthology.org/P19-1232/) [\[github\]](https://github.com/shuheikurita/semrl) [\[paper\]](https://arxiv.org/abs/1906.01239).
-1. Kobayashi R, <u>Kurita S</u>, Kitano K, Mizuseki K, Richmond B.J, Shinomoto S,
+1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto,
 "A method for estimating synaptic connections from parallel spike trains,"
 The 5th International Conference on Mathematical NeuroScience (ICMNS2019), Copenhagen, Denmark, June 2019.
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara, and Sadao Kurohashi.
@@ -232,7 +232,7 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 1.	<u>栗田修平</u>, Kyunghyun Cho，”視覚と言語によるナビゲーション課題への言語に対応付けられた生成的な方策”，言語処理学会第27回年次大会, オンライン, 2021.3.15-19.
 1.	中山功太, <u>栗田修平</u>, 馬場雪乃, 関根聡，”能動的サンプリングを用いたリソース構築共有タスクにおける予測対象データ削減”，言語処理学会第27回年次大会, オンライン, 2021.3.15-19.
 1.	中山功太, <u>栗田修平</u>, 小林暁雄, 関根聡，”Pre-Distillation Ensemble:リソース構築タスクのためのアンサンブル手法”，言語処理学会第26回年次大会, オンライン, 2020.3.16-19.
-1.	Kobayashi R., <u>Kurita S.</u>, Kitano K., Mizuseki K., Richmond B.J., and Shinomoto S., ”多細胞スパイクデータからシナプス結合を推定する技術の開発”，Neuro 2019, 新潟, 2019.7.
+1.	Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto, ”多細胞スパイクデータからシナプス結合を推定する技術の開発”，Neuro 2019, 新潟, 2019.7.
 1.	<u>栗田修平</u>, Anders Søgaard，”深層強化学習を用いた意味依存構造解析は自発的に平易優先戦略を学習する”，言語処理学会第25回年次大会, 名古屋, 2019.3.11-15.
 1.	Ryota Kobayashi, <u>Shuhei Kurita</u>, Katsunori Kitano, Kenji Mizuseki, Barry J. Richmond and Shigeru Shinomoto，”Estimating synaptic connections from parallel spike trains”, 28th Annual Conference of Japanese Neural Network Society, Oral Session, Japan, Oct. 2018.
 1.	<u>栗田修平</u>, 河原大輔, 黒橋禎夫，”ニューラルネットワークに基づく単語分割・品詞付与・構文解析の統合解析”，言語処理学会第23回年次大会, つくば, 2017.3.13-17.
