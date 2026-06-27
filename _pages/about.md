@@ -27,6 +27,17 @@ Our lab accepts RAs in [LLMC](https://llmc.nii.ac.jp/) and new students in the i
 
 ## <span style='color: green;'>News</span>
 
+### 18, June, 2026
+3 papers are accepted to ECCV2026! <br/>
+Koya Sakamoto, Taiki Miyanishi, Daichi Azuma, Shuhei Kurita, Shu Morikuni, Naoya Chiba, Motoaki Kawanabe, Yusuke Iwasawa, Yutaka Matsuo, "E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes", The 19th European Conference on Computer Vision (ECCV2026) [\[arXiv\]](https://arxiv.org/abs/2604.17969) <br/>
+Shunya Kato, Taiki Miyanishi, Shuhei Kurita, Mahiro Ukai, Nakamasa Inoue, Chenhui Chu, "LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension", The 19th European Conference on Computer Vision (ECCV2026) <br/>
+Jirong Li, Satoshi Ikehata, Shuhei Kurita, Ikuro Sato, "CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels", The 19th European Conference on Computer Vision (ECCV2026) <br/>
+
+### 17, June, 2026
+2 papers are accepted to IROS2026! <br/>
+Daichi Yashima, Koki Seno, Shuhei Kurita, Yusuke Oda, Komei Sugiura, “HiFlow: Tokenization-Free Scale-Wise Autoregressive Policy Learning via Flow Matching”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2026). [\[arXiv\]](https://arxiv.org/abs/2603.27281) <br/>
+Hisayuki Yokomizo, Taiki Miyanishi*, Gang Yan, Shuhei Kurita, Nakamasa Inoue, Yusuke Iwasawa, "PhysQuantAgent: An Inference Pipeline of Mass Estimation for Vision-Language Models", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2026). [\[arXiv\]](https://arxiv.org/abs/2603.16958)
+
 ### 21, February, 2026
 Our paper is accepted to CVPR2026! <br/>
 Daichi Yashima, Shuhei Kurita, Yusuke Oda, Komei Sugiura, “ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding”, CVPR2026. [arXiv](https://arxiv.org/abs/2602.16412)
