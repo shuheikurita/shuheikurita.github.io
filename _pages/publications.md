@@ -49,7 +49,7 @@ Image Dataset for OCR with Diverse Layouts and Embedded Images", The 20th Intern
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura, Shinsuke Mori,
 "Developing Vision-Language-Action Model from Egocentric Videos",
 2026 IEEE International Conference on Robotics & Automation (ICRA2026), May 2026.
-[\[arXiv\]](https://www.arxiv.org/abs/2509.21986)
+[\[arXiv\]](https://www.arxiv.org/abs/2509.21986)[\[project\]](https://biscue5.github.io/egovla-project-page/)
 1. Yusuke Nakamura, Hirokazu Kiyomaru, Chaoran Liu, <u>Shuhei Kurita</u>, Daisuke Kawahara,
 "Demystifying Mixed Outcomes of Self-Training: Pre-training Analyses on Non-Toy LLMs",
 The findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026 findings), 2026.
