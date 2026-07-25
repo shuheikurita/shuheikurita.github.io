@@ -36,6 +36,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="8"}
+1. Issa Sugiura, Keito Sasagawa, Keisuke Nakao, Koki Maeda, Ziqi Yin, Zhishen Yang, <u>Shuhei Kurita</u>, Yusuke Oda, Ryoko Tokuhisa, Daisuke Kawahara, Naoaki Okazaki, "Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision–Language Models", Conference on Language Modeling (COLM2026), Oct. 2026. [\[arXiv\]](https://arxiv.org/abs/2604.02048)
 1. Koya Sakamoto, Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u>, Shu Morikuni, Naoya Chiba, Motoaki Kawanabe, Yusuke Iwasawa, Yutaka Matsuo, "E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes", The 19th European Conference on Computer Vision (ECCV2026), Sep. 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17969)
 1. Shunya Kato, Taiki Miyanishi, <u>Shuhei Kurita</u>, Mahiro Ukai, Nakamasa Inoue, Chenhui Chu, "LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension", The 19th European Conference on Computer Vision (ECCV2026), Sep. 2026. To appear.
 1. Jirong Li, Satoshi Ikehata, <u>Shuhei Kurita</u>, Ikuro Sato, "CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels", The 19th European Conference on Computer Vision (ECCV2026), Sep. 2026. To appear. 
@@ -164,7 +165,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="46"}
+{:start="47"}
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Naoaki Okazaki, Developing Japanese CLIP Models Leveraging an Open-weight LLM for Large-scale Dataset Translation, In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 162–170, Albuquerque, 2025.
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
