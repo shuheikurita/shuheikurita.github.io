@@ -192,7 +192,6 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 
 <h3><strong>Preprints</strong></h3>
 
-1. Issa Sugiura, Keito Sasagawa, Keisuke Nakao, Koki Maeda, Ziqi Yin, Zhishen Yang, <u>Shuhei Kurita</u>, Yusuke Oda, Ryoko Tokuhisa, Daisuke Kawahara, Naoaki Okazaki, Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision-Language Models, arXiv:2604.02048. [\[paper\]](https://arxiv.org/abs/2604.02048)
 1. Issa Sugiura, Koki Maeda, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Naoaki Okazaki, JAMMEval: A Refined Collection of Japanese Benchmarks for Reliable VLM Evaluation, arXiv:2604.00909. [\[paper\]](https://arxiv.org/abs/2604.00909)
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Yasuo Okabe, Naoaki Okazaki, WAON: Large-Scale and High-Quality Japanese Image-Text Pair Dataset for Vision-Language Models, arXiv:2510.22276. [\[paper\]](https://arxiv.org/abs/2510.22276) 
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Ryuichiro Higashinaka, Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens, arXiv:2509.14882. [\[paper\]](https://arxiv.org/abs/2509.14882)
