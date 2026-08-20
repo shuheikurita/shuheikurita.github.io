@@ -10,10 +10,10 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-1. Haruka Miyoshi, Shuhei Kurita, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention", Advanced Robotics, To Appear.
+1. Haruka Miyoshi, <u>Shuhei Kurita</u>, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention", Advanced Robotics, To Appear.
 1. Koki Maeda, Issa Sugiura, Yusuke Oda, <u>Shuhei Kurita</u> and Naoaki Okazaki,
 "Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese),
-Natural Language Processing (in Japan),  Vol.33,  No.2, p.XXX-XXX, (2026.6).
+Natural Language Processing (in Japan),  Vol.33,  No.2, p.509--536, (2026.6).
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura and Shinsuke Mori
 "Text-driven affordance learning from egocentric vision,"
 Advanced Robotics, p.1-12, (2025.7). [\[paper\]](https://doi.org/10.1080/01691864.2025.2535676) [\[arXiv\]](https://arxiv.org/abs/2404.02523)
