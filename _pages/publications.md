@@ -10,29 +10,30 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-1. Haruka Miyoshi, <u>Shuhei Kurita</u>, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention", Advanced Robotics, To Appear.
+1. Haruka Miyoshi, <u>Shuhei Kurita</u>, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention," Advanced Robotics, 2026. To Appear.
+1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura and Shinsuke Mori, "一人称視点における動作記述からの6自由度物体操作軌道の生成", Transactions of the Japanese Society for Artificial Intelligence, 2026. To appear.
 1. Koki Maeda, Issa Sugiura, Yusuke Oda, <u>Shuhei Kurita</u> and Naoaki Okazaki,
 "Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese),
-Natural Language Processing (in Japan),  Vol.33,  No.2, p.509--536, (2026.6).
+Natural Language Processing (in Japan),  Vol.33,  No.2, p.509--536, June 2026.
 1. Tomoya Yoshida, <u>Shuhei Kurita</u>, Taichi Nishimura and Shinsuke Mori
 "Text-driven affordance learning from egocentric vision,"
-Advanced Robotics, p.1-12, (2025.7). [\[paper\]](https://doi.org/10.1080/01691864.2025.2535676) [\[arXiv\]](https://arxiv.org/abs/2404.02523)
+Advanced Robotics, p.1-12, July 2025. [\[paper\]](https://doi.org/10.1080/01691864.2025.2535676) [\[arXiv\]](https://arxiv.org/abs/2404.02523)
 1. Kenta Gunji, Kazunori Ohno, <u>Shuhei Kurita</u>, Ken Sakurada, Ranulfo Bezerra, Shotaro Kojima, Yoshito Okada, Masashi Konyo and Satoshi Tadokoro,
 "Validation of LLM-Generated Object Co-Occurrence Information for Understanding Three-Dimensional Scenes,"
-IEEE Access, Vol.12, p.186573-186585, (2024.12).
+IEEE Access, Vol.12, p.186573-186585, Dec. 2024.
 1. Kouta Nakayama, <u>Shuhei Kurita</u>, Yukino Baba and Satoshi Sekine,
 "Wikipedia Link Extension and Expected Entity Rate Estimation for Training Named Entity Recognizer" (in Japanese),
-Natural Language Processing (in Japan), Vol.31,  No.3, p.1239-1291, (2024.9).
+Natural Language Processing (in Japan), Vol.31,  No.3, p.1239-1291, Sept. 2024.
 1. Keisuke Shirai, Atsushi Hashimoto, Taichi Nishimura, Hirotaka Kameko, <u>Shuhei Kurita</u>, Shinsuke Mori,
 "Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows" (in Japanese),
-Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, (2023.9).
+Natural Language Processing (in Japan), Vol.30,  No.3, p.1042-1060, Sept. 2023.
 1. Ryota Kobayashi, <u>Shuhei Kurita</u>, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond and Shigeru Shinomoto,
 "Reconstructing neuronal circuitry from parallel spike trains,"
-Nature Communications, Vol.10, Article number: 4468 (2019.10). [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
+Nature Communications, Vol.10, Article number: 4468 Oct. 2019. [\[paper\]](https://www.nature.com/articles/s41467-019-12225-2).<br/>
 My contribution: Large-scale biological neural network simulation.
 1. <u>Shuhei Kurita</u>, Daisuke Kawahara and Sadao Kurohashi,
 "Neural Network-based Chinese Joint Syntactic Analysis" (in Japanese),
-Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, (2019.3).
+Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, Mar. 2019.
 
 <h3><strong>Conference Proceedings</strong></h3>
 
