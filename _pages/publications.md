@@ -37,6 +37,8 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, Mar. 2019.
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="9"}
+1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Naoaki Okazaki, "HakushoBench: A Japanese Chart and Table VQA Benchmark from Governmental White Papers", The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP2026 Findings), Nov. 2026. To Appear.
+1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Yasuo Okabe, Naoaki Okazaki, "WAON: Large-Scale and High-Quality Japanese Image-Text Pair Dataset for Vision-Language Models", The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP2026 Findings), Nov. 2026. [\[paper\]](https://arxiv.org/abs/2510.22276)
 1. Issa Sugiura, Keito Sasagawa, Keisuke Nakao, Koki Maeda, Ziqi Yin, Zhishen Yang, <u>Shuhei Kurita</u>, Yusuke Oda, Ryoko Tokuhisa, Daisuke Kawahara, Naoaki Okazaki, "Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision–Language Models", Conference on Language Modeling (COLM2026), Oct. 2026. [\[arXiv\]](https://arxiv.org/abs/2604.02048)
 1. Koya Sakamoto, Taiki Miyanishi, Daichi Azuma, <u>Shuhei Kurita</u>, Shu Morikuni, Naoya Chiba, Motoaki Kawanabe, Yusuke Iwasawa, Yutaka Matsuo, "E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes", The 19th European Conference on Computer Vision (ECCV2026), Sep. 2026.  To appear. [\[arXiv\]](https://arxiv.org/abs/2604.17969)
 1. Shunya Kato, Taiki Miyanishi, <u>Shuhei Kurita</u>, Mahiro Ukai, Nakamasa Inoue, Chenhui Chu, "LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension", The 19th European Conference on Computer Vision (ECCV2026), Sep. 2026. To appear.
@@ -166,7 +168,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="48"}
+{:start="50"}
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Naoaki Okazaki, Developing Japanese CLIP Models Leveraging an Open-weight LLM for Large-scale Dataset Translation, In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 162–170, Albuquerque, 2025.
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
@@ -194,7 +196,6 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 <h3><strong>Preprints</strong></h3>
 
 1. Issa Sugiura, Koki Maeda, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Naoaki Okazaki, JAMMEval: A Refined Collection of Japanese Benchmarks for Reliable VLM Evaluation, arXiv:2604.00909. [\[paper\]](https://arxiv.org/abs/2604.00909)
-1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Yasuo Okabe, Naoaki Okazaki, WAON: Large-Scale and High-Quality Japanese Image-Text Pair Dataset for Vision-Language Models, arXiv:2510.22276. [\[paper\]](https://arxiv.org/abs/2510.22276) 
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Ryuichiro Higashinaka, Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens, arXiv:2509.14882. [\[paper\]](https://arxiv.org/abs/2509.14882)
 1. Kaito Baba, Chaoran Liu, <u>Shuhei Kurita</u>, Akiyoshi Sannai, Prover Agent: An Agent-based Framework for Formal Mathematical Proofs, arXiv:2506.19923. [\[paper\]](https://arxiv.org/abs/2506.19923)
 1. LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs, arXiv:2407.03963. [\[paper\]](https://arxiv.org/abs/2407.03963)
