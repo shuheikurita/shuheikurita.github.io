@@ -10,7 +10,7 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-1. Haruka Miyoshi, <u>Shuhei Kurita</u>, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention," Advanced Robotics, 2026. To Appear.
+1. Haruka Miyoshi, <u>Shuhei Kurita</u>, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention," Advanced Robotics, Sep. 2026. [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/01691864.2026.2726690)
 1. Koki Maeda, Issa Sugiura, Yusuke Oda, <u>Shuhei Kurita</u> and Naoaki Okazaki,
 "Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese),
 Natural Language Processing (in Japan),  Vol.33,  No.2, p.509--536, June 2026.
