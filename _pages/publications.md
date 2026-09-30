@@ -10,7 +10,7 @@ author_profile: true
 
 <h3><strong>Journals</strong></h3>
 
-1. Kento Kawaharazuka, Shunki Itadera, Kohei Honda, Takato Horii, Asako Kanezaki, Taisuke Kobayashi, Kenji Koide, Shuhei Kurita, Koshi Makihara, Kazuki Miyazawa, 	Masaki Murooka, Yuki Onishi, Satoshi Yagi, Satoshi Yamamori, “From Instruction to Inheritance: Scaling Robot Learning Through Knowledge Circulation,” Advanced Intelligent Systems, e70564, Sep. 2026.
+1. Kento Kawaharazuka, Shunki Itadera, Kohei Honda, Takato Horii, Asako Kanezaki, Taisuke Kobayashi, Kenji Koide, <u>Shuhei Kurita</u>, Koshi Makihara, Kazuki Miyazawa, 	Masaki Murooka, Yuki Onishi, Satoshi Yagi, Satoshi Yamamori, “From Instruction to Inheritance: Scaling Robot Learning Through Knowledge Circulation,” Advanced Intelligent Systems, e70564, Sep. 2026.
 2. Haruka Miyoshi, <u>Shuhei Kurita</u>, "Hybrid-ACT: Scaling Robot Imitation Learning under Few-Demonstration Settings with Vector-Quantized Cross-Attention," Advanced Robotics, Sep. 2026. [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/01691864.2026.2726690)
 1. Koki Maeda, Issa Sugiura, Yusuke Oda, <u>Shuhei Kurita</u> and Naoaki Okazaki,
 "Cross-Task Evaluation and Empirical Analysis of Japanese Visual Language Models" (in Japanese),
