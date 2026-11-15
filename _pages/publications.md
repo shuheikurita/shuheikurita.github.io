@@ -286,6 +286,9 @@ Google NLP Summit, Zurich, Switzerland (2017 Oct.).<br/>
 <u>Shuhei Kurita</u>
 
 <h3><strong>Talks</strong></h3>
+1. Physical AI: 物理世界で知覚し推論し動作する手法の類型と展望<br/>
+IBIS2026 Tutorial (2026. October) [link](https://ibisml.org/ibis2026/tutorial/#session1) <br/>
+<u>栗田修平</u>
 1. テキストからの実世界知能の実現に向けて<br/>
 SUMO.ai \#01 - マルチモーダルAI技術勉強会 (2025. July) [link](https://sumo-ai.connpass.com/event/356533/) <br/>
 <u>栗田修平</u>
