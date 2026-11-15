@@ -263,10 +263,10 @@ Ninth International Workshop on Symbolic-Neural Learning (SNL2025) (2025 Oct. 30
 パターン認識・メディア理解研究会（PRMU）チュートリアル講演 (2024 Nov. 29).<br/>
 <u>栗田修平</u>
 1. テキストからの実世界理解に向けて <br/>
-第26回情報論的学習理論ワークショップ (2023 Oct. 29).<br/>
+第26回情報論的学習理論ワークショップ(IBIS2023) Organized Workshop "Vision and Languageの最前線" (2023 Oct. 29) [\[link\]](https://ibisml.org/ibis2023/os/#os1)<br/>
 <u>栗田修平</u>
 1. 実世界を認識して動作するための言語理解技術<br/>
-NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug 31). [\[link\]](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
+NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug. 31). [\[link\]](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
 <u>栗田修平</u>
 1. 自然言語処理に用いられる深層学習 \- 基礎から大規模言語モデルと応用までを解説 \- <br/>
 ロボット工学セミナー (2023 June 9). [\[link\]](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
