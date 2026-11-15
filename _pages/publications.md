@@ -287,14 +287,14 @@ Google NLP Summit, Zurich, Switzerland (2017 Oct.).<br/>
 
 <h3><strong>Talks</strong></h3>
 1. Physical AI: 物理世界で知覚し推論し動作する手法の類型と展望<br/>
-IBIS2026 Tutorial (2026. October) [link](https://ibisml.org/ibis2026/tutorial/#session1) <br/>
+第29回情報論的学習理論ワークショップ(IBIS2026) Tutorial (2026. October) [\[link\]](https://ibisml.org/ibis2026/tutorial/#session1) <br/>
 <u>栗田修平</u>
 1. テキストからの実世界知能の実現に向けて<br/>
-SUMO.ai \#01 - マルチモーダルAI技術勉強会 (2025. July) [link](https://sumo-ai.connpass.com/event/356533/) <br/>
+SUMO.ai \#01 - マルチモーダルAI技術勉強会 (2025. July) [\[link\]](https://sumo-ai.connpass.com/event/356533/) <br/>
 <u>栗田修平</u>
 1. 日本語マルチモーダル生成AIサービス ～Geminiを例に～<br/>
 【第77回】 大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」 (2024. May) <br/>
 <u>栗田修平</u>
 1. 実世界にグラウンドされた自然言語理解のこれまでとこれから<br/>
-第7回Language and Robotics研究会 (2022. Oct.) [link](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
+第7回Language and Robotics研究会 (2022. Oct.) [\[link\]](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
 <u>栗田修平</u>
