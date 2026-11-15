@@ -249,6 +249,9 @@ The 12th international workshop of neural coding, (NC2016), Cologne, Federal Rep
 1.	<u>Shuhei Kurita</u>, Yuzuru Yamanaka, Ryota Kobayashi, Katsunori Kitano and Shigeru Shinomoto，”Minimal time length of spike trains for the inference of connectivity”，24th Annual Conference of Japanese Neural Network Society, Oral and Poster Session 2 P2-08, Hakodate, Japan, Aug. 2014.
 
 <h3><strong>Invited Talks</strong></h3>
+1. Physical AI: 物理世界で知覚し推論し動作する手法の類型と展望<br/>
+第29回情報論的学習理論ワークショップ(IBIS2026) Tutorial (2026 Oct. 26) [\[link\]](https://ibisml.org/ibis2026/tutorial/#session1) <br/>
+<u>栗田修平</u>
 1. Real-world foundation models: from Text toward Egocentric-vision, 3D and Robotics
 <br/>
 Ninth International Workshop on Symbolic-Neural Learning (SNL2025) (2025 Oct. 30).<br/>
@@ -263,13 +266,13 @@ Ninth International Workshop on Symbolic-Neural Learning (SNL2025) (2025 Oct. 30
 第26回情報論的学習理論ワークショップ (2023 Oct. 29).<br/>
 <u>栗田修平</u>
 1. 実世界を認識して動作するための言語理解技術<br/>
-NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug 31). [link](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
+NLP若手の会 (YANS) 第18回シンポジウム 招待セッション (2023 Aug 31). [\[link\]](https://yans.anlp.jp/entry/yans2023invitesession)<br/>
 <u>栗田修平</u>
 1. 自然言語処理に用いられる深層学習 \- 基礎から大規模言語モデルと応用までを解説 \- <br/>
-ロボット工学セミナー (2023 June 9). [link](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
+ロボット工学セミナー (2023 June 9). [\[link\]](https://www.rsj.or.jp/event/seminar/news/2023/s146.html)<br/>
 <u>栗田修平</u>
 1. 実世界を認識して動作するための言語理解技術<br/>
-データ工学ロボティクスとNEDO特別講座共催講演会 (2023 Mar. 29). [link](http://dataengineeringrobotics.org/?p=229)<br/>
+データ工学ロボティクスとNEDO特別講座共催講演会 (2023 Mar. 29). [\[link\]](http://dataengineeringrobotics.org/?p=229)<br/>
 <u>栗田修平</u>
 1. ScanQA: 3D Question Answering for Spatial Scene Understanding<br/>
 MIRU2022 (2022 July 27). <br/>
@@ -286,9 +289,6 @@ Google NLP Summit, Zurich, Switzerland (2017 Oct.).<br/>
 <u>Shuhei Kurita</u>
 
 <h3><strong>Talks</strong></h3>
-1. Physical AI: 物理世界で知覚し推論し動作する手法の類型と展望<br/>
-第29回情報論的学習理論ワークショップ(IBIS2026) Tutorial (2026. October) [\[link\]](https://ibisml.org/ibis2026/tutorial/#session1) <br/>
-<u>栗田修平</u>
 1. テキストからの実世界知能の実現に向けて<br/>
 SUMO.ai \#01 - マルチモーダルAI技術勉強会 (2025. July) [\[link\]](https://sumo-ai.connpass.com/event/356533/) <br/>
 <u>栗田修平</u>
@@ -296,5 +296,5 @@ SUMO.ai \#01 - マルチモーダルAI技術勉強会 (2025. July) [\[link\]](ht
 【第77回】 大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」 (2024. May) <br/>
 <u>栗田修平</u>
 1. 実世界にグラウンドされた自然言語理解のこれまでとこれから<br/>
-第7回Language and Robotics研究会 (2022. Oct.) [\[link\]](https://langrobo.connpass.com/event/254696/) [slide](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
+第7回Language and Robotics研究会 (2022. Oct.) [\[link\]](https://langrobo.connpass.com/event/254696/) [\[slide\]](http://lotus.kuee.kyoto-u.ac.jp/~kurita/LangRobo_kurita_202208.pdf) <br/>
 <u>栗田修平</u>
