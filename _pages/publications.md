@@ -39,6 +39,7 @@ Natural Language Processing (in Japan),  Vol.26,  No.1, p.231-258, Mar. 2019.
 <h3><strong>Conference Proceedings</strong></h3>
 
 {:start="11"}
+1. Fumihiko Tsuchiya, Taiki Miyanishi, Shunsuke Yasuki, Mahiro Ukai, Nakamasa Inoue, <u>Shuhei Kurita</u>, Yusuke Iwasawa, Yutaka Matsuo, "Diagnosing Long-Video Quantitative Reasoning in Multimodal LLMs via Enumeration and Counting", The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV2027), Jan. 2027, To Appear.
 1. Daichi Yashima, Yusuke Takagi, Koki Seno, Rui Suzuki, Kirato Sakata, <u>Shuhei Kurita</u>, Komei Sugiura, "MoFlo: Language-Conditioned Flow Matching for Policy Mobilization", 10th Annual Conference on Robot Learning (CoRL2026), Nov. 2026. To Appear.
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Naoaki Okazaki, "HakushoBench: A Japanese Chart and Table VQA Benchmark from Governmental White Papers", The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP2026 Findings), Nov. 2026. To Appear.
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Yasuo Okabe, Naoaki Okazaki, "WAON: Large-Scale and High-Quality Japanese Image-Text Pair Dataset for Vision-Language Models", The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP2026 Findings), Nov. 2026. [\[paper\]](https://arxiv.org/abs/2510.22276)
@@ -170,7 +171,7 @@ In Proceedings of the 55th Annual Meeting of the Association for Computational L
 
 <h3><strong>Workshops</strong></h3>
 
-{:start="53"}
+{:start="54"}
 1. Issa Sugiura, <u>Shuhei Kurita</u>, Yusuke Oda, Daisuke Kawahara, Naoaki Okazaki, Developing Japanese CLIP Models Leveraging an Open-weight LLM for Large-scale Dataset Translation, In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), pages 162–170, Albuquerque, 2025.
 1. Hao Wang, <u>Shuhei Kurita</u>, Shuichiro Shimizu, Daisuke Kawahara, SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition, 3rd Workshop on Advances in Language and Vision Research (ALVR) in ACL2024. [\[paper\]](https://arxiv.org/abs/2401.09759)
 1. Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, <u>Shuhei Kurita</u>, and Daisuke Kawahara,
